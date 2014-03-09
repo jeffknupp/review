@@ -1,10 +1,9 @@
 from flaskext.bcrypt import Bcrypt
 import models
-from review import app
 from slugify import slugify
 
-session = models.db.session
-bcrypt = Bcrypt(app)
+from review import app, bcrypt
+
 def create_project():
     """Create a new project."""
     project = models.Project(
@@ -25,8 +24,8 @@ def create_user():
             user_name='jeffknupp',
             password=bcrypt.generate_password_hash('jeffknupp')
             )
-    session.add(user)
-    session.commit()
+    models.db.session.add(user)
+    models.db.session.commit()
     return user
 
 def create_review(project):
@@ -35,8 +34,8 @@ def create_review(project):
             author='Jeff Knupp',
             content='Sandman rules!',
             project=project)
-    session.add(review)
-    session.commit()
+    models.db.session.add(review)
+    models.db.session.commit()
 
 def main():
     """Main entry point for script."""

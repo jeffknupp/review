@@ -25,8 +25,7 @@ class Review(db.Model):
 
 class User(db.Model):
     __tablename__ = 'user'
-    id = db.Column(db.Integer, primary_key=True)
-    email = db.Column(db.String)
+    email = db.Column(db.String, primary_key=True)
     user_name = db.Column(db.String)
     authenticated = db.Column(db.Boolean, default=False)
     password = db.Column(db.String)
@@ -41,7 +40,7 @@ class User(db.Model):
         return False
 
     def get_id(self):
-        return self.id
+        return self.email
     
 class Vote(db.Model):
     __tablename__ = 'vote'
@@ -49,7 +48,7 @@ class Vote(db.Model):
     review_id = db.Column(db.Integer, db.ForeignKey(Review.id))
     review = db.relationship('Review', backref=db.backref('votes'))
     votes = db.Column(db.Integer)
-    user_id = db.Column(db.Integer, db.ForeignKey(User.id))
+    user_email = db.Column(db.String, db.ForeignKey(User.email))
     user = db.relationship('User')
 
 

@@ -7,12 +7,12 @@ from slugify import slugify
 
 from review.models import db, Review, Project, User
 from review.forms import LoginForm
-from review import app, login_manager
+from review import app, bcrypt, login_manager
 
 @login_manager.user_loader
-def load_user(user_id):
+def load_user(email):
     """Return a the user object with id=*user_id*."""
-    return db.session.query(User).get(user_id)
+    return db.session.query(User).get(email)
 
 @app.route("/login", methods=["GET", "POST"])
 def login():
@@ -20,12 +20,14 @@ def login():
     form = LoginForm()
     if request.method == 'POST':
         if form.validate_on_submit():
-            if login_user(current_user):
-                user.authenticated = True
-                db.session.add(user)
-                db.session.commit()
-                flash('Logged in successfully.')
-                return redirect(request.args.get('next') or '/')
+            user = User.query.get(form.email.data)
+            print user
+            if user and bcrypt.check_password_hash(user.password, form.password.data):
+                if login_user(user):
+                    user.authenticated = True
+                    db.session.add(user)
+                    db.session.commit()
+                    return redirect(request.args.get('next') or '/')
         flash('Invalid username or password')
     return render_template('login.html', form=form)
 
@@ -35,8 +37,13 @@ def review_list():
     reviews = db.session.query(Review).all()
     return render_template('list.html', reviews=reviews)
 
+@app.route('/profile')
+def profile():
+    """Display a list of reviews."""
+    return render_template('profile.html')
+
 @app.route('/reviews/<review_slug>/<review_id>/')
-def review_details(_, review_id):
+def review_details(review_slug, review_id):
     """Show the details for a single review."""
     review = db.session.query(Review).get(int(review_id))
     return render_template('detail.html', review=review)
@@ -47,10 +54,10 @@ def logout():
     """Logout the currently logged-in user.
     
     TODO: make this POST only."""
-    logout_user()
-    user.authenticated = False
-    db.session.add(user)
+    current_user.authenticated = False
+    db.session.add(current_user)
     db.session.commit()
+    logout_user()
     return redirect('/')
 
 @app.route('/upload', methods=['GET', 'POST'])

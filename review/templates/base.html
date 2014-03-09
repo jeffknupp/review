@@ -39,6 +39,16 @@
         <ul class="nav navbar-nav navbar-left">
             <li><a href="/">Reviews</a></li>
         </ul>
+        {% if not current_user.is_authenticated() %}
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/login">Log In</a></li>
+        {% else %}
+        <ul class="nav navbar-nav navbar-right">
+            <li><a href="/profile">{{ current_user.email }}</a></li>
+            <li><a href="/logout">Logout</a></li>
+        </ul>
+        {% endif %}
+
     </nav>
     {% block body %}
         <div class="container">
