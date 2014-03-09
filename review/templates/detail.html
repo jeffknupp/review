@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Single Review</h1>
+    <ul class="list-unstyled">
+            <li>
+                <h2 class="text-center">{{ review.project.name }}</h2>
+                <p>An open source project by <strong>{{ review.project.author }}</strong>.</p>
+                <h5>Link to source: <a href="{{ review.project.source }}"> {{ review.project.source }}</a></h5>
+                <h5>Link to documentation: <a href="{{ review.project.documentation }}"> {{ review.project.documentation }}</a></h5>
+                <hr/>
+                <p>{{ review.content|safe}}</p>
+            </li>
+    </ul>
+{% endblock content %}
+

@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+<style>
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 999px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+</style>
+<form class="form" action="/upload" method="post" enctype="multipart/form-data" role="form">
+    <div class="form-group">
+        <label for="project-name">Project Name</label>
+        <input class="form-control" name="project-name" id="project-name"></input>
+        <label for="project-author">Project Author</label>
+        <input class="form-control" name="project-author" id="project-author"></input>
+        <label for="project-source">Project Source</label>
+        <input class="form-control" name="project-source" id="project-source"></input>
+        <label for="project-documentation">Project Documentation</label>
+        <input class="form-control" name="project-documentation" id="project-documentation"></input>
+        <label for="project-description">Project Description</label>
+        <input class="form-control" name="project-description" id="project-description"></input>
+        <label for="file">Upload review file</label>
+            <p><span class="btn btn-default btn-file">
+            Browse <input type="file" name="file">
+        </span></p>        
+        <button type="submit" class="btn btn-success">Upload</button>
+    </div>
+</form>
+{% endblock content %}
