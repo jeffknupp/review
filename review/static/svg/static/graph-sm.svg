@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="graph" class="iconic iconic-graph iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Graph</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="12" transform="translate(0 2)">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-graph-chart iconic-property-stroke" fill="none" d="M1.5 6.5l2.5-2.5 2 2 3-3 2 2 3.5-3.5" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-graph-axis iconic-property-accent iconic-property-stroke" fill="none" d="M.5 11.5h15" />
+  </g>
+</svg>

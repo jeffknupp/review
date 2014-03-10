@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="data-transfer-download" width="16" height="16" class="iconic iconic-data-transfer iconic-size-sm iconic-data-transfer-download" viewBox="0 0 16 16">
+  <g>
+    <title>Data Transfer Download</title>
+  </g>
+  <g data-width="14" data-height="16" class="iconic-container iconic-download" transform="scale(1 1 ) translate(1 ) ">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-download-bar iconic-property-accent iconic-property-stroke" d="M1 15h12" fill="none"></path>
+    <path class="iconic-download-arrow iconic-property-fill" d="M9 7v-7h-4v7h-3l5 5 5-5z"></path>
+  </g>
+</svg>

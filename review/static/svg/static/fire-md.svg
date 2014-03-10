@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="fire" class="iconic iconic-fire iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Fire</title>
+  </g>
+  <g class="iconic-container" data-width="26" data-height="32" transform="translate(3)">
+    <path d="M8 0s8 4 8 12-11.9 12.1-8 20c0 0-8-4-8-12s12-12 8-20z" class="iconic-fire-flame iconic-fire-flame-large iconic-property-fill" />
+    <path d="M11 32c-.6-.3-1-1-1-2 0-8 12-12 8-20 0 0 8 4 8 12 0 3.5-2.3 6.3-4.6 9-.3.3-.9 1-2.4 1h-8z" class="iconic-fire-flame iconic-fire-flame-small iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

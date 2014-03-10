@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="media-record" width="16" height="16" class="iconic iconic-media iconic-size-sm iconic-media-record" viewBox="0 0 16 16">
+  <g>
+    <title>Media Record</title>
+  </g>
+  <g data-width="8" data-height="8" class="iconic-container iconic-media-record" transform="scale(1 1 ) translate(4 4 ) ">
+    <circle cx="4" cy="4" r="4" class="iconic-property-fill"></circle>
+  </g>
+</svg>

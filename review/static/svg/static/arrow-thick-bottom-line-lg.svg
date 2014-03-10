@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-thick-bottom-line" width="128" height="128" class="iconic iconic-arrow-thick iconic-size-lg iconic-arrow-thick-bottom-line" viewBox="0 0 128 128">
+  <g>
+    <title>Arrow Thick Bottom Line</title>
+  </g>
+  <g data-width="53" data-height="128" data-default-max-height="76" class="iconic-container" transform=" translate(37 0)">
+    <path stroke="#000" stroke-width="16" stroke-miterlimit="10" class="iconic-arrow-thick-stem iconic-property-stroke" d="M0 38h110" fill="none" transform=" rotate(90 64 64 ) translate(0 63)"></path>
+    <path d="M127.6 38.4c.2-.2.2-.5 0-.7l-25.3-25.3c-.2-.2-.6-.4-.9-.4h-17c-.3 0-.3.2-.1.4l25.3 25.3c.2.2.2.5 0 .7l-25.2 25.2c-.2.2-.1.4.1.4h17c.3 0 .7-.2.9-.4l25.2-25.2z" class="iconic-arrow-thick-head iconic-arrow-thick-head-line iconic-property-fill" display="inline"
+    transform=" rotate(90 64 64 ) translate(0 63)"></path>
+  </g>
+</svg>

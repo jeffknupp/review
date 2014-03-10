@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="check" class="iconic iconic-check iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Check</title>
+  </g>
+  <g class="iconic-container" data-width="124" data-height="98" transform="translate(2 15)">
+    <path stroke="#000" stroke-width="16" stroke-linecap="square" stroke-miterlimit="10" class="iconic-property-stroke" fill="none" d="M112.5 11.5l-70.5 74.9-30-29.4" />
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="double-quote-sans-right" width="32" height="32" class="iconic iconic-double-quote-sans iconic-size-md iconic-double-quote-sans-right" viewBox="0 0 32 32">
+  <g>
+    <title>Double Quote Sans Right</title>
+  </g>
+  <g data-width="30" data-height="20" class="iconic-container iconic-double-quote-sans-right" transform="scale(1 1 ) translate(1 5 ) ">
+    <path d="M18 .5v19c0 .3.2.3.4.2l10.3-9.3c.2-.2.4-.6.4-.8v-9c-.1-.4-.3-.6-.6-.6h-10c-.3 0-.5.2-.5.5z" class="iconic-double-quote-sans-right-second iconic-property-fill"></path>
+    <path d="M0 .5v19c0 .3.2.3.4.2l10.3-9.3c.2-.2.4-.6.4-.8v-9c-.1-.4-.3-.6-.6-.6h-10c-.3 0-.5.2-.5.5z" class="iconic-double-quote-sans-right-first iconic-property-fill"></path>
+  </g>
+</svg>

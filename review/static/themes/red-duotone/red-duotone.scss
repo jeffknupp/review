@@ -1,0 +1,37 @@
+/* Iconic theme rules. Don't delete! */
+
+@mixin iconic-color($color) {
+  fill: $color;
+  stroke: $color;
+}
+
+$color-primary: #DA3A35;
+$color-secondary: lighten(#DA3A35, 30%);
+
+/* Hide all icons that are waiting to be injected */
+img.iconic {
+  display: none;
+}
+
+/* Make sure filled and text elements only get fills */
+.iconic-property-fill, .iconic-property-text {
+  stroke: none !important;
+}
+
+/* Make sure stroked elements only get strokes */
+.iconic-property-stroke {
+  fill: none !important;
+}
+
+
+/* Theme-specific rules */
+
+/* Main color */
+.iconic * {
+  @include iconic-color($color-primary);
+}
+
+/* Accent color */
+.iconic .iconic-property-accent {
+  @include iconic-color($color-secondary);
+}

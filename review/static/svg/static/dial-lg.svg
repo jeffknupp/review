@@ -1,0 +1,22 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="dial" class="iconic iconic-dial iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Dial</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-dial-clip-0">
+      <path d="M66 26v34c0 1.1-.9 2-2 2s-2-.9-2-2v-34h-36v76h76v-76h-36z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="102" transform="translate(0 13)">
+    <circle cx="64" cy="64" r="38" clip-path="url(#iconic-size-lg-dial-clip-0)" class="iconic-dial-body iconic-property-fill" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-1 iconic-property-accent iconic-property-stroke" fill="none" d="M2 64h4" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-2 iconic-property-accent iconic-property-stroke" fill="none" d="M6.7 40.3l3.7 1.5" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-3 iconic-property-accent iconic-property-stroke" fill="none" d="M20.2 20.2l2.8 2.8" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-4 iconic-property-accent iconic-property-stroke" fill="none" d="M40.3 6.7l1.5 3.7" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-5 iconic-property-accent iconic-property-stroke" fill="none" d="M64 2v4" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-6 iconic-property-accent iconic-property-stroke" fill="none" d="M86.2 10.4l1.5-3.7" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-7 iconic-property-accent iconic-property-stroke" fill="none" d="M105 23l2.8-2.8" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-8 iconic-property-accent iconic-property-stroke" fill="none" d="M117.6 41.8l3.7-1.5" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-dial-notch iconic-dial-notch-9 iconic-property-accent iconic-property-stroke" fill="none" d="M122 64h4" />
+  </g>
+</svg>

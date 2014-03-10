@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="list-rich" class="iconic iconic-list-rich iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>List Rich</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="26" transform="translate(0 3)">
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M12.5 21.5h19" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M12.5 24.5h15" />
+    <path d="M8.5 26h-8c-.3 0-.5-.2-.5-.5v-5c0-.3.2-.5.5-.5h8c.3 0 .5.2.5.5v5c0 .3-.2.5-.5.5z" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-block iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M12.5 11.5h19" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M12.5 14.5h15" />
+    <path d="M8.5 16h-8c-.3 0-.5-.2-.5-.5v-5c0-.3.2-.5.5-.5h8c.3 0 .5.2.5.5v5c0 .3-.2.5-.5.5z" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-block iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M12.5 1.5h19" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M12.5 4.5h15" />
+    <path d="M8.5 6h-8c-.3 0-.5-.2-.5-.5v-5c0-.3.2-.5.5-.5h8c.3 0 .5.2.5.5v5c0 .3-.2.5-.5.5z" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-block iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

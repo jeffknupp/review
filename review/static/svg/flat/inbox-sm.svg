@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="16" height="16" data-icon="inbox" viewBox="0 0 16 16">
+  <g>
+    <path d="M1 0c-.6 0-1 .4-1 1v14c0 .6.4 1 1 1h14c.6 0 1-.4 1-1v-14c0-.6-.4-1-1-1h-14zm1 3h12v9h-3l-1 2h-4l-1-2h-3v-9z" />
+  </g>
+</svg>

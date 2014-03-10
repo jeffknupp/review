@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-right-angle-thick-right-top-line" width="16" height="16" class="iconic iconic-arrow-right-angle-thick iconic-size-sm iconic-arrow-right-angle-thick-right-top-line" viewBox="0 0 16 16">
+  <g>
+    <title>Arrow Right Angle Thick Right Top Line</title>
+  </g>
+  <g data-width="14" data-height="16" data-default-max-height="14" class="iconic-container" transform=" translate(1 0)">
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-arrow-right-angle-thick-stem iconic-property-stroke" d="M10.5 5h-8.5v7" fill="none" transform=" rotate(270 8 8 ) translate(0 0)"></path>
+    <path class="iconic-arrow-right-angle-thick-head iconic-arrow-right-angle-thick-head-line iconic-property-fill" d="M16 5l-5-5h-4l5 5-5 5h4z" display="inline" transform=" rotate(270 8 8 ) translate(0 0)"></path>
+  </g>
+</svg>

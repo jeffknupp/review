@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="inbox" class="iconic iconic-inbox iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Inbox</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-inbox-clip-0">
+      <path d="M0 0v116h116v-116h-116zm108 114h-100v-98h100v98z" />
+    </clipPath>
+    <clipPath id="iconic-size-lg-inbox-clip-1">
+      <path d="M0 100h40l8 12h20l8-12h40v28h-116z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="116" data-height="128" transform="translate(6)">
+    <path clip-path="url(#iconic-size-lg-inbox-clip-0)" d="M108 112h-100c-4.4 0-8-3.6-8-8v-96c0-4.4 3.6-8 8-8h100c4.4 0 8 3.6 8 8v96c0 4.4-3.6 8-8 8z" class="iconic-inbox-back iconic-property-fill" />
+    <path clip-path="url(#iconic-size-lg-inbox-clip-1)" d="M108 128h-100c-4.4 0-8-3.6-8-8v-22c0-4.4 3.6-8 8-8h100c4.4 0 8 3.6 8 8v22c0 4.4-3.6 8-8 8z" class="iconic-inbox-front iconic-property-fill" />
+  </g>
+</svg>

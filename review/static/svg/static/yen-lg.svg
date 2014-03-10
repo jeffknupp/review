@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="yen" class="iconic iconic-yen iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Yen</title>
+  </g>
+  <g class="iconic-container" data-width="100" data-height="128" transform="translate(14)">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-yen-strike iconic-yen-strike-bottom iconic-property-accent iconic-property-stroke" fill="none" d="M2 78h96" />
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-yen-strike iconic-yen-strike-top iconic-property-accent iconic-property-stroke" fill="none" d="M2 62h96" />
+    <path class="iconic-yen-y iconic-property-fill" d="M0 0l44 64v64h12v-64l44-64h-12l-38 56-38-56z" />
+  </g>
+</svg>

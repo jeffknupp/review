@@ -1,0 +1,24 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="bar-chart" class="iconic iconic-bar-chart iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Bar Chart</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="112" transform="translate(0 8)">
+    <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-bar iconic-bar-chart-bar-5 iconic-property-accent iconic-property-stroke" fill="none" d="M116 102v-60" />
+    <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-bar iconic-bar-chart-bar-4 iconic-property-accent iconic-property-stroke" fill="none" d="M92 102v-70" />
+    <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-bar iconic-bar-chart-bar-3 iconic-property-accent iconic-property-stroke" fill="none" d="M68 102v-88" />
+    <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-bar iconic-bar-chart-bar-2 iconic-property-accent iconic-property-stroke" fill="none" d="M44 102v-50" />
+    <path stroke="#000" stroke-width="12" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-bar iconic-bar-chart-bar-1 iconic-property-accent iconic-property-stroke" fill="none" d="M20 102v-38" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-11 iconic-property-stroke" fill="none" d="M1 1h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-10 iconic-property-stroke" fill="none" d="M1 11h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-9 iconic-property-stroke" fill="none" d="M1 21h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-8 iconic-property-stroke" fill="none" d="M1 31h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-7 iconic-property-stroke" fill="none" d="M1 41h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-6 iconic-property-stroke" fill="none" d="M1 51h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-5 iconic-property-stroke" fill="none" d="M1 61h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-4 iconic-property-stroke" fill="none" d="M1 71h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-3 iconic-property-stroke" fill="none" d="M1 81h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-major iconic-bar-chart-tick-2 iconic-property-stroke" fill="none" d="M1 91h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-tick iconic-bar-chart-tick-minor iconic-bar-chart-tick-1 iconic-property-stroke" fill="none" d="M1 101h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-bar-chart-axes iconic-property-stroke" fill="none" d="M127 111h-126v-110" />
+  </g>
+</svg>

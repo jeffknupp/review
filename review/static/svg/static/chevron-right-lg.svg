@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="chevron-right" width="128" height="128" class="iconic iconic-chevron iconic-size-lg iconic-chevron-right" viewBox="0 0 128 128">
+  <g>
+    <title>Chevron Right</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-chevron-clip-0">
+      <path d="M0 0h88v128h-88z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="104" data-height="128" class="iconic-container" transform=" translate(12 0)">
+    <path clip-path="url(#iconic-size-lg-chevron-clip-0)" stroke="#000" stroke-width="16" stroke-linecap="square" stroke-miterlimit="10" class="iconic-property-stroke" d="M-8-20l84 84-84 84" fill="none" transform="rotate(0 64 64 )"></path>
+  </g>
+</svg>

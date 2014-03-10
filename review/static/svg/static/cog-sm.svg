@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="cog" class="iconic iconic-cog iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Cog</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path d="M16 9v-2l-2-1c-.1-.3-.2-.6-.4-.9l.9-2.1-1.5-1.5-2.1.8c-.3-.1-.6-.2-.9-.3l-1-2h-2l-1 2c-.3.1-.6.2-.9.3l-2.1-.8-1.5 1.5.8 2.1c-.1.3-.2.6-.3.9l-2 1v2l2 1c.1.3.2.6.4.9l-.9 2.1 1.5 1.5 2.1-.8c.3.1.6.2.9.3l1 2h2l1-2c.3-.1.6-.2.9-.4l2.1.8 1.5-1.5-.8-2.1c.1-.3.3-.6.4-.9l1.9-.9zm-8 2c-1.7 0-3-1.3-3-3s1.3-3 3-3 3 1.3 3 3-1.3 3-3 3z"
+    class="iconic-cog-body iconic-property-fill" />
+  </g>
+</svg>

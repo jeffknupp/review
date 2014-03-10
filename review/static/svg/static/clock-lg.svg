@@ -1,0 +1,24 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="clock" class="iconic iconic-clock iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Clock</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <circle stroke="#000" stroke-width="8" stroke-miterlimit="10" cx="64" cy="64" r="60" class="iconic-clock-body iconic-property-stroke" fill="none" />
+    <circle cx="64" cy="14" r="2" class="iconic-clock-hour iconic-clock-hour-12 iconic-property-fill" />
+    <circle cx="39" cy="20.7" r="2" class="iconic-clock-hour iconic-clock-hour-11 iconic-property-fill" />
+    <circle cx="20.7" cy="39" r="2" class="iconic-clock-hour iconic-clock-hour-10 iconic-property-fill" />
+    <circle cx="14" cy="64" r="2" class="iconic-clock-hour iconic-clock-hour-9 iconic-property-fill" />
+    <circle cx="20.7" cy="89" r="2" class="iconic-clock-hour iconic-clock-hour-8 iconic-property-fill" />
+    <circle cx="39" cy="107.3" r="2" class="iconic-clock-hour iconic-clock-hour-7 iconic-property-fill" />
+    <circle cx="64" cy="114" r="2" class="iconic-clock-hour iconic-clock-hour-6 iconic-property-fill" />
+    <circle cx="89" cy="107.3" r="2" class="iconic-clock-hour iconic-clock-hour-5 iconic-property-fill" />
+    <circle cx="107.3" cy="89" r="2" class="iconic-clock-hour iconic-clock-hour-4 iconic-property-fill" />
+    <circle cx="114" cy="64" r="2" class="iconic-clock-hour iconic-clock-hour-3 iconic-property-fill" />
+    <circle cx="107.3" cy="39" r="2" class="iconic-clock-hour iconic-clock-hour-2 iconic-property-fill" />
+    <circle cx="89" cy="20.7" r="2" class="iconic-clock-hour iconic-clock-hour-1 iconic-property-fill" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" class="iconic-clock-hand iconic-clock-hand-minute iconic-property-stroke" fill="none" d="M64 26v37" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" class="iconic-clock-hand iconic-clock-hand-second iconic-property-accent iconic-property-stroke" fill="none" d="M64 64l-29 31" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" class="iconic-clock-hand iconic-clock-hand-hour iconic-property-stroke" fill="none" d="M65 65l23 13" />
+    <circle cx="64" cy="64" r="2" class="iconic-clock-axis iconic-property-fill" />
+  </g>
+</svg>

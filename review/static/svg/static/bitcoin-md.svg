@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="bitcoin" class="iconic iconic-bitcoin iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Bitcoin</title>
+  </g>
+  <g class="iconic-container" data-width="20" data-height="32" transform="translate(6)">
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-bitcoin-strike iconic-bitcoin-strike-top iconic-bitcoin-strike-left iconic-property-stroke" fill="none" d="M8 0v6" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-bitcoin-strike iconic-bitcoin-strike-top iconic-bitcoin-strike-right iconic-property-stroke" fill="none" d="M12 0v6" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-bitcoin-strike iconic-bitcoin-strike-bottom iconic-bitcoin-strike-left iconic-property-stroke" fill="none" d="M8 26v6" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-bitcoin-strike iconic-bitcoin-strike-bottom iconic-bitcoin-strike-right iconic-property-stroke" fill="none" d="M12 26v6" />
+    <path d="M16.5 14.5c.9-1 1.5-2.5 1.5-4 0-3-2.5-5.5-5.5-5.5h-12.5v2h2c1.1 0 2 .9 2 2v14c0 1.1-.9 2-2 2h-2v2h13.5c3.6 0 6.5-2.9 6.5-6.5 0-2.5-1.4-4.9-3.5-6zm-6-7.5c1.9 0 3.5 1.6 3.5 3.5s-1.6 3.5-3.5 3.5h-2.5v-7h2.5zm1 18h-3.5v-9h3.5c2.5 0 4.5 2 4.5 4.5s-2 4.5-4.5 4.5z"
+    class="iconic-bitcoin-b iconic-property-fill" />
+  </g>
+</svg>

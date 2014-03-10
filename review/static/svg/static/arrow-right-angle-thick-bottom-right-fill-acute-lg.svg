@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-right-angle-thick-bottom-right-fill-acute" width="128" height="128" class="iconic iconic-arrow-right-angle-thick iconic-size-lg iconic-arrow-right-angle-thick-bottom-right-fill-acute"
+viewBox="0 0 128 128">
+  <g>
+    <title>Arrow Right Angle Thick Bottom Right Fill Acute</title>
+  </g>
+  <g data-width="128" data-height="89" data-default-max-height="92" class="iconic-container" transform=" translate(0 19)">
+    <path stroke="#000" stroke-width="16" stroke-linecap="square" stroke-miterlimit="10" class="iconic-arrow-right-angle-thick-stem iconic-property-stroke" d="M102 28h-94v58" fill="none" transform=" translate(0 -3)"></path>
+    <path d="M126.6 27.4l-45.2-20.8c-.8-.3-1.4 0-1.4.9v41c0 .8.6 1.2 1.4.9l45.3-20.8c.7-.3.7-.9-.1-1.2z" class="iconic-arrow-right-angle-thick-head iconic-arrow-right-angle-thick-head-fill-acute iconic-property-fill" display="inline" transform=" translate(0 -3)"></path>
+  </g>
+</svg>

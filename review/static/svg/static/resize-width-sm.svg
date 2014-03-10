@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="resize-width" width="16" height="16" class="iconic iconic-resize iconic-size-sm iconic-resize-width" viewBox="0 0 16 16">
+  <g>
+    <title>Resize Width</title>
+  </g>
+  <g data-width="16" data-height="6" class="iconic-container iconic-resize-width" transform="scale(1 1 ) translate(0 5 ) ">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-resize-width-line iconic-property-stroke" d="M13 3h-10" fill="none"></path>
+    <path class="iconic-resize-width-arrowhead iconic-resize-width-arrowhead-right iconic-property-fill" d="M16 3l-3 3v-6z"></path>
+    <path class="iconic-resize-width-arrowhead iconic-resize-width-arrowhead-left iconic-property-fill" d="M3 0l-3 3 3 3z"></path>
+  </g>
+</svg>

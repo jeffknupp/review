@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="ellipses" class="iconic iconic-ellipses iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Ellipses</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="4" transform="translate(0 6)">
+    <path class="iconic-ellipses-dot iconic-ellipses-dot-1 iconic-property-fill" d="M0 0h4v4h-4z" />
+    <path class="iconic-ellipses-dot iconic-ellipses-dot-2 iconic-property-fill" d="M6 0h4v4h-4z" />
+    <path class="iconic-ellipses-dot iconic-ellipses-dot-3 iconic-property-fill" d="M12 0h4v4h-4z" />
+  </g>
+</svg>

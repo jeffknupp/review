@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="cloud-transfer-download" width="16" height="16" class="iconic iconic-cloud-transfer iconic-size-sm iconic-cloud-transfer-download" viewBox="0 0 16 16">
+  <g>
+    <title>Cloud Transfer Download</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-cloud-download-clip-0">
+      <path d="M0 0v12h6v-1c0-1.1.9-2 2-2s2 .9 2 2v1h6v-12h-16z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="16" data-height="16" class="iconic-container iconic-cloud-download" transform="scale(1 1 ) translate(0 ) ">
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-cloud-download-arrow iconic-cloud-download-arrow-line iconic-property-accent iconic-property-stroke" d="M8 11v3" fill="none"></path>
+    <path class="iconic-cloud-download-arrow iconic-cloud-download-arrow-head iconic-property-accent iconic-property-fill" d="M11 13l-3 3-3-3z"></path>
+    <path d="M13 6v-1c0-2.8-2.2-5-5-5-2.5 0-4.5 1.8-4.9 4.1-1.8.4-3.1 2-3.1 3.9 0 2.2 1.8 4 4 4h9c1.7 0 3-1.3 3-3s-1.3-3-3-3z" clip-path="url(#iconic-size-sm-cloud-download-clip-0)" class="iconic-cloud-download-cloud iconic-property-fill"></path>
+  </g>
+</svg>

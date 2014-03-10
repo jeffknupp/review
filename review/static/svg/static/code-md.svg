@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="code" class="iconic iconic-code iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Code</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-code-clip-0">
+      <path d="M22 3h10v17h-10z" />
+    </clipPath>
+    <clipPath id="iconic-size-md-code-clip-1">
+      <path d="M11 0h11v23h-11z" />
+    </clipPath>
+    <clipPath id="iconic-size-md-code-clip-2">
+      <path d="M0 3h10v17h-10z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="32" data-height="23" transform="translate(0 4)">
+    <path clip-path="url(#iconic-size-md-code-clip-0)" stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-code-bracket iconic-code-bracket-right iconic-property-stroke" fill="none" d="M21.5 18.5l9-7-9-7" />
+    <path clip-path="url(#iconic-size-md-code-clip-1)" stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-code-slash iconic-property-accent iconic-property-stroke" fill="none" d="M18.5.5l-5 22" />
+    <path clip-path="url(#iconic-size-md-code-clip-2)" stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-code-bracket iconic-code-bracket-left iconic-property-stroke" fill="none" d="M10.5 4.5l-9 7 9 7" />
+  </g>
+</svg>

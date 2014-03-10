@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="basket" class="iconic iconic-basket iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Basket</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-basket-clip-0">
+      <path d="M98.9 42.5c1.9 2.7 1.3 6.4-1.4 8.4-1.1.7-2.3 1.1-3.5 1.1-1.9 0-3.7-.9-4.9-2.5l-5.3-7.5h-39.6l-5.3 7.5c-1.2 1.6-3 2.5-4.9 2.5-1.2 0-2.4-.4-3.5-1.1-2.7-1.9-3.3-5.7-1.4-8.4l.4-.5h-29.5v68h128v-68h-29.5l.4.5zm-58.4 57.4c-.2 0-.4.1-.5.1-.9 0-1.7-.6-1.9-1.5l-10-36c-.3-1.1.3-2.2 1.4-2.5 1.1-.3 2.2.3 2.5 1.4l10 36c.2 1.1-.4 2.2-1.5 2.5zm15.7.1c-.1 0-.1 0-.2 0-1 0-1.9-.8-2-1.8l-4-36c-.1-1.1.7-2.1 1.8-2.2 1.1-.1 2.1.7 2.2 1.8l4 36c.1 1.1-.7 2.1-1.8 2.2zm21.8-37.8l-4 36c-.1 1-1 1.8-2 1.8-.1 0-.1 0-.2 0-1.1-.1-1.9-1.1-1.8-2.2l4-36c.1-1.1 1.1-1.9 2.2-1.8 1.1.1 1.9 1.1 1.8 2.2zm21.9.3l-10 36c-.2.9-1.1 1.5-1.9 1.5-.2 0-.4 0-.5-.1-1.1-.3-1.7-1.4-1.4-2.5l10-36c.3-1.1 1.4-1.7 2.5-1.4 1 .4 1.6 1.5 1.3 2.5z"
+      />
+    </clipPath>
+    <clipPath id="iconic-size-lg-basket-clip-1">
+      <path d="M61.9 0l-31.2 43.7c-1.3 1.8-.9 4.3.9 5.6.7.5 1.5.7 2.3.7 1.2 0 2.5-.6 3.3-1.7l34.6-48.3h-9.9zm-27.9 48c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z" />
+    </clipPath>
+    <clipPath id="iconic-size-lg-basket-clip-2">
+      <path d="M74.2 0l-35.3 49.5c-.1.2-.3.4-.4.5h61.5v-50h-25.8zm19.8 48c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="110" transform="translate(0 9)">
+    <path d="M101 110h-74c-1.7 0-3.4-1.3-3.8-2.9l-16.4-58.2c-.4-1.6.5-2.9 2.2-2.9h110c1.7 0 2.6 1.3 2.2 2.9l-16.4 58.2c-.4 1.6-2.1 2.9-3.8 2.9z" clip-path="url(#iconic-size-lg-basket-clip-0)" class="iconic-basket-body iconic-property-fill" />
+    <path d="M126.5 50h-125c-.8 0-1.5-.7-1.5-1.5v-5c0-.8.7-1.5 1.5-1.5h125c.8 0 1.5.7 1.5 1.5v5c0 .8-.7 1.5-1.5 1.5z" clip-path="url(#iconic-size-lg-basket-clip-0)" class="iconic-basket-lip iconic-property-fill" />
+    <path clip-path="url(#iconic-size-lg-basket-clip-1)" stroke="#000" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" class="iconic-basket-handle iconic-basket-handle-left iconic-property-accent iconic-property-stroke" fill="none" d="M34 46l30-42"
+    />
+    <path clip-path="url(#iconic-size-lg-basket-clip-2)" stroke="#000" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" class="iconic-basket-handle iconic-basket-handle-right iconic-property-accent iconic-property-stroke" fill="none" d="M94 46l-30-42"
+    />
+  </g>
+</svg>

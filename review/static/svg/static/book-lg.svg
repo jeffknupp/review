@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="book" class="iconic iconic-book iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Book</title>
+  </g>
+  <g class="iconic-container" data-width="120" data-height="128" transform="translate(4)">
+    <path d="M6 112c-3.3 0-6 2.7-6 6v4c0 3.3 2.7 6 6 6h114v-4h-112c-2.2 0-4-1.8-4-4s1.8-4 4-4h112v-4h-114z" class="iconic-book-bottom iconic-property-fill" />
+    <path d="M6 109.7v-109.7h-1v.1c-2.8.5-5 2.9-5 5.9 0 .2 0 .4 0 .6 0 .2 0 .3 0 .4v105.7c1.5-1.7 3.6-2.7 6-2.7h.1c-.1-.1-.1-.2-.1-.3z" class="iconic-book-spine iconic-property-fill" />
+    <path d="M120 2.8c-.1-1.6-1.4-2.8-3-2.8h-13v52l-6-6-6 6v-52h-84v109.7c0 .1 0 .2-.1.3h112.1v-107.2z" class="iconic-book-cover iconic-property-fill" />
+  </g>
+</svg>

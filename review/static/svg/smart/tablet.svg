@@ -1,0 +1,32 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="tablet" width="128" height="128" class="iconic iconic-tablet" viewBox="0 0 128 128">
+  <g><title>Tablet</title></g>
+  <g data-width="86" data-height="128" class="iconic-lg iconic-container" display="inline" transform="translate(21)">
+    <path d="M80 0h-74c-3.3 0-6 2.7-6 6v116c0 3.3 2.7 6 6 6h74c3.3 0 6-2.7 6-6v-116c0-3.3-2.7-6-6-6zm-37 6c.6 0 1 .4 1 1s-.4 1-1 1-1-.4-1-1 .4-1 1-1zm0 118c-1.7 0-3-1.3-3-3s1.3-3 3-3 3 1.3 3 3-1.3 3-3 3zm39-8h-78v-104h78v104z" class="iconic-tablet-body iconic-property-fill"/>
+    <foreignObject class="iconic-tablet-screenshot-container" x="4" y="12" width="78" height="104">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:78px; height:104px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-tablet-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+  <g data-width="22" data-height="32" class="iconic-md iconic-container" display="none" transform="scale(4) translate(5)">
+    <path d="M20.2 0h-18.4c-1 0-1.8.8-1.8 1.8v28.5c0 1 .8 1.8 1.8 1.8h18.5c1 0 1.8-.8 1.8-1.8v-28.5c-.1-1-.9-1.8-1.9-1.8zm-9.2 31c-.6 0-1-.4-1-1s.4-1 1-1 1 .4 1 1-.4 1-1 1zm10-3h-20v-25h20v25z" class="iconic-tablet-body iconic-property-fill"/>
+    <foreignObject class="iconic-tablet-screenshot-container" x="1" y="3" width="20" height="25">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:20px; height:25px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-tablet-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+  <g data-width="11" data-height="16" class="iconic-sm iconic-container" display="none" transform="scale(8) translate(2)">
+    <path d="M10.2 0h-9.4c-.5 0-.8.3-.8.8v14.5c0 .4.3.7.8.7h9.5c.4 0 .8-.3.8-.8v-14.4c-.1-.5-.4-.8-.9-.8zm-4.7 15c-.3 0-.5-.2-.5-.5s.2-.5.5-.5.5.2.5.5-.2.5-.5.5zm4.5-2h-9v-11h9v11z" class="iconic-tablet-body iconic-property-fill"/>
+    <foreignObject class="iconic-tablet-screenshot-container" x="1" y="2" width="9" height="11">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:9px; height:11px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-tablet-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+<script class="iconic-api" type="application/ecmascript">
+//<![CDATA[
+var iconicApis=window._Iconic?window._Iconic.smartIconApis:{};iconicApis["tablet"]=iconicApis["tablet"]||function(t){var e=function(e){t.setAttribute("data-screenshot",e);for(var i=t.querySelectorAll(".iconic-tablet-screenshot-container"),r=0;r<i.length;r++)i[r]&&i[r].style&&(i[r].style.display="none"),i[r]&&i[r].style&&(i[r].style.display="block");for(var n=t.querySelectorAll(".iconic-tablet-screenshot"),r=0;r<n.length;r++)e&&""!==e?n[r].setAttribute("src",e):n[r].removeAttribute("src")},i=function(){var i=t.getAttribute("data-screenshot")||"";e(i)};return{update:i,setScreenshot:e}};
+//]]>
+</script>
+</svg>

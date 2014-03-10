@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="code" class="iconic iconic-code iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Code</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-code-clip-0">
+      <path d="M90 10h38v58h-38z" />
+    </clipPath>
+    <clipPath id="iconic-size-lg-code-clip-1">
+      <path d="M38 0h52v78h-52z" />
+    </clipPath>
+    <clipPath id="iconic-size-lg-code-clip-2">
+      <path d="M0 10h38v58h-38z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="78" transform="translate(0 25)">
+    <path clip-path="url(#iconic-size-lg-code-clip-0)" stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-code-bracket iconic-code-bracket-right iconic-property-stroke" fill="none" d="M90 62l34-24-34-22" />
+    <path clip-path="url(#iconic-size-lg-code-clip-1)" stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-code-slash iconic-property-accent iconic-property-stroke" fill="none" d="M80-4l-31 86" />
+    <path clip-path="url(#iconic-size-lg-code-clip-2)" stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-code-bracket iconic-code-bracket-left iconic-property-stroke" fill="none" d="M38 62l-34-24 34-22" />
+  </g>
+</svg>

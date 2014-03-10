@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="media-step-forward" width="16" height="16" class="iconic iconic-media-step iconic-size-sm iconic-media-step-forward" viewBox="0 0 16 16">
+  <g>
+    <title>Media Step Forward</title>
+  </g>
+  <g data-width="10" data-height="8" class="iconic-container iconic-media-step-forward" transform="scale(1 1 ) translate(3 4 ) ">
+    <path class="iconic-step-forward-arrowhead iconic-property-fill" d="M8 4l-8 4v-8z"></path>
+    <path class="iconic-step-forward-line iconic-property-fill" d="M8 0h2v8h-2z"></path>
+  </g>
+</svg>

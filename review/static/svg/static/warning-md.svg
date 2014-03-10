@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="warning" class="iconic iconic-warning iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Warning</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-warning-clip-0">
+      <path d="M0 0v30h31v-30h-31zm15.5 26c-.8 0-1.5-.7-1.5-1.5s.7-1.5 1.5-1.5 1.5.7 1.5 1.5-.7 1.5-1.5 1.5zm1.5-10l-1 5h-1l-1-5v-6h3v6z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="31" data-height="30" transform="translate(0 1)">
+    <path d="M.2 29.6l15-29.1c.1-.2.3-.2.5 0l15 29.1c.1.2 0 .4-.3.4h-30c-.2 0-.3-.2-.2-.4z" clip-path="url(#iconic-size-md-warning-clip-0)" class="iconic-warning-body iconic-property-fill" />
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="justify-left" width="16" height="16" class="iconic iconic-justify iconic-size-sm iconic-justify-left" viewBox="0 0 16 16">
+  <g>
+    <title>Justify Left</title>
+  </g>
+  <g data-width="16" data-height="14" class="iconic-container iconic-justify-left" transform="scale(1 1 ) translate(0 1 ) " stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" fill="none">
+    <path class="iconic-justify-left-line-2 iconic-justify-left-line-long iconic-property-stroke" d="M1 5h14"></path>
+    <path class="iconic-justify-left-line-1 iconic-justify-left-line-long iconic-property-stroke" d="M1 1h14"></path>
+    <path class="iconic-justify-left-line-4 iconic-justify-left-line-short iconic-property-stroke" d="M1 13h10"></path>
+    <path class="iconic-justify-left-line-3 iconic-justify-left-line-long iconic-property-stroke" d="M1 9h14"></path>
+  </g>
+</svg>

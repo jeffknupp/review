@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="reload" class="iconic iconic-reload iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Reload</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="32">
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M30.5 16c0 5.3-3 10.3-7.7 12.8-4.8 2.5-10.8 2.2-15.2-1-4.4-3.1-6.7-8.5-6-13.8.7-5.2 4.4-9.8 9.3-11.6 5.3-2 11.3-.6 15.3 3.3" class="iconic-reload-line iconic-property-stroke" fill="none"
+    />
+    <path d="M29.5 9.9l-6-.9c-.3 0-.3-.2-.1-.4l5.3-5.3c.2-.2.4-.1.4.1l.9 6c0 .4-.2.6-.5.5z" class="iconic-reload-arrowhead iconic-property-fill" />
+  </g>
+</svg>

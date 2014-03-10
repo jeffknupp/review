@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="credit-card" class="iconic iconic-credit-card iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Credit Card</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-credit-card-clip-0">
+      <path d="M0 0v80h128v-80h-128zm30 71.5c0 .3-.2.5-.5.5h-21c-.3 0-.5-.2-.5-.5v-13c0-.3.2-.5.5-.5h21c.3 0 .5.2.5.5v13zm62-30c0 .3-.2.5-.5.5h-83c-.3 0-.5-.2-.5-.5v-11c0-.3.2-.5.5-.5h83c.3 0 .5.2.5.5v11zm28 0c0 .3-.2.5-.5.5h-23c-.3 0-.5-.2-.5-.5v-11c0-.3.2-.5.5-.5h23c.3 0 .5.2.5.5v11zm6-19.5h-124v-14h124v14z"
+      />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="80" transform="translate(0 24)">
+    <path clip-path="url(#iconic-size-lg-credit-card-clip-0)" d="M125 80h-122c-1.7 0-3-1.3-3-3v-74c0-1.7 1.3-3 3-3h122c1.7 0 3 1.3 3 3v74c0 1.7-1.3 3-3 3z" class="iconic-credit-card-body iconic-property-fill" />
+  </g>
+</svg>

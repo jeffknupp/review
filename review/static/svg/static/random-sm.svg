@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="random" class="iconic iconic-random iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Random</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-random-clip-0">
+      <path d="M0 0v14h16v-14h-16zm5.5 10.5l-3-3 4.5-4.5 3 3-4.5 4.5z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="16" data-height="14" transform="translate(0 1)">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M14 11h-3c-.3 0-.7-.2-.9-.4l-7.2-7.2c-.2-.2-.6-.4-.9-.4h-1" class="iconic-random-line iconic-random-line-bottom iconic-property-stroke" fill="none" />
+    <path clip-path="url(#iconic-size-sm-random-clip-0)" stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M14 3h-3c-.3 0-.7.2-.9.4l-7.3 7.3c-.1.1-.5.3-.8.3h-1" class="iconic-random-line iconic-random-line-top iconic-property-accent iconic-property-stroke"
+    fill="none" />
+    <path class="iconic-random-arrowhead iconic-random-arrowhead-top iconic-property-accent iconic-property-fill" d="M16 3l-3-3v6z" />
+    <path class="iconic-random-arrowhead iconic-random-arrowhead-bottom iconic-property-fill" d="M16 11l-3-3v6z" />
+  </g>
+</svg>

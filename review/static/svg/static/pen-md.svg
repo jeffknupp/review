@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="pen" class="iconic iconic-pen iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Pen</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="32">
+    <path transform="matrix(-.707 -.707 .707 -.707 46.178 26.127)" class="iconic-pen-button iconic-property-accent iconic-property-fill" d="M26.4.7h4.2v5.7h-4.2z" />
+    <path class="iconic-pen-body iconic-pen-body-bottom iconic-property-fill" d="M10 25l-3-3-4 4v2l-1 1 1 1 1-1h2z" />
+    <path transform="matrix(-.707 .707 -.707 -.707 37.127 19.621)" class="iconic-pen-body iconic-pen-body-middle iconic-property-fill" d="M4.6 14h19.8v7.1h-19.8z" />
+    <path transform="matrix(-.707 .707 -.707 -.707 48.627 -8.142)" class="iconic-pen-body iconic-pen-body-top iconic-property-accent iconic-property-fill" d="M23.9 2.5h4.2v7.1h-4.2z" />
+    <path class="iconic-pen-clip iconic-property-accent iconic-property-fill" d="M20 3l-11 11v2l10-10 6 6 2-2z" />
+    <path class="iconic-pen-head iconic-property-accent iconic-property-fill" d="M2 31l-1-1-1 1v1h1z" />
+  </g>
+</svg>

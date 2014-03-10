@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="media-skip-backward" width="16" height="16" class="iconic iconic-media-skip iconic-size-sm iconic-media-skip-backward" viewBox="0 0 16 16">
+  <g>
+    <title>Media Skip Backward</title>
+  </g>
+  <g data-width="16" data-height="8" class="iconic-container iconic-media-skip-backward" transform="scale(1 1 ) translate(0 4 ) ">
+    <path d="M.2 3.9l7.6-3.8c.1 0 .2 0 .2.1v7.5c0 .1-.1.2-.2.1l-7.6-3.7c-.1 0-.1-.2 0-.2z" class="iconic-skip-backward-arrowhead iconic-skip-backward-arrowhead-front iconic-property-fill"></path>
+    <path d="M8.2 3.9l7.6-3.8c.1-.1.2 0 .2.1v7.5c0 .1-.1.2-.2.1l-7.6-3.7c-.1 0-.1-.2 0-.2z" class="iconic-skip-backward-arrowhead iconic-skip-backward-arrowhead-back iconic-property-fill"></path>
+  </g>
+</svg>

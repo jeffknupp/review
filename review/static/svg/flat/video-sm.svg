@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="16" height="16" data-icon="video" data-container-transform="translate(0 3)" viewBox="0 0 16 16">
+  <g transform="translate(0 3)">
+    <path d="M.188 0c-.1 0-.188.087-.188.188v9.625c0 .1.087.188.188.188h11.625c.1 0 .188-.113.188-.313v-3.688l3 2h1v-6h-1l-3 2v-3.813c0-.1-.113-.188-.313-.188h-11.5z" />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="script" class="iconic iconic-script iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Script</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-script-clip-0">
+      <path d="M0 0v16h15v-16h-15zm2 13.5c0 .3-.2.5-.5.5s-.5-.2-.5-.5v-4c0-.3.2-.5.5-.5s.5.2.5.5v4zm11.5-7.5h-10.5v-3.5c0-.3.2-.5.5-.5s.5.2.5.5v2.5h9.5c.3 0 .5.2.5.5s-.2.5-.5.5z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="15" data-height="16">
+    <path d="M13 0h-9c-1.1 0-2 .9-2 2v9h-2v3.1c.1 1 .9 1.9 2 1.9h9c1.1 0 2-.9 2-2v-9h2v-3c0-1.1-.9-2-2-2z" clip-path="url(#iconic-size-sm-script-clip-0)" class="iconic-script-body iconic-property-fill" />
+  </g>
+</svg>

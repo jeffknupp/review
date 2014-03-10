@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="headphones" class="iconic iconic-headphones iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Headphones</title>
+  </g>
+  <g class="iconic-container" data-width="29" data-height="32" transform="translate(1)">
+    <path stroke="#000" stroke-miterlimit="10" d="M1.5 13.5v3c0 1.1.2 2.7.5 3.5s.5 2 .5 2.5 0 1.6 0 2.2 0 1.2 0 1.2" class="iconic-headphones-connector iconic-headphones-connector-left iconic-property-stroke" fill="none" />
+    <path stroke="#000" stroke-miterlimit="10" d="M27.5 13.5v3c0 1.1-.2 2.7-.5 3.5s-.5 2-.5 2.5 0 1.6 0 2.2 0 1.2 0 1.2" class="iconic-headphones-connector iconic-headphones-connector-right iconic-property-stroke" fill="none" />
+    <path d="M4 31c-2.2 0-4-1.8-4-4s1.8-4 4-4v8z" class="iconic-headphones-speaker iconic-headphones-speaker-back iconic-headphones-speaker-back-left iconic-property-fill" />
+    <path d="M25 23c2.2 0 4 1.8 4 4s-1.8 4-4 4v-8z" class="iconic-headphones-speaker iconic-headphones-speaker-back iconic-headphones-speaker-back-right iconic-property-fill" />
+    <path d="M5.5 32h-2c-.3 0-.5-.2-.5-.5v-9c0-.3.2-.5.5-.5h2c.3 0 .5.2.5.5v9c0 .3-.2.5-.5.5z" class="iconic-headphones-speaker iconic-headphones-speaker-earpeice iconic-headphones-speaker-earpeice-left iconic-property-fill" />
+    <path d="M25.5 32h-2c-.3 0-.5-.2-.5-.5v-9c0-.3.2-.5.5-.5h2c.3 0 .5.2.5.5v9c0 .3-.2.5-.5.5z" class="iconic-headphones-speaker iconic-headphones-speaker-earpeice iconic-headphones-speaker-earpeice-right iconic-property-fill" />
+    <path stroke="#000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M27.5 14.5c0-7.2-5.8-13-13-13s-13 5.8-13 13" class="iconic-headphones-top iconic-property-stroke" fill="none" />
+  </g>
+</svg>

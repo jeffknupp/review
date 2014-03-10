@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-icon="align-center" width="128" height="128" class="iconic iconic-align iconic-size-lg iconic-align-center" preserveaspectratio="xMidYMid meet" viewBox="0 0 128 128">
+  <g>
+    <title>Align Center</title>
+  </g>
+  <g data-width="128" data-height="86" class="iconic-container iconic-align-center" transform="translate(0 21 ) scale(1 1 ) " stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" fill="none">
+    <path class="iconic-align-center-line-4 iconic-align-center-line-short iconic-property-stroke" d="M23 82h82"></path>
+    <path class="iconic-align-center-line-3 iconic-align-center-line-long iconic-property-stroke" d="M4 56h120"></path>
+    <path class="iconic-align-center-line-2 iconic-align-center-line-short iconic-property-stroke" d="M23 30h82"></path>
+    <path class="iconic-align-center-line-1 iconic-align-center-line-long iconic-property-stroke" d="M4 4h120"></path>
+  </g>
+</svg>

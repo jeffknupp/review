@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="map" class="iconic iconic-map iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Map</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-map-street iconic-map-street-cross iconic-property-stroke" fill="none" d="M15 6l-9 9" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-map-street iconic-map-street-main iconic-property-stroke" fill="none" d="M5 1l10 10" />
+    <path d="M6 6c-1.1 0-2 .9-2 2 0 1.5 2 4 2 4s2-2.5 2-4c0-1.1-.9-2-2-2zm0 3c-.6 0-1-.4-1-1s.4-1 1-1 1 .4 1 1-.4 1-1 1z" class="iconic-map-map-marker iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" d="M14.8 15h-13.6c-.1 0-.2-.1-.2-.2v-13.6c0-.1.1-.2.2-.2h13.5c.2 0 .3.1.3.2v13.5c0 .2-.1.3-.2.3z" class="iconic-map-frame iconic-property-stroke" fill="none" />
+  </g>
+</svg>

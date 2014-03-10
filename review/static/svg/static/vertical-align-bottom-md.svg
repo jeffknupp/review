@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="vertical-align-bottom" width="32" height="32" class="iconic iconic-vertical-align iconic-size-md iconic-vertical-align-bottom" viewBox="0 0 32 32">
+  <g>
+    <title>Vertical Align Bottom</title>
+  </g>
+  <g data-width="32" data-height="23" class="iconic-container iconic-vertical-align-bottom" transform="scale(1 1 ) translate(0 4 ) ">
+    <path d="M26.5 21h-5c-.3 0-.5-.2-.5-.5v-16c0-.3.2-.5.5-.5h5c.3 0 .5.2.5.5v16c0 .3-.2.5-.5.5z" class="iconic-vertical-align-bottom-element iconic-vertical-align-bottom-element-3 iconic-property-fill"></path>
+    <path d="M18.5 21h-5c-.3 0-.5-.2-.5-.5v-12c0-.3.2-.5.5-.5h5c.3 0 .5.2.5.5v12c0 .3-.2.5-.5.5z" class="iconic-vertical-align-bottom-element iconic-vertical-align-bottom-element-2 iconic-property-fill"></path>
+    <path d="M10.5 21h-5c-.3 0-.5-.2-.5-.5v-20c0-.3.2-.5.5-.5h5c.3 0 .5.2.5.5v20c0 .3-.2.5-.5.5z" class="iconic-vertical-align-bottom-element iconic-vertical-align-bottom-element-1 iconic-property-fill"></path>
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-vertical-align-bottom-alignment-line iconic-property-accent iconic-property-stroke" d="M0 22.5h32" fill="none"></path>
+  </g>
+</svg>

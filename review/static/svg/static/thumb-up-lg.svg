@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="thumb-up" width="128" height="128" class="iconic iconic-thumb iconic-size-lg iconic-thumb-up" viewBox="0 0 128 128">
+  <g>
+    <title>Thumb Up</title>
+  </g>
+  <g data-width="126" data-height="128" class="iconic-container iconic-thumbs-up" transform="translate(1 ) scale(1 1 ) ">
+    <path d="M0 52l10 76h22v-76h-32zm26 72c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z" class="iconic-thumbs-up-cuff iconic-property-accent iconic-property-fill"></path>
+    <path d="M117 54h-27c-5 0-9-4.5-9-9s5-15 5-31v-5c0-5-4-9-9-9h-6c-1.7 0-3 1.3-3 3v11c0 12.1-11.6 27.2-19.3 34.7-3.3 3.4-7.7 5.3-12.7 5.3v68s8 4 20 4h43c3.7 0 6.9-2.3 8.3-5.5 0 0 15-42.1 18.1-54.5.4-1.4.6-2.5.6-3 0-5.1-4-9-9-9z" class="iconic-thumbs-up-hand iconic-property-fill"></path>
+  </g>
+</svg>

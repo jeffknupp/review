@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="person-genderless" width="16" height="16" class="iconic iconic-person iconic-size-sm iconic-person-genderless" viewBox="0 0 16 16">
+  <g>
+    <title>Person Genderless</title>
+  </g>
+  <g data-width="16" data-height="16" class="iconic-container iconic-person-genderless" transform="scale(1 1 ) translate(0 ) ">
+    <path d="M12.2 10c-1.1 1.2-2.6 2-4.2 2s-3.1-.8-4.2-2c-2.1.1-3.8 1.9-3.8 4v2h16v-2c0-2.1-1.7-3.9-3.8-4z" class="iconic-person-body iconic-property-fill"></path>
+    <ellipse cx="8" cy="5" rx="4" ry="5" class="iconic-person-head iconic-property-fill"></ellipse>
+  </g>
+</svg>

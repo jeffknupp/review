@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="lock-unlocked" width="128" height="128" class="iconic iconic-lock iconic-size-lg iconic-lock-unlocked" viewBox="0 0 128 128">
+  <g>
+    <title>Lock Unlocked</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-unlock-clip-0">
+      <path d="M18 0v66h58v-66h-58zm10 42c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="94" data-height="128" class="iconic-container iconic-lock-unlocked" transform="translate(17 ) scale(1 1 ) ">
+    <path clip-path="url(#iconic-size-lg-unlock-clip-0)" stroke="#000" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" d="M72 62.2v-33.2c0-13.8-11.2-25-25-25s-25 11.2-25 25v15" class="iconic-unlocked-loop iconic-property-accent iconic-property-stroke"
+    fill="none"></path>
+    <path class="iconic-lock-unlocked-body iconic-lock-unlocked-body-bottom iconic-property-fill" d="M0 112h94v16h-94z"></path>
+    <path class="iconic-lock-unlocked-body iconic-lock-unlocked-body-main iconic-property-fill" d="M2 70h90v40h-90z"></path>
+    <path class="iconic-lock-unlocked-body iconic-lock-unlocked-body-top iconic-property-fill" d="M0 62h94v6h-94z"></path>
+  </g>
+</svg>

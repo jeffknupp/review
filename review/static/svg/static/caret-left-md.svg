@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="caret-left" width="32" height="32" class="iconic iconic-caret iconic-size-md iconic-caret-left" viewBox="0 0 32 32">
+  <g>
+    <title>Caret Left</title>
+  </g>
+  <g data-width="18" data-height="32" class="iconic-container" transform=" translate(7 0)">
+    <path d="M19.6 15.7l-19.2-15.4c-.2-.2-.4-.1-.4.2v31c0 .3.2.4.4.2l19.2-15.4c.2-.2.2-.4 0-.6z" class="iconic-property-fill" transform="rotate(180 16 16 ) translate(14)"></path>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="signal" class="iconic iconic-signal iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Signal</title>
+  </g>
+  <g class="iconic-container" data-width="14" data-height="11" transform="translate(1 2)">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-signal-bar iconic-signal-bar-1 iconic-property-stroke" fill="none" d="M1 10v-1" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-signal-bar iconic-signal-bar-2 iconic-property-stroke" fill="none" d="M4 10v-3" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-signal-bar iconic-signal-bar-3 iconic-property-stroke" fill="none" d="M7 10v-5" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-signal-bar iconic-signal-bar-4 iconic-property-stroke" fill="none" d="M10 10v-7" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-signal-bar iconic-signal-bar-5 iconic-property-stroke" fill="none" d="M13 10v-9" />
+  </g>
+</svg>

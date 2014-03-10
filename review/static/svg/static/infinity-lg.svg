@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="infinity" class="iconic iconic-infinity iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Infinity</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="58" transform="translate(0 35)">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" d="M25 4c-13.1 0-21 12.9-21 25.3s7.9 24.7 21 24.7c26.9 0 51.1-50 79-50 13.3 0 20 12.9 20 25.3s-6.7 24.7-20 24.7c-28.1 0-52.3-50-79-50z" class="iconic-property-stroke" fill="none" />
+  </g>
+</svg>

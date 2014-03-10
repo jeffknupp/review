@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="copywriting" class="iconic iconic-copywriting iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Copywriting</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path class="iconic-copywriting-period iconic-property-accent iconic-property-fill" d="M14 14h2v2h-2z" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-copywriting-paragraph-2 iconic-copywriting-line-2 iconic-property-stroke" fill="none" d="M1 15h10" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-copywriting-paragraph-2 iconic-copywriting-line-1 iconic-property-stroke" fill="none" d="M1 11h14" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-copywriting-paragraph-1 iconic-copywriting-line-2 iconic-property-stroke" fill="none" d="M1 5h8" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-copywriting-paragraph-1 iconic-copywriting-line-1 iconic-property-stroke" fill="none" d="M1 1h14" />
+  </g>
+</svg>

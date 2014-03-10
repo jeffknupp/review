@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="caret-right" width="128" height="128" class="iconic iconic-caret iconic-size-lg iconic-caret-right" viewBox="0 0 128 128">
+  <g>
+    <title>Caret Right</title>
+  </g>
+  <g data-width="80" data-height="128" class="iconic-container" transform=" translate(24 0)">
+    <path d="M78.8 63.1l-77.6-62.2c-.7-.5-1.2-.2-1.2.6v125c0 .8.5 1.1 1.2.6l77.7-62.1c.6-.6.6-1.4-.1-1.9z" class="iconic-property-fill" transform="rotate(0 64 64 )"></path>
+  </g>
+</svg>

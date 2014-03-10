@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-right-angle-top-left-fill-acute" width="32" height="32" class="iconic iconic-arrow-right-angle iconic-size-md iconic-arrow-right-angle-top-left-fill-acute" viewBox="0 0 32 32">
+  <g>
+    <title>Arrow Right Angle Top Left Fill Acute</title>
+  </g>
+  <g data-width="32" data-height="24" data-default-max-height="26" class="iconic-container" transform=" translate(0 4)">
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-arrow-right-angle-stem iconic-property-stroke" d="M27 6.5h-25.5v18" fill="none" transform=" rotate(180 16 16 ) translate(0 6)"></path>
+    <path d="M31.6 6.7l-8.1 4.1c-.2.1-.4 0-.4-.3v-8c0-.3.2-.4.4-.3l8.1 4.1c.2.1.2.3 0 .4z" class="iconic-arrow-right-angle-head iconic-arrow-right-angle-head-fill-acute iconic-property-fill" display="inline" transform=" rotate(180 16 16 ) translate(0 6)"></path>
+  </g>
+</svg>

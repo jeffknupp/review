@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="link-intact" width="32" height="32" class="iconic iconic-link iconic-size-md iconic-link-intact" viewBox="0 0 32 32">
+  <g>
+    <title>Link Intact</title>
+  </g>
+  <g data-width="32" data-height="32" class="iconic-container iconic-link-intact" transform="scale(1 1 ) translate(0 ) " stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" fill="none">
+    <path d="M15.7 24.7l-4 4c-2.3 2.3-6.1 2.3-8.5 0s-2.3-6.1 0-8.5l7-7c2.3-2.3 6.1-2.3 8.5 0" class="iconic-link-link iconic-link-link-bottom iconic-property-stroke" stroke-width="3"></path>
+    <path d="M16.4 7.1l3.9-3.9c2.3-2.3 6.1-2.3 8.5 0s2.3 6.1 0 8.5l-7 7c-2.3 2.3-6.1 2.3-8.5 0" class="iconic-link-link iconic-link-link-top iconic-property-stroke" stroke-width="3"></path>
+  </g>
+</svg>

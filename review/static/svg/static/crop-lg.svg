@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="crop" class="iconic iconic-crop iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Crop</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path transform="matrix(-.707 .707 -.707 -.707 162.01 45.893)" class="iconic-crop-angle iconic-property-accent iconic-property-fill" d="M-5.6 53.7h154.1v5.7h-154.1z" />
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-crop-corner iconic-crop-corner-top iconic-property-stroke" fill="none" d="M0 16h112v112" />
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-crop-corner iconic-crop-corner-bottom iconic-property-stroke" fill="none" d="M128 112h-112v-112" />
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="person-male" width="128" height="128" class="iconic iconic-person iconic-size-lg iconic-person-male" viewBox="0 0 128 128">
+  <g>
+    <title>Person Male</title>
+  </g>
+  <g data-width="128" data-height="128" class="iconic-container iconic-person-male" transform="translate(0 ) scale(1 1 ) ">
+    <path d="M90.8 80c-.8 0-1.9.5-2.5 1.1-6.6 7.1-14.9 10.9-24.3 10.9s-17.8-3.8-24.3-10.9c-.6-.6-1.7-1.1-2.5-1.1h-5.2c-17.7 0-32 14.3-32 32v14.5c0 .8.7 1.5 1.5 1.5h125c.8 0 1.5-.7 1.5-1.5v-14.5c0-17.7-14.3-32-32-32h-5.2z" class="iconic-person-male-body iconic-property-fill"></path>
+    <path d="M80 8c-.5-7.5-9.4-8-16-8-31.8 0-36.3 26-30 40 0 22.1 10 44 30 44 19.8 0 30-21.9 30-44 7.7-23.7-6.2-32-14-32z" class="iconic-person-male-head iconic-property-fill"></path>
+  </g>
+</svg>

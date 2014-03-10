@@ -1,0 +1,18 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="euro" class="iconic iconic-euro iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Euro</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-euro-clip-0">
+      <path d="M12.3 11l1.7-5h-13.5l-.5 2h.7l-.7 3z" />
+    </clipPath>
+    <clipPath id="iconic-size-sm-euro-clip-1">
+      <path d="M15 12h-3l4-12h-13v16h12z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="19" data-height="16" transform="translate(-2)">
+    <path clip-path="url(#iconic-size-sm-euro-clip-0)" stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-euro-strike iconic-euro-strike-bottom iconic-property-accent iconic-property-stroke" fill="none" d="M0 10h13" />
+    <path clip-path="url(#iconic-size-sm-euro-clip-0)" stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-euro-strike iconic-euro-strike-top iconic-property-accent iconic-property-stroke" fill="none" d="M14 7h-14" />
+    <circle clip-path="url(#iconic-size-sm-euro-clip-1)" stroke="#000" stroke-width="2" stroke-miterlimit="10" cx="11" cy="8" r="7" class="iconic-euro-e iconic-property-stroke" fill="none" />
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="people" class="iconic iconic-people iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>People</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="58" transform="translate(0 35)">
+    <path d="M34.4 40.2c.5-.6.5-.6-.2-.2-1.9 1.3-4 2-6.3 2-2.8 0-5.4-1.1-7.6-3-.6-.5-1.8-1-2.6-1h-3.7c-7.7 0-14 6.3-14 14v2.5c0 .8.7 1.5 1.5 1.5h27c.8 0 1.5-.7 1.5-1.5v-2.5c0-4.5 1.7-8.7 4.4-11.8z" class="iconic-people-person iconic-people-person-body iconic-people-person-left iconic-people-person-body-left iconic-property-accent iconic-property-fill"
+    />
+    <path d="M40 24c0 8.3-5.4 16-12 16s-12-7.7-12-16 5.4-14 12-14 12 5.7 12 14z" class="iconic-people-person iconic-people-person-head iconic-people-person-left iconic-people-person-head-left iconic-property-accent iconic-property-fill" />
+    <path d="M110.1 38c-.8 0-2 .5-2.6 1-2.2 1.9-4.8 3-7.6 3-2.3 0-4.5-.8-6.5-2.2-.7-.5-.7-.5-.1.1 2.9 3.2 4.6 7.4 4.6 12v2.5c0 .8.7 1.5 1.5 1.5h27c.8 0 1.5-.7 1.5-1.5v-2.4c0-7.7-6.3-14-14-14h-3.8z" class="iconic-people-person iconic-people-person-body iconic-people-person-right iconic-people-person-body-right iconic-property-accent iconic-property-fill"
+    />
+    <path d="M112 23.9c0 8.3-5.4 16.1-12 16.1s-12-7.8-12-16.1 5.4-13.9 12-13.9 12 5.6 12 13.9z" class="iconic-people-person iconic-people-person-head iconic-people-person-right iconic-people-person-head-right iconic-property-accent iconic-property-fill"
+    />
+    <path d="M77.5 36c-.8 0-1.9.5-2.5 1.1-3.1 3.1-6.9 4.9-11 4.9s-7.9-1.8-11-4.9c-.6-.6-1.7-1.1-2.5-1.1h-2.5c-8.8 0-16 7.2-16 16v4.5c0 .8.7 1.5 1.5 1.5h61c.8 0 1.5-.7 1.5-1.5v-4.5c0-8.8-7.2-16-16-16h-2.5z" class="iconic-people-person iconic-people-person-body iconic-people-person-center iconic-people-person-body-center iconic-property-fill"
+    />
+    <path d="M80 19c0 11-7.2 21-16 21s-16-10-16-21 7.2-19 16-19 16 8 16 19z" class="iconic-people-person iconic-people-person-head iconic-people-person-center iconic-people-person-head-center iconic-property-fill" />
+  </g>
+</svg>

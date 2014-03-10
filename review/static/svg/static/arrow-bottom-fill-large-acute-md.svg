@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-bottom-fill-large-acute" width="32" height="32" class="iconic iconic-arrow iconic-size-md iconic-arrow-bottom-fill-large-acute" viewBox="0 0 32 32">
+  <g>
+    <title>Arrow Bottom Fill Large Acute</title>
+  </g>
+  <g data-width="13" data-height="32" data-default-max-height="19" class="iconic-container" transform=" translate(9 0)">
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" class="iconic-arrow-stem iconic-property-stroke" d="M0 9.5h29" fill="none" transform=" rotate(90 16 16 ) translate(0 16)"></path>
+    <path d="M31.6 9.7l-11.1 6c-.2.1-.4 0-.4-.3v-12c0-.3.2-.4.4-.3l11.1 6c.2.3.2.5 0 .6z" class="iconic-arrow-head iconic-arrow-head-fill-large-acute iconic-property-fill" display="inline" transform=" rotate(90 16 16 ) translate(0 16)"></path>
+  </g>
+</svg>

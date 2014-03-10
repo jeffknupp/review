@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="fullscreen-exit" width="16" height="16" class="iconic iconic-fullscreen iconic-orientation-square iconic-size-sm iconic-fullscreen-exit" viewBox="0 0 16 16">
+  <g>
+    <title>Fullscreen Exit</title>
+  </g>
+  <g data-width="16" data-height="16" class="iconic-container iconic-fullscreen-exit" transform="scale(1 1 ) translate(0 ) ">
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-fullscreen-exit-line iconic-fullscreen-exit-line-bottom iconic-property-stroke" d="M12 12.1l3 2.9" fill="none"></path>
+    <path class="iconic-fullscreen-exit-arrowhead iconic-fullscreen-exit-arrowhead-bottom iconic-property-fill" d="M10 10v6l6-6z"></path>
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-fullscreen-exit-line iconic-fullscreen-exit-line-top iconic-property-stroke" d="M4 4l-3-3" fill="none"></path>
+    <path class="iconic-fullscreen-exit-arrowhead iconic-fullscreen-exit-arrowhead-top iconic-property-fill" d="M6 6v-6l-6 6z"></path>
+  </g>
+</svg>

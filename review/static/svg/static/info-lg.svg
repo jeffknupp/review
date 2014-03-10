@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="info" class="iconic iconic-info iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Info</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="128" transform="translate(48)">
+    <circle cx="24" cy="8" r="8" class="iconic-info-dot iconic-property-fill" />
+    <path d="M0 116c0 6.6 5.4 12 12 12s12-5.4 12-12v-4h-2v4c0 2.2-1.8 4-4 4s-4-1.9-4-4 12-73.4 12-80-5.4-12-12-12-12 5.4-12 12v4h2v-4c0-2.2 1.8-4 4-4s4 1.9 4 4-12 73.4-12 80z" class="iconic-info-vertical-line iconic-property-fill" />
+  </g>
+</svg>

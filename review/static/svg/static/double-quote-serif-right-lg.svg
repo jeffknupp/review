@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="double-quote-serif-right" width="128" height="128" class="iconic iconic-double-quote-serif iconic-size-lg iconic-double-quote-serif-right" viewBox="0 0 128 128">
+  <g>
+    <title>Double Quote Serif Right</title>
+  </g>
+  <g data-width="128" data-height="112" class="iconic-container iconic-double-quote-serif-right" transform="translate(0 8 ) scale(1 1 ) ">
+    <path stroke="#000" stroke-width="16" stroke-miterlimit="10" d="M0 104c26.5 0 48-21.5 48-48v-12" class="iconic-double-quote-serif-right-left iconic-double-quote-serif-right-curl iconic-property-stroke" fill="none"></path>
+    <path d="M1.5 0h53c.8 0 1.5.7 1.5 1.5v53c0 .8-.7 1.5-1.5 1.5h-53c-.8 0-1.5-.7-1.5-1.5v-53c0-.8.7-1.5 1.5-1.5z" class="iconic-double-quote-serif-right-left iconic-double-quote-serif-right-block iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="16" stroke-miterlimit="10" d="M72 104c26.5 0 48-21.5 48-48v-12" class="iconic-double-quote-serif-right-right iconic-double-quote-serif-right-curl iconic-property-stroke" fill="none"></path>
+    <path d="M73.5 0h53c.8 0 1.5.7 1.5 1.5v53c0 .8-.7 1.5-1.5 1.5h-53c-.8 0-1.5-.7-1.5-1.5v-53c0-.8.7-1.5 1.5-1.5z" class="iconic-double-quote-serif-right-right iconic-double-quote-serif-right-block iconic-property-fill"></path>
+  </g>
+</svg>

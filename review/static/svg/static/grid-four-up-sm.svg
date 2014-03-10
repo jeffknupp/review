@@ -1,0 +1,23 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="grid-four-up" width="16" height="16" class="iconic iconic-grid iconic-orientation-square iconic-size-sm iconic-grid-four-up" viewBox="0 0 16 16">
+  <g>
+    <title>Grid Four Up</title>
+  </g>
+  <g data-width="14" data-height="14" class="iconic-container iconic-grid-four-up" transform="scale(1 1 ) translate(1 1 ) ">
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-16 iconic-grid-four-up-row-4 iconic-grid-four-up-column-4 iconic-property-fill" d="M12 12h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-15 iconic-grid-four-up-row-4 iconic-grid-four-up-column-3 iconic-property-fill" d="M8 12h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-14 iconic-grid-four-up-row-4 iconic-grid-four-up-column-2 iconic-property-fill" d="M4 12h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-13 iconic-grid-four-up-row-4 iconic-grid-four-up-column-1 iconic-property-fill" d="M0 12h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-12 iconic-grid-four-up-row-3 iconic-grid-four-up-column-4 iconic-property-fill" d="M12 8h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-11 iconic-grid-four-up-row-3 iconic-grid-four-up-column-3 iconic-property-fill" d="M8 8h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-10 iconic-grid-four-up-row-3 iconic-grid-four-up-column-2 iconic-property-fill" d="M4 8h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-9 iconic-grid-four-up-row-3 iconic-grid-four-up-column-1 iconic-property-fill" d="M0 8h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-8 iconic-grid-four-up-row-2 iconic-grid-four-up-column-4 iconic-property-fill" d="M12 4h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-7 iconic-grid-four-up-row-2 iconic-grid-four-up-column-3 iconic-property-fill" d="M8 4h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-6 iconic-grid-four-up-row-2 iconic-grid-four-up-column-2 iconic-property-fill" d="M4 4h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-5 iconic-grid-four-up-row-2 iconic-grid-four-up-column-1 iconic-property-fill" d="M0 4h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-4 iconic-grid-four-up-row-1 iconic-grid-four-up-column-4 iconic-property-fill" d="M12 0h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-3 iconic-grid-four-up-row-1 iconic-grid-four-up-column-3 iconic-property-fill" d="M8 0h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-2 iconic-grid-four-up-row-1 iconic-grid-four-up-column-2 iconic-property-fill" d="M4 0h2v2h-2z"></path>
+    <path class="iconic-grid-four-up-item iconic-grid-four-up-item-1 iconic-grid-four-up-row-1 iconic-grid-four-up-column-1 iconic-property-fill" d="M0 0h2v2h-2z"></path>
+  </g>
+</svg>

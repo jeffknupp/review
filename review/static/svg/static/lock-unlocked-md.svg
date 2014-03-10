@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="lock-unlocked" width="32" height="32" class="iconic iconic-lock iconic-size-md iconic-lock-unlocked" viewBox="0 0 32 32">
+  <g>
+    <title>Lock Unlocked</title>
+  </g>
+  <g data-width="24" data-height="32" class="iconic-container iconic-lock-unlocked" transform="scale(1 1 ) translate(4 ) ">
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M5.5 11v-3c0-3.6 2.9-6.5 6.5-6.5s6.5 2.9 6.5 6.5v11" class="iconic-lock-unlocked-loop iconic-property-accent iconic-property-stroke" fill="none"></path>
+    <path class="iconic-lock-unlocked-body iconic-lock-unlocked-body-main iconic-property-fill" d="M0 16h24v11h-24z"></path>
+    <path class="iconic-lock-unlocked-body iconic-lock-unlocked-body-top iconic-property-fill" d="M0 28h24v4h-24z"></path>
+  </g>
+</svg>

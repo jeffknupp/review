@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="timer" class="iconic iconic-timer iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Timer</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-timer-clip-0">
+      <path d="M13.8 3.6l-5.3 6.7c-.5.5-1 .7-1.5.7s-1-.2-1.4-.6-.6-.9-.6-1.4.2-1 .6-1.4l6.7-5.3.4-.3h-12.7v14h14v-12.7l-.2.3z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="14" data-height="16" transform="translate(1)">
+    <path class="iconic-timer-stop-button iconic-timer-stop-button-base iconic-property-fill" d="M6 0h2v3h-2z" />
+    <path class="iconic-timer-stop-button iconic-timer-stop-button-top iconic-property-fill" d="M5 0h4v1h-4z" />
+    <path d="M6.3 8.3c-.4.4-.4 1 0 1.4s1 .4 1.4 0l5.3-6.7-6.7 5.3z" class="iconic-timer-needle iconic-property-fill" />
+    <circle clip-path="url(#iconic-size-sm-timer-clip-0)" fill="#fff" stroke="#000" stroke-width="2" stroke-miterlimit="10" cx="7" cy="9" r="6" class="iconic-timer-body iconic-property-stroke" />
+  </g>
+</svg>

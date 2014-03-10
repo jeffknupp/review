@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-thick-top-right-fill-angled" width="128" height="128" class="iconic iconic-arrow-thick iconic-size-lg iconic-arrow-thick-top-right-fill-angled" viewBox="0 0 128 128">
+  <g>
+    <title>Arrow Thick Top Right Fill Angled</title>
+  </g>
+  <g data-width="128" data-height="128" data-default-max-height="76" class="iconic-container" transform="translate(0 ) scale(1 1 ) ">
+    <path stroke="#000" stroke-width="16" stroke-miterlimit="10" class="iconic-arrow-thick-stem iconic-property-stroke" d="M0 38h110" fill="none" transform="rotate(-45 64 64 ) translate(0 26 ) "></path>
+    <path d="M126.6 37.4l-47.2-20.8c-.8-.3-1.1 0-.9.8l7 19.2c.3.8.3 2 0 2.8l-7 19.2c-.3.8.1 1.1.9.8l47.3-20.8c.7-.3.7-.9-.1-1.2z" class="iconic-arrow-thick-head iconic-arrow-thick-head-fill-angled iconic-property-fill" display="inline" transform="rotate(-45 64 64 ) translate(0 26 ) "></path>
+  </g>
+</svg>

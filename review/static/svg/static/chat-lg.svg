@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="chat" class="iconic iconic-chat iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Chat</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-chat-clip-0">
+      <path d="M46 72h-46v-72h83v16h-37z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="90" transform="translate(0 19)">
+    <path d="M48 19.5v55c0 .8.7 1.5 1.5 1.5h65c.8 0 1.9.5 2.5 1.1l10 11.7c.5.6 1 .5 1-.4v-69c0-.8-.7-1.5-1.5-1.5h-77c-.8.1-1.5.8-1.5 1.6z" class="iconic-chat-bubble iconic-chat-bubble-front iconic-property-fill" />
+    <path d="M0 1.5v69c0 .8.4 1 1 .4l10-11.7c.5-.6 1.6-1.1 2.5-1.1h65c.8 0 1.5-.7 1.5-1.5v-55c0-.9-.7-1.6-1.5-1.6h-77c-.8 0-1.5.7-1.5 1.5z" clip-path="url(#iconic-size-lg-chat-clip-0)" class="iconic-chat-bubble iconic-chat-bubble-back iconic-property-accent iconic-property-fill"
+    />
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="bitcoin-address" class="iconic iconic-bitcoin-address iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Bitcoin Address</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-bitcoin-address-square iconic-bitcoin-address-square-top-left iconic-bitcoin-address-square-top-left-outer iconic-property-stroke" fill="none" d="M2 2h36v36h-36z" />
+    <path class="iconic-bitcoin-address-square iconic-bitcoin-address-square-top-left iconic-bitcoin-address-square-top-left-inner iconic-property-fill" d="M12 12h16v16h-16z" />
+    <path stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-bitcoin-address-square iconic-bitcoin-address-square-top-right iconic-bitcoin-address-square-top-right-outer iconic-property-stroke" fill="none" d="M90 2h36v36h-36z" />
+    <path class="iconic-bitcoin-address-square iconic-bitcoin-address-square-top-right iconic-bitcoin-address-square-top-right-inner iconic-property-fill" d="M100 12h16v16h-16z" />
+    <path stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-bitcoin-address-square iconic-bitcoin-address-square-bottom-left iconic-bitcoin-address-square-bottom-left-outer iconic-property-stroke" fill="none" d="M2 90h36v36h-36z" />
+    <path class="iconic-bitcoin-address-square iconic-bitcoin-address-square-bottom-left iconic-bitcoin-address-square-bottom-left-inner iconic-property-fill" d="M12 100h16v16h-16z" />
+    <path d="M52 56v-4h4v8h-4v-4zm8 36v-4h-4v4h4zm8 28h-4v4h4v-4zm0-120h-4v4h4v-4zm0 64h4v-4h-4v4zm4-4h4v-8h-4v8zm-16-44v-4h-8v8h4v-4h4zm-8 8h-4v4h8v-4h-4zm24-8v-4h-4v4h4zm12-4h-4v4h4v-4zm-4-8h4v-4h-12v4h4v8h4v-8zm-44 72v-4h-4v4h-4v4h12v4h4v-8h-8zm52-32v4h-4v4h-4v-4h-4v-4h-4v8h-4v-4h-4v-8h-4v4h-4v4h-4v-4h-4v-4h-4v-4h8v4h4v-4h-4v-8h4v-4h-4v-4h8v4h4v-4h-4v-8h-4v-4h4v-4h4v4h4v4h-4v4h4v4h4v-4h8v8h-4v8h4v4h-4v4h4v4h8zm-20-20v4h4v-4h-4zm4 16v-8h-4v8h4zm16 12h4v-4h-4v4zm-68 8v-4h4v-4h-8v4h-4v4h-4v-4h-8v8h4v4h4v4h4v-8h4v-4h4zm-8-8h-4v4h4v-4zm-8-4v-4h-4v8h8v-4h-4zm8 4h4v-8h-8v4h4v4zm8-8v4h4v-4h-4zm4 28v4h4v-4h-4zm-16 0h-4v4h4v-4zm-8-4v4h4v-4h-4zm12 12h-8v-4h-4v8h16v-4h4v-4h-4v-4h-4v8zm44-16v8h-12v4h12v4h8v4h4v-4h4v-4h-4v-8h-4v-4h-4v-4h-4v4zm12-12h-4v-4h-4v12h8v-8zm4 36h-8v8h-4v4h4v4h-4v-4h-4v8h4v4h-4v8h4v-4h4v-4h8v-8h4v-8h-4v4h-4v-4h4v-4h4v-12h-4v8zm-20 20v4h4v-4h-4zm0-8h4v-8h-4v4h-4v4h-4v4h4v4h4v-8zm0 24h4v-4h-4v4zm8 4h4v-4h-8v4h4zm12-12h-4v4h4v-4zm-44-48v4h4v-8h4v4h4v-4h4v4h8v-4h-4v-12h4v-4h-8v12h-4v-4h-4v-4h4v-8h-4v4h-12v4h8v4h-8v4h-4v4h-4v4h4v4h4v-4h4zm36 16h-4v4h4v-4zm-8 0h-4v4h4v-4zm-8 4h-4v4h8v-4h-4zm-4 24h4v-4h-4v4zm4 8h4v-4h-8v12h8v-4h-4v-4zm24 8h4v-8h-4v8zm20-84v4h4v-4h-4zm-8-16h-4v4h4v-4zm0 12v-4h-4v4h4zm-32-32v-4h4v-4h-12v12h4v-4h4z"
+    class="iconic-bitcoin-address-binary iconic-property-fill" />
+    <path class="iconic-bitcoin-address-strike iconic-bitcoin-address-strike-bottom iconic-bitcoin-address-strike-left iconic-property-accent iconic-property-fill" d="M96 118h8v10h-8z" />
+    <path class="iconic-bitcoin-address-strike iconic-bitcoin-address-strike-bottom iconic-bitcoin-address-strike-right iconic-property-accent iconic-property-fill" d="M112 118h8v10h-8z" />
+    <path class="iconic-bitcoin-address-strike iconic-bitcoin-address-strike-top iconic-bitcoin-address-strike-left iconic-property-accent iconic-property-fill" d="M96 56h8v10h-8z" />
+    <path class="iconic-bitcoin-address-strike iconic-bitcoin-address-strike-top iconic-bitcoin-address-strike-right iconic-property-accent iconic-property-fill" d="M112 56h8v10h-8z" />
+    <path d="M128 112h-8v-16h8v16zm-8-40v-8h-40v8h8v40h-8v8h40v-8h-24v-16h24v-8h-24v-16h24zm8 0h-8v16h8v-16z" class="iconic-bitcoin-address-b iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

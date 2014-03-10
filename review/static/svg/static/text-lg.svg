@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="text" class="iconic iconic-text iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Text</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path d="M124 0h-120l-4 28h4c0-11 9-20 20-20h32v106c0 5.5-4.5 10-10 10h-5.7v4h47.7v-4h-6c-5.5 0-10-4.5-10-10v-106h32c11 0 20 9 20 20h4l-4-28z" class="iconic-property-fill" />
+  </g>
+</svg>

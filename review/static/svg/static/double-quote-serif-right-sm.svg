@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="double-quote-serif-right" width="16" height="16" class="iconic iconic-double-quote-serif iconic-size-sm iconic-double-quote-serif-right" viewBox="0 0 16 16">
+  <g>
+    <title>Double Quote Serif Right</title>
+  </g>
+  <g data-width="16" data-height="14" class="iconic-container iconic-double-quote-serif-right" transform="scale(1 1 ) translate(0 1 ) ">
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M0 12.5c3 0 5.5-2.5 5.5-5.5v-4" class="iconic-double-quote-serif-right-left iconic-double-quote-serif-right-curl iconic-property-stroke" fill="none"></path>
+    <path class="iconic-double-quote-serif-right-left iconic-double-quote-serif-right-block iconic-property-fill" d="M0 0h7v7h-7z"></path>
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M9 12.5c3 0 5.5-2.5 5.5-5.5v-4" class="iconic-double-quote-serif-right-right iconic-double-quote-serif-right-curl iconic-property-stroke" fill="none"></path>
+    <path class="iconic-double-quote-serif-right-right iconic-double-quote-serif-right-block iconic-property-fill" d="M9 0h7v7h-7z"></path>
+  </g>
+</svg>

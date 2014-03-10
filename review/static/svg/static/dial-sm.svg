@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="dial" class="iconic iconic-dial iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Dial</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-dial-clip-0">
+      <path d="M8 3v4.5c0 .3-.2.5-.5.5s-.5-.2-.5-.5v-4.5h-4v9h9v-9h-4z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="15" data-height="12" transform="translate(0 2)">
+    <circle cx="7.5" cy="7.5" r="4.5" clip-path="url(#iconic-size-sm-dial-clip-0)" class="iconic-dial-body iconic-property-fill" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" d="M.5 7.5c0-3.9 3.1-7 7-7s7 3.1 7 7" class="iconic-dial-notches iconic-property-accent iconic-property-stroke" fill="none" />
+  </g>
+</svg>

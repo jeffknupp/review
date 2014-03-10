@@ -1,0 +1,55 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-icon="browser" width="128" height="128" class="iconic iconic-browser" viewBox="0 0 128 128">
+  <g><title>Browser</title></g>
+  <defs>
+    <clipPath id="iconic-size-lg-browser-clip-0">
+      <path d="M0 11v93h128v-93h-128zm124 89h-120v-86h120v86z"/>
+    </clipPath>
+    <clipPath id="iconic-size-lg-browser-clip-1">
+      <path d="M0 0v14h128v-14h-128zm8 10l-4.1-2 4.1-2v4zm4 0v-4l4 2-4 2zm110.1 0h-100.1c-1.1 0-2-.9-2-2s.9-2 2-2h100.1c1.1 0 2 .9 2 2s-.9 2-2 2z"/>
+    </clipPath>
+    <clipPath id="iconic-size-md-browser-clip-0">
+      <path d="M0 4v23h32v-23h-32zm30 21h-28v-20h28v20z"/>
+    </clipPath>
+    <clipPath id="iconic-size-md-browser-clip-1">
+      <path d="M0 0v5h32v-5h-32zm3 3l-1-.5 1-.5v1zm1 0v-1l1 .5-1 .5zm25.5 0h-23c-.3 0-.5-.2-.5-.5s.2-.5.5-.5h23c.3 0 .5.2.5.5s-.2.5-.5.5z"/>
+    </clipPath>
+    <clipPath id="iconic-size-sm-browser-clip-0">
+      <path d="M0 2.5v11.5h16v-11.5h-16zm15 10.5h-14v-10h14v10z"/>
+    </clipPath>
+    <clipPath id="iconic-size-sm-browser-clip-1">
+      <path d="M0 0v3h16v-3h-16zm1.5 2c-.3 0-.5-.2-.5-.5s.2-.5.5-.5.5.2.5.5-.2.5-.5.5zm2 0c-.3 0-.5-.2-.5-.5s.2-.5.5-.5.5.2.5.5-.2.5-.5.5zm10 0h-8c-.3 0-.5-.2-.5-.5s.2-.5.5-.5h8c.3 0 .5.2.5.5s-.2.5-.5.5z"/>
+    </clipPath>
+  </defs>
+  <g data-width="128" data-height="104" class="iconic-lg iconic-container" display="inline" transform="translate(0 12)">
+    <path clip-path="url(#iconic-size-lg-browser-clip-0)" d="M126.5 104h-125c-.8 0-1.5-.7-1.5-1.5v-90c0-.8.7-1.5 1.5-1.5h125c.8 0 1.5.7 1.5 1.5v90c0 .8-.7 1.5-1.5 1.5z" class="iconic-browser-border iconic-property-fill"/>
+    <path clip-path="url(#iconic-size-lg-browser-clip-1)" d="M0 0v14h128v-14h-128z" class="iconic-browser-top iconic-property-fill"/>
+    <foreignObject class="iconic-browser-screenshot-container" x="4" y="14" width="120" height="86">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:120px; height:86px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-browser-screenshot" src="" style="display:block !important; max-width:100% !important; height:auto !important;"/>
+      </body>
+    </foreignObject>
+  </g>
+  <g data-width="32" data-height="27" class="iconic-md iconic-container" display="none" transform="scale(4) translate(0 2)">
+    <path clip-path="url(#iconic-size-md-browser-clip-0)" d="M31.5 27h-31c-.3 0-.5-.2-.5-.5v-22c0-.3.2-.5.5-.5h31c.3 0 .5.2.5.5v22c0 .3-.2.5-.5.5z" class="iconic-browser-border iconic-property-fill"/>
+    <path clip-path="url(#iconic-size-md-browser-clip-1)" d="M31.5 5h-31c-.3 0-.5-.2-.5-.5v-4c0-.3.2-.5.5-.5h31c.3 0 .5.2.5.5v4c0 .3-.2.5-.5.5z" class="iconic-browser-top iconic-property-fill"/>
+    <foreignObject class="iconic-browser-screenshot-container" x="2" y="5" width="28" height="20">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:28px; height:20px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-browser-screenshot" src="" style="display:block !important; max-width:100% !important; height:auto !important;"/>
+      </body>
+    </foreignObject>
+  </g>
+  <g data-width="16" data-height="14" class="iconic-sm iconic-container" display="none" transform="scale(8) translate(0 1)">
+    <path clip-path="url(#iconic-size-sm-browser-clip-0)" class="iconic-browser-border iconic-property-fill" d="M0 2.5h16v11.5h-16z"/>
+    <path clip-path="url(#iconic-size-sm-browser-clip-1)" class="iconic-browser-top iconic-property-fill" d="M0 0h16v3h-16z"/>
+    <foreignObject class="iconic-browser-screenshot-container" x="1" y="3" width="14" height="10">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:14px; height:10px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-browser-screenshot" src="" style="display:block !important; max-width:100% !important; height:auto !important;"/>
+      </body>
+    </foreignObject>
+  </g>
+<script class="iconic-api" type="application/ecmascript">
+//<![CDATA[
+var iconicApis=window._Iconic?window._Iconic.smartIconApis:{};iconicApis["browser"]=iconicApis["browser"]||function(t){var e=function(e){t.setAttribute("data-screenshot",e);for(var a=t.querySelectorAll(".iconic-browser-screenshot-container"),r=0;r<a.length;r++)a[r]&&a[r].style&&(a[r].style.display="none"),a[r]&&a[r].style&&(a[r].style.display="block");for(var i=t.querySelectorAll(".iconic-browser-screenshot"),r=0;r<i.length;r++)e&&""!==e?i[r].setAttribute("src",e):i[r].removeAttribute("src")},a=function(){var a=t.getAttribute("data-screenshot")||"";e(a)};return{update:a,setScreenshot:e}};
+//]]>
+</script>
+</svg>

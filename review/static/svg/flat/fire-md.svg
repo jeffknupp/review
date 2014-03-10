@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32" data-icon="fire" data-container-transform="translate(3)" viewBox="0 0 32 32">
+  <g transform="translate(3)">
+    <path d="M8 0c4 8-8 12-8 20s8 12 8 12c-3.9-7.9 8-12 8-20s-8-12-8-12zm10 10c4 8-8 12-8 20 0 1 .4 1.7 1 2h8c1.5 0 2.106-.7 2.406-1 2.3-2.7 4.594-5.5 4.594-9 0-8-8-12-8-12z" />
+  </g>
+</svg>

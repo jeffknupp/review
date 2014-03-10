@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="double-quote-serif-left" width="32" height="32" class="iconic iconic-double-quote-serif iconic-size-md iconic-double-quote-serif-left" viewBox="0 0 32 32">
+  <g>
+    <title>Double Quote Serif Left</title>
+  </g>
+  <g data-width="32" data-height="28" class="iconic-container iconic-double-quote-serif-left" transform="scale(1 1 ) translate(0 2 ) ">
+    <path stroke="#000" stroke-width="5" stroke-miterlimit="10" d="M14 2.5c-6.4 0-11.5 5.1-11.5 11.5v5" class="iconic-double-quote-serif-left-left iconic-double-quote-serif-left-curl iconic-property-stroke" fill="none"></path>
+    <path d="M13.5 28h-13c-.3 0-.5-.2-.5-.5v-13c0-.3.2-.5.5-.5h13c.3 0 .5.2.5.5v13c0 .3-.2.5-.5.5z" class="iconic-double-quote-serif-left-left iconic-double-quote-serif-left-block iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="5" stroke-miterlimit="10" d="M32 2.5c-6.4 0-11.5 5.1-11.5 11.5v5" class="iconic-double-quote-serif-left-right iconic-double-quote-serif-left-curl iconic-property-stroke" fill="none"></path>
+    <path d="M31.5 28h-13c-.3 0-.5-.2-.5-.5v-13c0-.3.2-.5.5-.5h13c.3 0 .5.2.5.5v13c0 .3-.2.5-.5.5z" class="iconic-double-quote-serif-left-right iconic-double-quote-serif-left-block iconic-property-fill"></path>
+  </g>
+</svg>

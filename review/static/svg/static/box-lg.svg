@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="box" class="iconic iconic-box iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Box</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-box-clip-0">
+      <path d="M2 10v110h124v-110h-124zm78 18.5c0 .8-.7 1.5-1.5 1.5h-29c-.8 0-1.5-.7-1.5-1.5v-9c0-.8.7-1.5 1.5-1.5h29c.8 0 1.5.7 1.5 1.5v9z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="120" transform="translate(0 4)">
+    <path clip-path="url(#iconic-size-lg-box-clip-0)" d="M124.5 120h-121c-.8 0-1.5-.7-1.5-1.5v-109c0-.8.7-1.5 1.5-1.5h121c.8 0 1.5.7 1.5 1.5v109c0 .8-.7 1.5-1.5 1.5z" class="iconic-box-shell iconic-property-fill" />
+    <path class="iconic-box-lid iconic-property-fill" d="M0 0h128v8h-128z" />
+  </g>
+</svg>

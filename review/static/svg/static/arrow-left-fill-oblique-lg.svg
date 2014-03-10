@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-left-fill-oblique" width="128" height="128" class="iconic iconic-arrow iconic-size-lg iconic-arrow-left-fill-oblique" viewBox="0 0 128 128">
+  <g>
+    <title>Arrow Left Fill Oblique</title>
+  </g>
+  <g data-width="128" data-height="36" data-default-max-height="64" class="iconic-container" transform=" translate(0 46)">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-arrow-stem iconic-property-stroke" d="M0 32h118" fill="none" transform=" rotate(180 64 64 ) translate(0 78)"></path>
+    <path d="M127.1 30.8l-12.2-15.6c-.5-.7-.9-.5-.9.3v33c0 .8.4 1 .9.3l12.2-15.6c.5-.7.5-1.7 0-2.4z" class="iconic-arrow-head iconic-arrow-head-fill-oblique iconic-property-fill" display="inline" transform=" rotate(180 64 64 ) translate(0 78)"></path>
+  </g>
+</svg>

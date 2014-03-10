@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="resize-height" width="32" height="32" class="iconic iconic-resize iconic-size-md iconic-resize-height" viewBox="0 0 32 32">
+  <g>
+    <title>Resize Height</title>
+  </g>
+  <g data-width="9" data-height="32" class="iconic-container iconic-resize-height" transform="scale(1 1 ) translate(11 ) ">
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-resize-height-line iconic-property-stroke" d="M4.5 5v22" fill="none"></path>
+    <path d="M4.8.4l3.9 5.2c.2.2.1.4-.2.4h-8c-.3 0-.4-.2-.2-.4l3.9-5.2c.2-.2.4-.2.6 0z" class="iconic-resize-height-arrowhead iconic-resize-height-arrowhead-top iconic-property-fill"></path>
+    <path d="M.3 26.4l3.9 5.2c.2.2.4.2.6 0l3.9-5.2c.2-.2.1-.4-.2-.4h-8c-.3 0-.4.2-.2.4z" class="iconic-resize-height-arrowhead iconic-resize-height-arrowhead-bottom iconic-property-fill"></path>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="media-play" width="16" height="16" class="iconic iconic-media iconic-size-sm iconic-media-play" viewBox="0 0 16 16">
+  <g>
+    <title>Media Play</title>
+  </g>
+  <g data-width="8" data-height="8" class="iconic-container iconic-media-play" transform="scale(1 1 ) translate(4 4 ) ">
+    <path class="iconic-property-fill" d="M8 4l-8 4v-8z"></path>
+  </g>
+</svg>

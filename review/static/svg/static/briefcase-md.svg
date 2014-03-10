@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="briefcase" class="iconic iconic-briefcase iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Briefcase</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-briefcase-clip-0">
+      <path d="M1.5 12h10.5v-.8c0-.7.6-1.2 1.2-1.2h5.5c.7 0 1.2.6 1.2 1.2v.8h10.5c.8 0 1.5-.5 1.5-1v-8h-31.9v8c0 .5.7 1 1.5 1z" />
+    </clipPath>
+    <clipPath id="iconic-size-md-briefcase-clip-1">
+      <path d="M30.5 13h-10.5v.8c0 .7-.6 1.2-1.2 1.2h-5.5c-.7 0-1.2-.6-1.2-1.2v-.8h-10.6c-.6 0-1.1-.2-1.5-.4v14.4h32v-14.4c-.4.2-.9.4-1.5.4z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="32" data-height="27" transform="translate(0 2)">
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" d="M19.5 3.5v-2.5c0-.3-.2-.5-.5-.5h-6c-.3 0-.5.2-.5.5v2.5" class="iconic-briefcase-handle iconic-property-stroke" fill="none" />
+    <path clip-path="url(#iconic-size-md-briefcase-clip-0)" d="M31.5 16h-31c-.3 0-.5-.2-.5-.5v-12c0-.3.2-.5.5-.5h31c.3 0 .5.2.5.5v12c0 .3-.2.5-.5.5z" class="iconic-briefcase-body iconic-briefcase-body-top iconic-property-fill" />
+    <path clip-path="url(#iconic-size-md-briefcase-clip-1)" d="M31.5 27h-31c-.3 0-.5-.2-.5-.5v-17c0-.3.2-.5.5-.5h31c.3 0 .5.2.5.5v17c0 .3-.2.5-.5.5z" class="iconic-briefcase-body iconic-briefcase-body-bottom iconic-property-fill" />
+    <path d="M13.2 11c-.1 0-.2.1-.2.2v2.6c0 .1.1.2.2.2h5.5c.1 0 .2-.1.2-.2v-2.6c0-.1-.1-.2-.2-.2h-5.5z" class="iconic-briefcase-body iconic-briefcase-body-buckle iconic-property-fill" />
+  </g>
+</svg>

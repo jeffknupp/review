@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="iphone" class="iconic iconic-iphone iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Iphone</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-iphone-clip-0">
+      <path d="M0 0v32h15v-32h-15zm5.5 2h4c.3 0 .5.2.5.5s-.2.5-.5.5h-4c-.3 0-.5-.2-.5-.5s.2-.5.5-.5zm2 29c-.8 0-1.5-.7-1.5-1.5s.7-1.5 1.5-1.5 1.5.7 1.5 1.5-.7 1.5-1.5 1.5zm6.5-4h-13v-23h13v23z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="15" data-height="32" transform="translate(8)">
+    <path clip-path="url(#iconic-size-md-iphone-clip-0)" d="M13 0h-11c-1.1 0-2 .9-2 2v28c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2v-28c0-1.1-.9-2-2-2z" class="iconic-iphone-body iconic-property-fill" />
+  </g>
+</svg>

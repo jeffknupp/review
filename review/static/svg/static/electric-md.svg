@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="electric" class="iconic iconic-electric iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Electric</title>
+  </g>
+  <g class="iconic-container" data-width="18" data-height="32" transform="translate(7)">
+    <path class="iconic-property-fill" d="M11 0l-11 20h7v12l11-20h-7z" />
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="monitor" class="iconic iconic-monitor iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Monitor</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="15">
+    <path class="iconic-monitor-base iconic-monitor-base-neck iconic-property-fill" d="M6 12h4v2.3h-4z" />
+    <path d="M12 14h-8c-.6 0-1 .4-1 1h10c0-.6-.4-1-1-1z" class="iconic-monitor-base iconic-monitor-base-foot iconic-property-fill" />
+    <path stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" class="iconic-monitor-screen iconic-monitor-screen-border iconic-property-stroke" fill="none" d="M.5.5h15v10h-15z" />
+  </g>
+</svg>

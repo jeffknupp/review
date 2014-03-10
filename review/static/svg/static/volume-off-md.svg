@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="volume-off" width="32" height="32" class="iconic iconic-volume iconic-size-md iconic-volume-off" viewBox="0 0 32 32">
+  <g>
+    <title>Volume Off</title>
+  </g>
+  <g data-width="28" data-height="24" class="iconic-container iconic-volume-off" transform="scale(1 1 ) translate(2 4 ) ">
+    <path d="M12.6.3l-7.2 6.4c-.2.2-.6.3-.9.3h-4c-.3 0-.5.2-.5.5v9c0 .3.2.5.5.5h4c.3 0 .7.1.9.3l7.2 6.3c.2.2.6.3.9.3.3 0 .5-.2.5-.5v-23c0-.2-.2-.4-.5-.4s-.7.1-.9.3z" class="iconic-volume-off-speaker iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="2" stroke-linejoin="round" class="iconic-volume-off-mute iconic-property-accent iconic-property-stroke" d="M26.5 7.5l-8 8m8 0l-8-8" fill="none"></path>
+  </g>
+</svg>

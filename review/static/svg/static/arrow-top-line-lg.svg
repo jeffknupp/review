@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-top-line" width="128" height="128" class="iconic iconic-arrow iconic-size-lg iconic-arrow-top-line" viewBox="0 0 128 128">
+  <g>
+    <title>Arrow Top Line</title>
+  </g>
+  <g data-width="49" data-height="128" data-default-max-height="64" class="iconic-container" transform=" translate(39 0)">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-arrow-stem iconic-property-stroke" d="M0 32h118" fill="none" transform=" rotate(270 64 64 ) translate(0 -8)"></path>
+    <path class="iconic-arrow-head iconic-arrow-head-line iconic-property-fill" d="M128 32l-24-24h-10l24 24-24 24h10z" display="inline" transform=" rotate(270 64 64 ) translate(0 -8)"></path>
+  </g>
+</svg>

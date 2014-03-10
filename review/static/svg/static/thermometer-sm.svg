@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="thermometer" class="iconic iconic-thermometer iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Thermometer</title>
+  </g>
+  <g class="iconic-container" data-width="8" data-height="16" transform="translate(4)">
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" d="M1.5 9.6c-.6.6-1 1.5-1 2.4 0 1.9 1.6 3.5 3.5 3.5s3.5-1.6 3.5-3.5c0-1-.4-1.8-1-2.4v-6.6c0-1.4-1.1-2.5-2.5-2.5s-2.5 1.1-2.5 2.5v6.6z" class="iconic-thermometer-body iconic-property-stroke"
+    fill="none" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-thermometer-shaft iconic-property-stroke" fill="none" d="M4 3v9" />
+    <circle cx="4" cy="12" r="2" class="iconic-thermometer-well iconic-property-fill" />
+  </g>
+</svg>

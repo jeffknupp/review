@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="shield" class="iconic iconic-shield iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Shield</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path d="M94.2 96.7c9.3-11.7 20.6-33.1 21.7-69.4l-51.9-14.8v103.7c5 0 17.8-4.1 30.2-19.5z" class="iconic-shield-shadow iconic-property-fill" />
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" d="M64 124.2c17.1 0 60-25.7 60-102.9l-60-17.1-60 17.1c0 77.1 42.9 102.9 60 102.9z" class="iconic-shield-rim iconic-property-stroke" fill="none" />
+  </g>
+</svg>

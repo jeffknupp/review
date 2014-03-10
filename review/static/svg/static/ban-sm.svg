@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="ban" class="iconic iconic-ban iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Ban</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" class="iconic-ban-strike iconic-property-accent iconic-property-stroke" fill="none" d="M13 3l-10 10" />
+    <circle stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" cx="8" cy="8" r="7" class="iconic-ban-circle iconic-property-stroke" fill="none" />
+  </g>
+</svg>

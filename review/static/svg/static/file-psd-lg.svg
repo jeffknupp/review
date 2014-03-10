@@ -1,0 +1,18 @@
+<svg version="1.1" class="iconic iconic-file iconic-size-lg iconic-file-psd" data-icon="file-psd" xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g>
+    <title>File Psd</title>
+  </g>
+  <defs>
+    <clipPath id="file-clip-page-lg-0" data-clip="primary-lg">
+      <path d="M72,0c0-0.55-0.45-1-1-1H1C0.45-1,0-0.55,0,0v127c0,0.55,0.45,1,1,1h96c0.55,0,1.015-0.45,1.033-0.999 l0.933-28.001C98.985,98.45,98.55,98,98,98H37c-0.55,0-1-0.45-1-1V69c0-0.55,0.45-1,1-1h61c0.55,0,1-0.45,1-1V27 c0-0.55-0.45-1-1-1H73c-0.55,0-1-0.45-1-1V0z"></path>
+    </clipPath>
+    <clipPath id="file-clip-flap-lg-1">
+      <path d="M75-2c-0.55,0-1,0.45-1,1v24c0,0.55,0.45,1,1,1h24c0.55,0,1-0.45,1-1V-1c0-0.55-0.45-1-1-1L75-2z"></path>
+    </clipPath>
+  </defs>
+  <g class="iconic-container" transform="translate(15 0 ) scale(1 1 ) " data-width="98" data-height="128">
+    <path class="iconic-file-page iconic-property-fill" clip-path="url(#file-clip-page-lg-0)" d="M98,1c0-0.55-0.45-1-1-1H1C0.45,0,0,0.45,0,1v126c0,0.55,0.45,1,1,1 h96c0.55,0,1-0.45,1-1V1z"></path>
+    <polygon class="iconic-file-flap iconic-property-fill" clip-path="url(#file-clip-flap-lg-1)" points="74,0 74,24 98,24"></polygon>
+    <text class="iconic-file-extension iconic-property-text" x="46" y="90" font-family="sans-serif" font-weight="bold" font-size="15" display="inline">PSD</text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="media-stop" width="128" height="128" class="iconic iconic-media iconic-size-lg iconic-media-stop" viewBox="0 0 128 128">
+  <g>
+    <title>Media Stop</title>
+  </g>
+  <g data-width="64" data-height="64" class="iconic-container iconic-media-stop" transform="translate(32 32 ) scale(1 1 ) ">
+    <path d="M62.5 64h-61c-.8 0-1.5-.7-1.5-1.5v-61c0-.8.7-1.5 1.5-1.5h61c.8 0 1.5.7 1.5 1.5v61c0 .8-.7 1.5-1.5 1.5z" class="iconic-property-fill"></path>
+  </g>
+</svg>

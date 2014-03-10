@@ -1,0 +1,18 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="fork" class="iconic iconic-fork iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Fork</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-fork-clip-0">
+      <path d="M50 54c-7.7 0-14-6.3-14-14s6.3-14 14-14c5.1 0 9.6 2.7 12 6.8v-32.8h-42.8c4.1 2.4 6.8 6.9 6.8 12 0 7.7-6.3 14-14 14-5.1 0-9.6-2.7-12-6.8v89.7c2.4-4.1 6.9-6.8 12-6.8 7.7 0 14 6.3 14 14 0 5.1-2.7 9.6-6.8 12h42.8v-80.9c-2.4 4.1-6.9 6.8-12 6.8z"
+      />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="62" data-height="128" transform="translate(33)">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" d="M12 112v-14c0-4.4 3.3-9.4 7.4-11.1l23.3-9.8c4-1.7 7.3-6.7 7.3-11.1v-22" clip-path="url(#iconic-size-lg-fork-clip-0)" class="iconic-fork-line-fork iconic-property-stroke" fill="none" />
+    <path clip-path="url(#iconic-size-lg-fork-clip-0)" stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-fork-line-trunk iconic-property-stroke" fill="none" d="M12 12v92" />
+    <circle cx="12" cy="116" r="12" class="iconic-fork-point-trunk-start iconic-property-accent iconic-property-fill" />
+    <circle cx="50" cy="40" r="12" class="iconic-fork-point-fork iconic-property-accent iconic-property-fill" />
+    <circle cx="12" cy="12" r="12" class="iconic-fork-point-trunk-start iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

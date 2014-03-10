@@ -1,0 +1,18 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="map" class="iconic iconic-map iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Map</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-map-clip-0">
+      <path d="M10 10h108v108h-108z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path clip-path="url(#iconic-size-lg-map-clip-0)" stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-map-street iconic-map-street-cross iconic-map-street-cross-2 iconic-property-stroke" fill="none" d="M126 46l-79.2 79.2" />
+    <path clip-path="url(#iconic-size-lg-map-clip-0)" stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-map-street iconic-map-street-cross iconic-map-street-cross-1 iconic-property-stroke" fill="none" d="M50 36l32-32"
+    />
+    <path clip-path="url(#iconic-size-lg-map-clip-0)" stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-map-street iconic-map-street-main iconic-property-stroke" fill="none" d="M40 4l84.4 84.4" />
+    <path d="M48 52c-8.8 0-16 7.2-16 16 0 12 16 32 16 32s16-20 16-32c0-8.8-7.2-16-16-16zm0 24c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z" class="iconic-map-map-marker iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" d="M122.5 124h-117c-.8 0-1.5-.7-1.5-1.5v-117c0-.8.7-1.5 1.5-1.5h117c.8 0 1.5.7 1.5 1.5v117c0 .8-.7 1.5-1.5 1.5z" class="iconic-map-frame iconic-property-stroke" fill="none" />
+  </g>
+</svg>

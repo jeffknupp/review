@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="link-broken" width="16" height="16" class="iconic iconic-link iconic-size-sm iconic-link-broken" viewBox="0 0 16 16">
+  <g>
+    <title>Link Broken</title>
+  </g>
+  <g data-width="16" data-height="16" class="iconic-container iconic-link-broken" transform="scale(1 1 ) translate(0 ) " stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" fill="none">
+    <path stroke-width="2" stroke-linecap="square" d="M12.2 8l1.9-1.9c1.2-1.2 1.2-3.1 0-4.2-.8-.9-2-1.1-3.1-.7-.4.1-.8.4-1.1.7l-1.9 1.9" class="iconic-link-broken-link iconic-link-broken-link-top iconic-property-stroke"></path>
+    <path stroke-width="2" stroke-linecap="square" d="M3.9 7.9l-2 2c-1.2 1.2-1.2 3.1 0 4.2.8.9 2 1.1 3.1.7.4-.1.8-.4 1.1-.7l2-2" class="iconic-link-broken-link iconic-link-broken-link-bottom iconic-property-stroke"></path>
+    <path stroke-linecap="round" class="iconic-link-broken-link-break iconic-link-broken-link-break-left iconic-link-broken-link-break-top iconic-link-broken-link-break-left-top iconic-property-accent iconic-property-stroke" d="M5.5 1.5v2"></path>
+    <path stroke-linecap="round" class="iconic-link-broken-link-break iconic-link-broken-link-break-left iconic-link-broken-link-break-bottom iconic-link-broken-link-break-left-bottom iconic-property-accent iconic-property-stroke" d="M3.5 5.5h-2"></path>
+    <path stroke-linecap="round" class="iconic-link-broken-link-break iconic-link-broken-link-break-right iconic-link-broken-link-break-bottom iconic-link-broken-link-break-right-bottom iconic-property-accent iconic-property-stroke" d="M10.5 12.5v2"></path>
+    <path stroke-linecap="round" class="iconic-link-broken-link-break iconic-link-broken-link-break-right iconic-link-broken-link-break-top iconic-link-broken-link-break-right-top iconic-property-accent iconic-property-stroke" d="M14.5 10.5h-2"></path>
+    <path stroke-linecap="round" class="iconic-link-broken-link-break iconic-link-broken-link-break-right iconic-link-broken-link-break-middle iconic-link-broken-link-break-right-middle iconic-property-accent iconic-property-stroke" d="M12.5 12.5l2 2"></path>
+    <path stroke-linecap="round" class="iconic-link-broken-link-break iconic-link-broken-link-break-left iconic-link-broken-link-break-middle iconic-link-broken-link-break-left-middle iconic-property-accent iconic-property-stroke" d="M1.5 1.5l2 2"></path>
+  </g>
+</svg>

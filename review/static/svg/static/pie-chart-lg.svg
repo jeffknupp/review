@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="pie-chart" class="iconic iconic-pie-chart iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Pie Chart</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-pie-chart-clip-0">
+      <path d="M74 0l.2 74-54.2 54h108v-128z" />
+    </clipPath>
+    <clipPath id="iconic-size-lg-pie-chart-clip-1">
+      <path d="M0 32l16-4 45.8 45.8-54.8 54.2h-7z" />
+    </clipPath>
+    <clipPath id="iconic-size-lg-pie-chart-clip-2">
+      <path d="M66 0h-58l6 14 52 52z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <circle clip-path="url(#iconic-size-lg-pie-chart-clip-0)" cx="68" cy="68" r="60" class="iconic-pie-chart-slice iconic-pie-chart-slice-large iconic-property-fill" />
+    <circle clip-path="url(#iconic-size-lg-pie-chart-clip-1)" cx="48" cy="72" r="48" class="iconic-pie-chart-slice iconic-pie-chart-slice-medium iconic-property-fill" />
+    <circle clip-path="url(#iconic-size-lg-pie-chart-clip-2)" cx="56" cy="56" r="56" class="iconic-pie-chart-slice iconic-pie-chart-slice-small iconic-property-fill" />
+  </g>
+</svg>

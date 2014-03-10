@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="plus" class="iconic iconic-plus iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Plus</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-property-stroke" fill="none" d="M8 2v12M14 8h-12" />
+  </g>
+</svg>

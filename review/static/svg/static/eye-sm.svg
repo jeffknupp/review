@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="eye" class="iconic iconic-eye iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Eye</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="12" transform="translate(0 2)">
+    <path d="M8.1 0c-5.1 0-8.1 6-8.1 6s3 6 8.1 6c4.9 0 7.9-6 7.9-6s-3-6-7.9-6zm-.1 10c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z" class="iconic-eye-eyeball iconic-property-fill" />
+    <path d="M9 6c-.6 0-1-.4-1-1 0-.4.2-.7.6-.9-.2-.1-.4-.1-.6-.1-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2c0-.2 0-.4-.1-.6-.2.4-.5.6-.9.6z" class="iconic-eye-pupil iconic-property-fill" />
+  </g>
+</svg>

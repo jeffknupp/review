@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="action-undo" width="16" height="16" class="iconic iconic-action iconic-size-sm iconic-action-undo" viewBox="0 0 16 16">
+  <g>
+    <title>Action Undo</title>
+  </g>
+  <g data-width="16" data-height="12" class="iconic-container iconic-action-undo" transform="scale(1 1 ) translate(0 2 ) ">
+    <path d="M2 9v-2c0-3.9 3.1-7 7-7s7 3.1 7 7c0-2.8-2.2-5-5-5s-5 2.2-5 5v2h-4z" class="iconic-action-undo-stem iconic-property-fill"></path>
+    <path class="iconic-action-undo-arrowhead iconic-property-fill" d="M0 8l4 4 4-4z"></path>
+  </g>
+</svg>

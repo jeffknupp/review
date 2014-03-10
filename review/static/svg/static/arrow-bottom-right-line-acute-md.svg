@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-bottom-right-line-acute" width="32" height="32" class="iconic iconic-arrow iconic-size-md iconic-arrow-bottom-right-line-acute" viewBox="0 0 32 32">
+  <g>
+    <title>Arrow Bottom Right Line Acute</title>
+  </g>
+  <g data-width="32" data-height="32" data-default-max-height="19" class="iconic-container" transform="scale(1 1 ) translate(0 ) ">
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" class="iconic-arrow-stem iconic-property-stroke" d="M0 9.5h29" fill="none" transform="rotate(45 16 16 ) translate(0 8 ) "></path>
+    <path class="iconic-arrow-head iconic-arrow-head-line-acute iconic-property-fill" d="M32 9.5l-9-6.5h-4l9 6.5-9 6.5h4z" display="inline" transform="rotate(45 16 16 ) translate(0 8 ) "></path>
+  </g>
+</svg>

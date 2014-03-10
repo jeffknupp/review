@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="move" class="iconic iconic-move iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Move</title>
+  </g>
+  <g class="iconic-container" data-width="31" data-height="31">
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-move-axis iconic-move-axis-vertical iconic-property-stroke" fill="none" d="M15.5 7v20" />
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-move-axis iconic-move-axis-horizontal iconic-property-stroke" fill="none" d="M24 15.5h-18" />
+    <path d="M15.2 30.6l-3.9-5.2c-.2-.2-.1-.4.2-.4h8c.3 0 .4.2.2.4l-3.9 5.2c-.2.2-.4.2-.6 0z" class="iconic-move-arrowhead iconic-move-arrowhead-bottom iconic-property-fill" />
+    <path d="M15.8.4l3.9 5.2c.2.2.1.4-.2.4h-8c-.3 0-.4-.2-.2-.4l3.9-5.2c.2-.2.4-.2.6 0z" class="iconic-move-arrowhead iconic-move-arrowhead-top iconic-property-fill" />
+    <path d="M.4 15.2l5.2-3.9c.2-.2.4-.1.4.2v8c0 .3-.2.4-.4.2l-5.2-3.9c-.2-.2-.2-.4 0-.6z" class="iconic-move-arrowhead iconic-move-arrowhead-left iconic-property-fill" />
+    <path d="M30.6 15.8l-5.2 3.9c-.2.2-.4.1-.4-.2v-8c0-.3.2-.4.4-.2l5.2 3.9c.2.2.2.4 0 .6z" class="iconic-move-arrowhead iconic-move-arrowhead-right iconic-property-fill" />
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="folder" class="iconic iconic-folder iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Folder</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-folder-clip-0">
+      <path d="M0 7h32v20h-32z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="32" data-height="27" transform="translate(0 2)">
+    <path d="M.5 5h10c.3 0 .5-.2.5-.5v-4c0-.3-.2-.5-.5-.5h-10c-.3 0-.5.2-.5.5v4c0 .3.2.5.5.5z" class="iconic-folder-top iconic-folder-top-tag iconic-property-fill" />
+    <path class="iconic-folder-top iconic-property-fill" d="M0 3h32v3h-32z" />
+    <path clip-path="url(#iconic-size-md-folder-clip-0)" d="M31 27h-30c-.6 0-1-.4-1-1v-19c0-.6.4-1 1-1h30c.6 0 1 .4 1 1v19c0 .6-.4 1-1 1z" class="iconic-folder-bottom iconic-property-fill" />
+  </g>
+</svg>

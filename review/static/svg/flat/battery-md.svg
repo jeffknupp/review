@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32" data-icon="battery" data-container-transform="translate(0 8)" viewBox="0 0 32 32">
+  <g transform="translate(0 8)">
+    <path d="M1 0c-.6 0-1 .4-1 1v14c0 .6.4 1 1 1h27c.6 0 1-.4 1-1v-3h2.5c.3 0 .5-.2.5-.5v-7c0-.3-.2-.5-.5-.5h-2.5v-3c0-.6-.4-1-1-1h-27z" />
+  </g>
+</svg>

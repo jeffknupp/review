@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="medical-cross" class="iconic iconic-medical-cross iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Medical Cross</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path d="M126.5 46h-43c-.8 0-1.5-.7-1.5-1.5v-43c0-.8-.7-1.5-1.5-1.5h-33c-.8 0-1.5.7-1.5 1.5v43c0 .8-.7 1.5-1.5 1.5h-43c-.8 0-1.5.7-1.5 1.5v33c0 .8.7 1.5 1.5 1.5h43c.8 0 1.5.7 1.5 1.5v43c0 .8.7 1.5 1.5 1.5h33c.8 0 1.5-.7 1.5-1.5v-43c0-.8.7-1.5 1.5-1.5h43c.8 0 1.5-.7 1.5-1.5v-33c0-.8-.7-1.5-1.5-1.5z"
+    class="iconic-property-fill" />
+  </g>
+</svg>

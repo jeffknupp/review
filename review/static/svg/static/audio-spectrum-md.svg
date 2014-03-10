@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="audio-spectrum" class="iconic iconic-audio-spectrum iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Audio Spectrum</title>
+  </g>
+  <g class="iconic-container" data-width="27" data-height="23" transform="translate(2 4)">
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-audio-spectrum-frequency iconic-audio-spectrum-frequency-low iconic-audio-spectrum-frequency-1 iconic-property-stroke" fill="none" d="M1.5 10.5v2" />
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-audio-spectrum-frequency iconic-audio-spectrum-frequency-low iconic-audio-spectrum-frequency-2 iconic-property-stroke" fill="none" d="M7.5 6.5v10" />
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-audio-spectrum-frequency iconic-audio-spectrum-frequency-mid iconic-audio-spectrum-frequency-3 iconic-property-stroke" fill="none" d="M13.5 1.5v20" />
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-audio-spectrum-frequency iconic-audio-spectrum-frequency-high iconic-audio-spectrum-frequency-4 iconic-property-stroke" fill="none" d="M19.5 4.5v14"
+    />
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-audio-spectrum-frequency iconic-audio-spectrum-frequency-high iconic-audio-spectrum-frequency-5 iconic-property-stroke" fill="none" d="M25.5 9.5v4" />
+  </g>
+</svg>

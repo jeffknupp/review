@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="cloud" class="iconic iconic-cloud iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Cloud</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="86" transform="translate(0 21)">
+    <path d="M108 50c-.9-8.4-7.6-15.1-16-16-1-19-16.8-34-36-34-18.8 0-34.4 14.6-36 33-11.6 3-20 13.5-20 26 0 14.6 11.6 26.5 26 27h84c9.9 0 18-8.1 18-18s-7-18-20-18z" class="iconic-cloud-cloud iconic-property-fill" />
+  </g>
+</svg>

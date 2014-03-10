@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="envelope-open" width="128" height="128" class="iconic iconic-envelope iconic-size-lg iconic-envelope-open" data-state="false" viewBox="0 0 128 128">
+  <g>
+    <title>Envelope Open</title>
+  </g>
+  <g data-width="128" data-height="116" class="iconic-container iconic-envelope-open" transform="translate(0 6 ) scale(1 1 ) ">
+    <path d="M64 0l-64 32v84h128v-84l-64-32zm0 84l-56-28v-19.1l56-28 56 28v19.1l-56 28z" class="iconic-envelope-open-envelope iconic-property-fill"></path>
+    <path class="iconic-envelope-open-letter iconic-property-accent iconic-property-fill" d="M64 79l52-26v-13h-104v13z"></path>
+  </g>
+</svg>

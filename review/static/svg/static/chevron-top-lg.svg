@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="chevron-top" width="128" height="128" class="iconic iconic-chevron iconic-size-lg iconic-chevron-top" viewBox="0 0 128 128">
+  <g>
+    <title>Chevron Top</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-chevron-clip-0">
+      <path d="M0 0h88v128h-88z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="128" data-height="104" class="iconic-container" transform=" translate(0 12)">
+    <path clip-path="url(#iconic-size-lg-chevron-clip-0)" stroke="#000" stroke-width="16" stroke-linecap="square" stroke-miterlimit="10" class="iconic-property-stroke" d="M-8-20l84 84-84 84" fill="none" transform="rotate(270 64 64 ) translate(24)"></path>
+  </g>
+</svg>

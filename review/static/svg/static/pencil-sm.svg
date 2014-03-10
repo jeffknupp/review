@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="pencil" class="iconic iconic-pencil iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Pencil</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path transform="matrix(-.707 .707 -.707 -.707 18.314 10.414)" class="iconic-pencil-shaft iconic-property-fill" d="M2.1 6.9h9.9v4.2h-9.9z" />
+    <path transform="matrix(-.707 -.707 .707 -.707 21.278 13.814)" class="iconic-pencil-eraser iconic-property-fill" d="M11.4 1.1h4.2v2.8h-4.2z" />
+    <path class="iconic-pencil-tip iconic-property-fill" d="M1 12l-1 4 4-1z" />
+  </g>
+</svg>

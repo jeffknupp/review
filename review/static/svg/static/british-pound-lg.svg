@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="british-pound" class="iconic iconic-british-pound iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>British Pound</title>
+  </g>
+  <g class="iconic-container" data-width="88" data-height="128" transform="translate(20)">
+    <path stroke="#000" stroke-width="6" stroke-miterlimit="10" class="iconic-british-pound-strike iconic-property-accent iconic-property-stroke" fill="none" d="M6 69h42" />
+    <path stroke="#000" stroke-width="12" stroke-miterlimit="10" d="M76 32c0-16.5-13.5-26-30-26s-29.9 13.4-29.9 29.9c0 24.9 27.3 44.7-10.1 82.1v4h82" class="iconic-british-pound-l iconic-property-stroke" fill="none" />
+  </g>
+</svg>

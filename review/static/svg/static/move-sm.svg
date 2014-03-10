@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="move" class="iconic iconic-move iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Move</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-move-axis iconic-move-axis-vertical iconic-property-stroke" fill="none" d="M8 3v11" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-move-axis iconic-move-axis-horizontal iconic-property-stroke" fill="none" d="M13 8h-10" />
+    <path class="iconic-move-arrowhead iconic-move-arrowhead-top iconic-property-fill" d="M8 0l-3 3h6z" />
+    <path class="iconic-move-arrowhead iconic-move-arrowhead-right iconic-property-fill" d="M16 8l-3-3v6z" />
+    <path class="iconic-move-arrowhead iconic-move-arrowhead-left iconic-property-fill" d="M0 8l3 3v-6z" />
+    <path class="iconic-move-arrowhead iconic-move-arrowhead-top iconic-property-fill" d="M8 16l3-3h-6z" />
+  </g>
+</svg>

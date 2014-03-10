@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="account-logout" width="16" height="16" class="iconic iconic-account iconic-size-sm iconic-account-logout" viewBox="0 0 16 16">
+  <g>
+    <title>Account Logout</title>
+  </g>
+  <g data-width="16" data-height="16" class="iconic-container iconic-account-logout" transform="scale(1 1 ) translate(0 ) ">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-account-logout-entrance iconic-property-accent iconic-property-stroke" d="M7 1h8v14h-8" fill="none"></path>
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-account-logout-arrow iconic-account-logout-arrow-line iconic-property-stroke" d="M11 8h-9" fill="none"></path>
+    <path class="iconic-account-logout-arrow iconic-account-logout-arrow-head iconic-property-fill" d="M0 8l4 4v-8z"></path>
+  </g>
+</svg>

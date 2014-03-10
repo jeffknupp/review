@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="account-login" width="32" height="32" class="iconic iconic-account iconic-size-md iconic-account-login" viewBox="0 0 32 32">
+  <g>
+    <title>Account Login</title>
+  </g>
+  <g data-width="32" data-height="31" class="iconic-container iconic-account-login" transform="scale(1 1 ) translate(0 ) ">
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-account-login-entrance iconic-property-accent iconic-property-stroke" d="M12.5 1.5h18v28h-18" fill="none"></path>
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-account-login-arrow iconic-account-login-arrow-line iconic-property-stroke" d="M1.5 15.5h14.5" fill="none"></path>
+    <path d="M20.6 15.8l-5.2 3.9c-.2.2-.4.1-.4-.2v-8c0-.3.2-.4.4-.2l5.2 3.9c.2.2.2.4 0 .6z" class="iconic-account-login-arrow iconic-account-login-arrow-head iconic-property-fill"></path>
+  </g>
+</svg>

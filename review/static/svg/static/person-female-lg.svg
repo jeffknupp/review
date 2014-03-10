@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="person-female" width="128" height="128" class="iconic iconic-person iconic-size-lg iconic-person-female" viewBox="0 0 128 128">
+  <g>
+    <title>Person Female</title>
+  </g>
+  <g data-width="112" data-height="128" class="iconic-container iconic-person-female" transform="translate(8 ) scale(1 1 ) ">
+    <path d="M78.7 80c-.7 0-1.7.5-2.3 1-6.3 5.8-13.4 9-20.4 9-7.3 0-14.4-3.4-20.5-9-.6-.6-1.6-1-2.3-1h-1.2c-8 0-32 16-32 40v6.5c0 .8.7 1.5 1.5 1.5h109c.8 0 1.5-.7 1.5-1.5v-6.5c0-24-24-40-32-40h-1.3z" class="iconic-person-female-body iconic-property-fill"></path>
+    <path d="M104 64c-8 0-18-5.3-18-24 0-22.1-12.3-40-30-40s-30 17.9-30 40c0 18.7-10 24-18 24 0 0 11.5 4.3 24.9 1 5.9 10.1 14.8 17 23.1 17s17.3-7 23.2-17.2c13.2 3.5 24.8-.8 24.8-.8z" class="iconic-person-female-head iconic-property-fill"></path>
+  </g>
+</svg>

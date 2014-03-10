@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="loop" class="iconic iconic-loop iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Loop</title>
+  </g>
+  <g class="iconic-container" data-width="30" data-height="23" transform="translate(1 4)">
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M12 18.5h15.5c.6 0 1-.4 1-1v-12c0-.6-.4-1-1-1h-2.5" class="iconic-loop-line iconic-loop-line-bottom iconic-property-stroke" fill="none" />
+    <path d="M7.4 18.2l5.2-3.9c.2-.2.4-.1.4.2v8c0 .3-.2.4-.4.2l-5.2-3.9c-.2-.2-.2-.4 0-.6z" class="iconic-loop-arrowhead iconic-loop-arrowhead-bottom iconic-property-fill" />
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M20 4.5h-17.5c-.6 0-1 .4-1 1v12c0 .6.4 1 1 1h2.5" class="iconic-loop-line iconic-loop-line-top iconic-property-stroke" fill="none" />
+    <path d="M22.6 4.8l-5.2 3.9c-.2.2-.4.1-.4-.2v-8c0-.3.2-.4.4-.2l5.2 3.9c.2.2.2.4 0 .6z" class="iconic-loop-arrowhead iconic-loop-arrowhead-top iconic-property-fill" />
+  </g>
+</svg>

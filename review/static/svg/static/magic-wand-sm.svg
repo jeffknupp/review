@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="magic-wand" class="iconic iconic-magic-wand iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Magic Wand</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path transform="matrix(-.707 -.707 .707 -.707 .757 22.314)" class="iconic-magic-wand-shaft iconic-magic-wand-shaft-handle iconic-property-fill" d="M3.6 5.3h2.8v11.3h-2.8z" />
+    <path transform="matrix(.707 -.707 .707 .707 -.314 9.243)" class="iconic-magic-wand-shaft iconic-magic-wand-shaft-tip iconic-property-fill" d="M9.6 3.6h2.8v2.8h-2.8z" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-major iconic-magic-wand-ray-4 iconic-property-stroke" fill="none" d="M15.5.5l-2 2" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-major iconic-magic-wand-ray-6 iconic-property-stroke" fill="none" d="M13.5 6.5l2 2" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-major iconic-magic-wand-ray-2 iconic-property-stroke" fill="none" d="M7.5.5l2 2" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-minor iconic-magic-wand-ray-3 iconic-property-stroke" fill="none" d="M11.5.5v1" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-minor iconic-magic-wand-ray-5 iconic-property-stroke" fill="none" d="M15.5 4.5h-1" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-minor iconic-magic-wand-ray-7 iconic-property-stroke" fill="none" d="M11.5 8.5v1" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-minor iconic-magic-wand-ray-1 iconic-property-stroke" fill="none" d="M7.5 4.5h-1" />
+  </g>
+</svg>

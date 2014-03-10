@@ -1,0 +1,18 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="task" class="iconic iconic-task iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Task</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-task-clip-0">
+      <path d="M27.7 48.4l-20.1-22.3 8.6-8.4 9.6 11.7 25.4-25.4h-51.2v56h56v-39.9z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="60" transform="translate(0 34)">
+    <path clip-path="url(#iconic-size-lg-task-clip-0)" stroke="#000" stroke-width="4" stroke-miterlimit="10" d="M52.5 58h-49c-.8 0-1.5-.7-1.5-1.5v-49c0-.8.7-1.5 1.5-1.5h49c.8 0 1.5.7 1.5 1.5v49c0 .8-.7 1.5-1.5 1.5z" class="iconic-task-check iconic-task-check-box iconic-property-stroke"
+    fill="none" />
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-task-check iconic-task-check-mark iconic-property-accent iconic-property-stroke" fill="none" d="M11.9 21.9l15.8 16 33.9-33.8" />
+    <path stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-task-line iconic-task-line-3 iconic-property-stroke" fill="none" d="M68 42h54" />
+    <path stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-task-line iconic-task-line-2 iconic-property-stroke" fill="none" d="M68 30h50" />
+    <path stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-task-line iconic-task-line-1 iconic-property-stroke" fill="none" d="M68 18h60" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="image-portrait" width="32" height="32" class="iconic iconic-image iconic-orientation-square iconic-size-md iconic-image-portrait" viewBox="0 0 32 32">
+  <title>Image Portrait</title>
+  <defs>
+    <clipPath id="iconic-size-md-image-portrait-clip-0">
+      <path d="M23 27.2l-14.6-18.2h14.6z"></path>
+    </clipPath>
+    <clipPath id="iconic-size-md-image-portrait-clip-1">
+      <path d="M1 9h22v23h-22z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="24" data-height="32" class="iconic-container iconic-image-portrait" transform="scale(1 1 ) translate(4 ) ">
+    <path clip-path="url(#iconic-size-md-image-portrait-clip-0)" d="M33.7 31.6l-15.4-19.2c-.2-.2-.5-.2-.6 0l-15.4 19.2c-.2.2-.1.4.2.4h31c.3 0 .4-.2.2-.4z" class="iconic-image-portrait-mountain iconic-image-portrait-mountain-back iconic-property-accent iconic-property-fill"></path>
+    <path clip-path="url(#iconic-size-md-image-portrait-clip-1)" d="M23.3 30.6l-17-21.2c-.2-.2-.5-.2-.6 0l-17 21.2c-.2.2-.1.4.2.4h34.2c.3 0 .4-.2.2-.4z" class="iconic-image-portrait-mountain iconic-image-portrait-mountain-front iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-image-portrait-frame iconic-property-stroke" d="M1 1h22v30h-22z" fill="none"></path>
+  </g>
+</svg>

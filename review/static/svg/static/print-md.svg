@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="print" class="iconic iconic-print iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Print</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-print-clip-0">
+      <path d="M0 9v14h7v-6h18v6h7v-14h-32zm29.5 5c-.3 0-.5-.2-.5-.5s.2-.5.5-.5.5.2.5.5-.2.5-.5.5zm0-2c-.3 0-.5-.2-.5-.5s.2-.5.5-.5.5.2.5.5-.2.5-.5.5z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="32" data-height="27" transform="translate(0 2)">
+    <path class="iconic-print-tray iconic-print-tray-top iconic-print-tray-top-border-left iconic-property-fill" d="M6 3h1v8.1h-1z" />
+    <path class="iconic-print-tray iconic-print-tray-top iconic-print-tray-top-border-right iconic-property-fill" d="M25 3h1v8.1h-1z" />
+    <path d="M31.5 23h-31c-.3 0-.5-.2-.5-.5v-13c0-.3.2-.5.5-.5h31c.3 0 .5.2.5.5v13c0 .3-.2.5-.5.5z" clip-path="url(#iconic-size-md-print-clip-0)" class="iconic-print-body iconic-property-fill" />
+    <path class="iconic-print-paper iconic-print-paper-bottom iconic-property-accent iconic-property-fill" d="M8 18h16v9h-16z" />
+    <path class="iconic-print-paper iconic-print-paper-top iconic-property-accent iconic-property-fill" d="M8 0h16v8h-16z" />
+  </g>
+</svg>

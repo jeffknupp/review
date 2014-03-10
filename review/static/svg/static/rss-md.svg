@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="rss" class="iconic iconic-rss iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Rss</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="32">
+    <circle cx="3" cy="29" r="3" class="iconic-rss-center iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M4 19.5c4.7 0 8.5 3.8 8.5 8.5" class="iconic-rss-wave iconic-rss-wave-inner iconic-property-stroke" fill="none" />
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M4 10.5c9.7 0 17.5 7.8 17.5 17.5" class="iconic-rss-wave iconic-rss-wave-middle iconic-property-stroke" fill="none" />
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M4 1.5c14.6 0 26.5 11.9 26.5 26.5" class="iconic-rss-wave iconic-rss-wave-outer iconic-property-stroke" fill="none" />
+  </g>
+</svg>

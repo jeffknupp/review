@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="lightning-bolt" class="iconic iconic-lightning-bolt iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Lightning Bolt</title>
+  </g>
+  <g class="iconic-container" data-width="14" data-height="16" transform="translate(1)">
+    <path class="iconic-property-fill" d="M8 0l-6 8h3l-5 8 13-11h-4l5-5z" />
+  </g>
+</svg>

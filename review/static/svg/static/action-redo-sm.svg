@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="action-redo" width="16" height="16" class="iconic iconic-action iconic-size-sm iconic-action-redo" viewBox="0 0 16 16">
+  <g>
+    <title>Action Redo</title>
+  </g>
+  <g data-width="16" data-height="12" class="iconic-container iconic-action-redo" transform="scale(1 1 ) translate(0 2 ) ">
+    <path d="M10 9v-2c0-2.8-2.2-5-5-5s-5 2.2-5 5c0-3.9 3.1-7 7-7s7 3.1 7 7v2h-4z" class="iconic-action-redo-stem iconic-property-fill"></path>
+    <path class="iconic-action-redo-arrowhead iconic-property-fill" d="M8 8l4 4 4-4z"></path>
+  </g>
+</svg>

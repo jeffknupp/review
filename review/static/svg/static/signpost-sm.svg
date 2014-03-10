@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="signpost" class="iconic iconic-signpost iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Signpost</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path class="iconic-signpost-sign iconic-signpost-sign-right iconic-property-fill" d="M8 3h6l2 2-2 2h-6z" />
+    <path class="iconic-signpost-sign iconic-signpost-sign-left iconic-property-fill" d="M8 5h-6l-2-2 2-2h6z" />
+    <path class="iconic-signpost-post iconic-property-fill" d="M7 0h2v16h-2z" />
+  </g>
+</svg>

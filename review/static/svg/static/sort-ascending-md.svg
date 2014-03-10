@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="sort-ascending" width="32" height="32" class="iconic iconic-sort iconic-orientation-square iconic-size-md iconic-sort-ascending" viewBox="0 0 32 32">
+  <g>
+    <title>Sort Ascending</title>
+  </g>
+  <g data-width="30" data-height="32" class="iconic-container iconic-sort-ascending" transform="scale(1 1 ) translate(1 ) ">
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-sort-ascending-arrow iconic-sort-ascending-arrow-line iconic-property-stroke" d="M4.5 1.5v24.4" fill="none"></path>
+    <path d="M4.2 31.6l-3.9-5.2c-.2-.2-.1-.4.2-.4h8c.3 0 .4.2.2.4l-3.9 5.2c-.2.2-.4.2-.6 0z" class="iconic-sort-ascending-arrow iconic-sort-ascending-arrow-head iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-sort-ascending-sort iconic-sort-ascending-sort-small iconic-property-accent iconic-property-stroke" d="M12.5 4.5h6" fill="none"></path>
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-sort-ascending-sort iconic-sort-ascending-sort-medium iconic-property-accent iconic-property-stroke" d="M12.5 12.5h11" fill="none"></path>
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-sort-ascending-sort iconic-sort-ascending-sort-large iconic-property-accent iconic-property-stroke" d="M12.5 20.5h16" fill="none"></path>
+  </g>
+</svg>

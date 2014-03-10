@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="list-rich" class="iconic iconic-list-rich iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>List Rich</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="15">
+    <path class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-block iconic-property-accent iconic-property-fill" d="M0 12h5v3h-5z" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M7.5 12.5h8" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M7.5 14.5h6" />
+    <path class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-block iconic-property-accent iconic-property-fill" d="M0 6h5v3h-5z" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M7.5 6.5h8" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M7.5 8.5h6" />
+    <path class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-block iconic-property-accent iconic-property-fill" d="M0 0h5v3h-5z" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M7.5.5h8" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M7.5 2.5h6" />
+  </g>
+</svg>

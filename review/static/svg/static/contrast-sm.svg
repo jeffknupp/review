@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="contrast" class="iconic iconic-contrast iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Contrast</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path d="M8 15c-3.9 0-7-3.1-7-7s3.1-7 7-7v14z" class="iconic-contrast-black iconic-property-accent iconic-property-fill" />
+    <circle stroke="#000" stroke-width="2" stroke-miterlimit="10" cx="8" cy="8" r="7" class="iconic-contrast-border iconic-property-stroke" fill="none" />
+  </g>
+</svg>

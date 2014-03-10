@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="tags" class="iconic iconic-tags iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Tags</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-tags-clip-0">
+      <path d="M7 0l7 7-4 4 1 1 5-5-7-7z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="16" data-height="12" transform="translate(0 2)">
+    <path clip-path="url(#iconic-size-sm-tags-clip-0)" class="iconic-tags-back iconic-property-accent iconic-property-fill" d="M4 0v5l7 7 5-5-7-7z" />
+    <path d="M5 0h-5v5l7 7 5-5-7-7zm-1.5 5c-.8 0-1.5-.7-1.5-1.5s.7-1.5 1.5-1.5 1.5.7 1.5 1.5-.7 1.5-1.5 1.5z" class="iconic-tags-front iconic-property-fill" />
+  </g>
+</svg>

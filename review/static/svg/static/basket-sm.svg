@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="basket" class="iconic iconic-basket iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Basket</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-basket-clip-0">
+      <path d="M13 7c0 .7-.3 1.3-1 1.7-.3.2-.6.3-1 .3-.7 0-1.3-.3-1.7-1l-.6-1h-1.4l-.6 1c-.4.7-1 1-1.7 1-.4 0-.7-.1-1-.3-.7-.4-1-1-1-1.7h-3v9h16v-9h-3zm-7 6.5c0 .3-.2.5-.5.5s-.5-.2-.5-.5v-2c0-.3.2-.5.5-.5s.5.2.5.5v2zm5 0c0 .3-.2.5-.5.5s-.5-.2-.5-.5v-2c0-.3.2-.5.5-.5s.5.2.5.5v2z"
+      />
+    </clipPath>
+    <clipPath id="iconic-size-sm-basket-clip-1">
+      <path d="M13 0v9h-6v-1.4l2.7-4.6c.6-.9.3-2.1-.7-2.7l4-.3z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path clip-path="url(#iconic-size-sm-basket-clip-0)" class="iconic-basket-body iconic-property-fill" d="M13 16h-10l-2-8h14z" />
+    <path clip-path="url(#iconic-size-sm-basket-clip-0)" class="iconic-basket-lip iconic-property-fill" d="M0 7h16v2h-16z" />
+    <path clip-path="url(#iconic-size-sm-basket-clip-1)" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-basket-handle iconic-basket-handle-right iconic-property-accent iconic-property-stroke" fill="none" d="M11 7l-3-5"
+    />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-basket-handle iconic-basket-handle-left iconic-property-accent iconic-property-stroke" fill="none" d="M5 7l3-5" />
+  </g>
+</svg>

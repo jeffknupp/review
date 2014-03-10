@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="headphones" class="iconic iconic-headphones iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Headphones</title>
+  </g>
+  <g class="iconic-container" data-width="116" data-height="124" transform="translate(6 2)">
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M105 114v-27c0-2.2.5-5.7 1.2-7.8l3.6-11.4c.7-2.1 1.2-5.6 1.2-7.8v-9c0-2.2.4-5.8.9-7.9l3.1-14.1" class="iconic-headphones-connector iconic-headphones-connector-right iconic-property-stroke"
+    fill="none" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M11 113v-26c0-2.2-.5-5.7-1.2-7.8l-3.6-11.4c-.7-2.1-1.2-5.6-1.2-7.8v-9c0-2.2-.4-5.8-.9-7.9l-3.1-14.1" class="iconic-headphones-connector iconic-headphones-connector-left iconic-property-stroke"
+    fill="none" />
+    <path d="M14 116c-6.6 0-12-5.4-12-12s5.4-12 12-12" class="iconic-headphones-speaker iconic-headphones-speaker-back iconic-headphones-speaker-back-left iconic-property-fill" />
+    <path d="M102 92c6.6 0 12 5.4 12 12s-5.4 12-12 12" class="iconic-headphones-speaker iconic-headphones-speaker-back iconic-headphones-speaker-back-right iconic-property-fill" />
+    <path d="M22.5 124h-9c-.8 0-1.5-.7-1.5-1.5v-37c0-.8.7-1.5 1.5-1.5h9c.8 0 1.5.7 1.5 1.5v37c0 .8-.7 1.5-1.5 1.5z" class="iconic-headphones-speaker iconic-headphones-speaker-earpeice iconic-headphones-speaker-earpeice-left iconic-property-fill" />
+    <path d="M102.5 124h-9c-.8 0-1.5-.7-1.5-1.5v-37c0-.8.7-1.5 1.5-1.5h9c.8 0 1.5.7 1.5 1.5v37c0 .8-.7 1.5-1.5 1.5z" class="iconic-headphones-speaker iconic-headphones-speaker-earpeice iconic-headphones-speaker-earpeice-right iconic-property-fill" />
+    <path d="M111 38c-7.5-22.1-28.4-38-53-38s-45.5 15.9-53 38h-3v18c0 2.2 1.8 4 4 4s4-1.8 4-4c0-26.5 21.5-48 48-48s48 21.5 48 48c0 2.2 1.8 4 4 4s4-1.8 4-4v-18h-3z" class="iconic-headphones-top iconic-property-fill" />
+  </g>
+</svg>

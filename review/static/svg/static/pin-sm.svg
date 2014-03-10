@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="pin" class="iconic iconic-pin iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Pin</title>
+  </g>
+  <g class="iconic-container" data-width="11" data-height="16" transform="translate(2)">
+    <path class="iconic-pin-pin iconic-property-fill" d="M5 6.1v7.9l.5 2 .5-2v-7.9z" />
+    <path d="M9.8 6h-.6c-.7 0-1.2-.5-1.2-1.2v-3.8h.5c.3 0 .5-.2.5-.5s-.2-.5-.5-.5h-6c-.3 0-.5.2-.5.5s.2.5.5.5h.5v3.8c0 .7-.5 1.2-1.2 1.2h-.6c-.7 0-1.2.5-1.2 1.2v1.8h11v-1.8c0-.7-.5-1.2-1.2-1.2z" class="iconic-pin-body iconic-property-accent iconic-property-fill"
+    />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="excerpt" class="iconic iconic-excerpt iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Excerpt</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="98" transform="translate(0 15)">
+    <path class="iconic-excerpt-period iconic-excerpt-period-3 iconic-property-accent iconic-property-fill" d="M32 90h8v8h-8z" />
+    <path class="iconic-excerpt-period iconic-excerpt-period-2 iconic-property-accent iconic-property-fill" d="M16 90h8v8h-8z" />
+    <path class="iconic-excerpt-period iconic-excerpt-period-1 iconic-property-accent iconic-property-fill" d="M0 90h8v8h-8z" />
+    <path stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-excerpt-line iconic-excerpt-line-3 iconic-property-stroke" fill="none" d="M4 64h120" />
+    <path stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-excerpt-line iconic-excerpt-line-2 iconic-property-stroke" fill="none" d="M4 34h80" />
+    <path stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-excerpt-line iconic-excerpt-line-1 iconic-property-stroke" fill="none" d="M4 4h106" />
+  </g>
+</svg>

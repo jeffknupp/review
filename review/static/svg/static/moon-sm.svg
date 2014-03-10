@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="moon" class="iconic iconic-moon iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Moon</title>
+  </g>
+  <g class="iconic-container" data-width="15" data-height="15">
+    <path d="M11 12c-4.4 0-8-3.6-8-8 0-1.4.4-2.8 1.1-4-2.5 1.4-4.1 4-4.1 7 0 4.4 3.6 8 8 8 3 0 5.6-1.6 7-4.1-1.2.7-2.5 1.1-4 1.1z" class="iconic-property-fill" />
+  </g>
+</svg>

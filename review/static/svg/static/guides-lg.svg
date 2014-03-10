@@ -1,0 +1,30 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="guides" class="iconic iconic-guides iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Guides</title>
+  </g>
+  <g class="iconic-container" data-width="112" data-height="112" transform="translate(8 8)">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M111 1v2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-x iconic-property-accent iconic-property-stroke" fill="none" d="M101 1v4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M91 1v2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-x iconic-property-accent iconic-property-stroke" fill="none" d="M81 1v4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M71 1v2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-x iconic-property-accent iconic-property-stroke" fill="none" d="M61 1v4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M51 1v2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-x iconic-property-accent iconic-property-stroke" fill="none" d="M41 1v4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M31 1v2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-x iconic-property-accent iconic-property-stroke" fill="none" d="M21 1v4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M11 1v2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-y iconic-property-stroke" fill="none" d="M2 11h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-y iconic-property-accent iconic-property-stroke" fill="none" d="M2 21h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-y iconic-property-stroke" fill="none" d="M2 31h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-y iconic-property-accent iconic-property-stroke" fill="none" d="M2 41h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-y iconic-property-stroke" fill="none" d="M2 51h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-y iconic-property-accent iconic-property-stroke" fill="none" d="M2 61h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-y iconic-property-stroke" fill="none" d="M2 71h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-y iconic-property-accent iconic-property-stroke" fill="none" d="M2 81h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-y iconic-property-stroke" fill="none" d="M2 91h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-y iconic-property-accent iconic-property-stroke" fill="none" d="M2 101h4" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-y iconic-property-stroke" fill="none" d="M2 111h2" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-axes iconic-property-stroke" fill="none" d="M111 1h-110v110" />
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="home" class="iconic iconic-home iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Home</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-home-clip-0">
+      <path d="M64 16l-48 40 .2 62h37.8v-24h20v24h38v-62z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="122" transform="translate(0 3)">
+    <path clip-path="url(#iconic-size-lg-home-clip-0)" d="M16 57.5l.2 63c0 .8.7 1.5 1.5 1.5h92.8c.8 0 1.5-.7 1.5-1.5v-63c0-.8-.5-1.9-1.2-2.5l-45.6-38c-.6-.5-1.7-.5-2.3 0l-45.7 38c-.7.6-1.2 1.7-1.2 2.5z" class="iconic-home-wall iconic-property-fill" />
+    <path d="M10.5 56h-9c-.8 0-1-.4-.4-1l61.8-54c.6-.5 1.6-.5 2.3 0l61.7 54c.6.5.5 1-.4 1h-9c-.8 0-2-.4-2.6-1l-49.8-42c-.6-.5-1.7-.5-2.3 0l-49.7 42c-.6.6-1.8 1-2.6 1z" class="iconic-home-roof iconic-property-fill" />
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.1" class="iconic iconic-file iconic-size-sm iconic-file-doc" data-icon="file-doc" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g>
+    <title>File Doc</title>
+  </g>
+  <g class="iconic-container" transform="scale(1 1 ) translate(1 0 ) " data-width="13" data-height="16">
+    <polygon class="iconic-file-page iconic-property-fill" points="8,0 0,0 0,16 13,16 13,5 8,5"></polygon>
+    <polygon class="iconic-file-flap iconic-property-fill" points="13,4 9,0 9,4"></polygon>
+  </g>
+</svg>

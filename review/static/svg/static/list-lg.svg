@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="list" class="iconic iconic-list iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>List</title>
+  </g>
+  <g class="iconic-container" data-width="124" data-height="88" transform="translate(2 20)">
+    <path stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-line iconic-list-line-4 iconic-property-stroke" fill="none" d="M20 84h96" />
+    <path d="M6.5 88h-5c-.8 0-1.5-.7-1.5-1.5v-5c0-.8.7-1.5 1.5-1.5h5c.8 0 1.5.7 1.5 1.5v5c0 .8-.7 1.5-1.5 1.5z" class="iconic-list-dot iconic-list-dot-4 iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-line iconic-list-line-3 iconic-property-stroke" fill="none" d="M20 58h100" />
+    <path d="M6.5 62h-5c-.8 0-1.5-.7-1.5-1.5v-5c0-.8.7-1.5 1.5-1.5h5c.8 0 1.5.7 1.5 1.5v5c0 .8-.7 1.5-1.5 1.5z" class="iconic-list-dot iconic-list-dot-3 iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-line iconic-list-line-2 iconic-property-stroke" fill="none" d="M20 30h80" />
+    <path d="M6.5 34h-5c-.8 0-1.5-.7-1.5-1.5v-5c0-.8.7-1.5 1.5-1.5h5c.8 0 1.5.7 1.5 1.5v5c0 .8-.7 1.5-1.5 1.5z" class="iconic-list-dot iconic-list-dot-2 iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-line iconic-list-line-1 iconic-property-stroke" fill="none" d="M20 4h100" />
+    <path d="M6.5 8h-5c-.8 0-1.5-.7-1.5-1.5v-5c0-.8.7-1.5 1.5-1.5h5c.8 0 1.5.7 1.5 1.5v5c0 .8-.7 1.5-1.5 1.5z" class="iconic-list-dot iconic-list-dot-1 iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

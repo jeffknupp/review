@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="people" class="iconic iconic-people iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>People</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="10" transform="translate(0 3)">
+    <path d="M3 8c0-.8.3-1.5.8-2-.7-.1-1.4-.4-1.9-1-1 .1-1.9.9-1.9 2v2h3v-1z" class="iconic-people-person iconic-people-person-body iconic-people-person-left iconic-people-person-body-left iconic-property-accent iconic-property-fill" />
+    <path d="M5 3.5c0-.9.3-1.6.7-2.3-.3-.7-1-1.2-1.7-1.2-1.1 0-2 1.1-2 2.5s.9 2.5 2 2.5c.4 0 .8-.2 1.2-.5-.1-.3-.2-.6-.2-1z" class="iconic-people-person iconic-people-person-head iconic-people-person-left iconic-people-person-head-left iconic-property-accent iconic-property-fill"
+    />
+    <path d="M14.1 5c-.5.6-1.2.9-1.9 1 .5.5.8 1.2.8 2v1h3v-2c0-1.1-.9-1.9-1.9-2z" class="iconic-people-person iconic-people-person-body iconic-people-person-right iconic-people-person-body-right iconic-property-accent iconic-property-fill" />
+    <path d="M12 0c-.7 0-1.4.5-1.7 1.2.4.7.7 1.4.7 2.3 0 .4-.1.7-.2 1 .4.3.8.5 1.2.5 1.1 0 2-1.1 2-2.5s-.9-2.5-2-2.5z" class="iconic-people-person iconic-people-person-head iconic-people-person-right iconic-people-person-head-right iconic-property-accent iconic-property-fill"
+    />
+    <path d="M10.1 6c-.6.6-1.3 1-2.1 1s-1.5-.4-2.1-1c-1 .1-1.9.9-1.9 2v2h8v-2c0-1.1-.9-1.9-1.9-2z" class="iconic-people-person iconic-people-person-body iconic-people-person-center iconic-people-person-body-center iconic-property-fill" />
+    <ellipse cx="8" cy="3.5" rx="2" ry="2.5" class="iconic-people-person iconic-people-person-head iconic-people-person-center iconic-people-person-head-center iconic-property-fill" />
+  </g>
+</svg>

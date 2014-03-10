@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="map" class="iconic iconic-map iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Map</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="32">
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-map-street iconic-map-street-cross iconic-map-street-cross-2 iconic-property-stroke" fill="none" d="M31 11l-20 20" />
+    <path stroke="#000" stroke-width="1.014" stroke-linecap="round" stroke-miterlimit="10" class="iconic-map-street iconic-map-street-cross iconic-map-street-cross-1 iconic-property-stroke" fill="none" d="M12 9l8-8" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-map-street iconic-map-street-main iconic-property-stroke" fill="none" d="M10 1l21.1 21.1" />
+    <path d="M12 13c-2.2 0-4 1.8-4 4 0 3 4 8 4 8s4-5 4-8c0-2.2-1.8-4-4-4zm0 6c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z" class="iconic-map-map-marker iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M30 30.5h-28c-.3 0-.5-.2-.5-.5v-28c0-.3.2-.5.5-.5h28c.3 0 .5.2.5.5v28c0 .3-.2.5-.5.5z" class="iconic-map-frame iconic-property-stroke" fill="none" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="image-landscape" width="16" height="16" class="iconic iconic-image iconic-orientation-square iconic-size-sm iconic-image-landscape" viewBox="0 0 16 16">
+  <title>Image Landscape</title>
+  <defs>
+    <clipPath id="iconic-size-sm-image-landscape-clip-0">
+      <path d="M13 11.5l-6-7.5h8.5v7.5z"></path>
+    </clipPath>
+    <clipPath id="iconic-size-sm-image-landscape-clip-1">
+      <path d="M.5 4h10.5v7.5h-10.5z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="16" data-height="12" class="iconic-container iconic-image-landscape" transform="scale(1 1 ) translate(0 2 ) ">
+    <path clip-path="url(#iconic-size-sm-image-landscape-clip-0)" class="iconic-image-landscape-mountain iconic-image-landscape-mountain-back iconic-property-accent iconic-property-fill" d="M16 12.5l-6-7.5-6 7.5z"></path>
+    <path clip-path="url(#iconic-size-sm-image-landscape-clip-1)" class="iconic-image-landscape-mountain iconic-image-landscape-mountain-front iconic-property-fill" d="M11 11.5l-6-7.5-6 7.5z"></path>
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-image-landscape-frame iconic-property-stroke" d="M.5.5h15v11h-15z" fill="none"></path>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="sort-descending" width="16" height="16" class="iconic iconic-sort iconic-orientation-square iconic-size-sm iconic-sort-descending" viewBox="0 0 16 16">
+  <g>
+    <title>Sort Descending</title>
+  </g>
+  <g data-width="16" data-height="16" class="iconic-container iconic-sort-descending" transform="scale(1 1 ) translate(0 ) ">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-sort-descending-arrow iconic-sort-descending-arrow-line iconic-property-stroke" d="M4 1v12" fill="none"></path>
+    <path class="iconic-sort-descending-arrow iconic-sort-descending-arrow-head iconic-property-fill" d="M4 16l4-4h-8z"></path>
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-sort-descending-sort iconic-sort-descending-sort-large iconic-property-accent iconic-property-stroke" d="M8 1h7" fill="none"></path>
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-sort-descending-sort iconic-sort-descending-sort-medium iconic-property-accent iconic-property-stroke" d="M8 5h5" fill="none"></path>
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-sort-descending-sort iconic-sort-descending-sort-small iconic-property-accent iconic-property-stroke" d="M8 9h3" fill="none"></path>
+  </g>
+</svg>

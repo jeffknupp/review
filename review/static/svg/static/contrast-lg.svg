@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="contrast" class="iconic iconic-contrast iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Contrast</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-contrast-clip-0">
+      <path d="M64 116c-28.7 0-52-23.3-52-52s23.3-52 52-52v104z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path d="M64 116c-28.7 0-52-23.3-52-52s23.3-52 52-52v104z" class="iconic-contrast-black iconic-property-accent iconic-property-fill" />
+    <circle stroke="#000" stroke-width="8" stroke-miterlimit="10" cx="64" cy="64" r="60" class="iconic-contrast-border iconic-property-stroke" fill="none" />
+  </g>
+</svg>

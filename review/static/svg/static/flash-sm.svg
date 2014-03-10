@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="flash" class="iconic iconic-flash iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Flash</title>
+  </g>
+  <g class="iconic-container" data-width="7" data-height="15" transform="translate(4)">
+    <path class="iconic-flash-line iconic-property-fill" d="M2 0l-2 8h4l-1 4h2l2-6h-4l2-6" />
+    <path class="iconic-flash-arrowhead iconic-property-fill" d="M4 15l-3-3h6z" />
+  </g>
+</svg>

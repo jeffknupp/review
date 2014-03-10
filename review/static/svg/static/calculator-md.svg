@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="calculator" class="iconic iconic-calculator iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Calculator</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-calculator-clip-0">
+      <path d="M0 0v32h24v-32h-24zm6 29h-3v-3h3v3zm0-5h-3v-3h3v3zm0-5h-3v-3h3v3zm0-5h-3v-1h3v1zm5 15h-3v-3h3v3zm0-5h-3v-3h3v3zm0-5h-3v-3h3v3zm0-5h-3v-1h3v1zm5 15h-3v-3h3v3zm0-5h-3v-3h3v3zm0-5h-3v-3h3v3zm0-5h-3v-1h3v1zm5 15h-3v-8h3v8zm0-10h-3v-3h3v3zm0-5h-3v-1h3v1zm0-3h-18v-1h18v1zm0-3h-18v-5h18v5z"
+      />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="24" data-height="32" transform="translate(4)">
+    <path clip-path="url(#iconic-size-md-calculator-clip-0)" d="M23 32h-22c-.6 0-1-.4-1-1v-30c0-.6.4-1 1-1h22c.6 0 1 .4 1 1v30c0 .6-.4 1-1 1z" class="iconic-calculator-body iconic-property-fill" />
+  </g>
+</svg>

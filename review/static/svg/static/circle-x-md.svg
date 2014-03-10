@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="circle-x" class="iconic iconic-circle-x iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Circle X</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-circle-x-clip-0">
+      <path d="M0 0v32h32v-32h-32zm23.1 21l-2.1 2.1-5-5-5 5-2.1-2.1 5-5-5-5 2.1-2.1 5 5 5-5 2.1 2.1-5 5 5 5z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="32" data-height="32">
+    <circle cx="16" cy="16" r="16" clip-path="url(#iconic-size-md-circle-x-clip-0)" class="iconic-circle-x-body iconic-property-fill" />
+  </g>
+</svg>

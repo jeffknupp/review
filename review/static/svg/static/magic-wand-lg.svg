@@ -1,0 +1,36 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="magic-wand" class="iconic iconic-magic-wand iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Magic Wand</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path d="M89.1 31.1l7.9 7.9c.6.6.6 1.5 0 2.1l-85.9 85.9c-.6.6-1.5.6-2.1 0l-7.9-7.9c-.6-.6-.6-1.5 0-2.1l85.9-85.9c.5-.6 1.5-.6 2.1 0z" class="iconic-magic-wand-shaft iconic-magic-wand-shaft-handle iconic-property-fill" />
+    <path d="M100.9 17.1l-9.9 9.9c-.6.6-.6 1.5 0 2.1l7.9 7.9c.6.6 1.5.6 2.1 0l9.9-9.9c.6-.6.6-1.5 0-2.1l-7.9-7.9c-.5-.6-1.5-.6-2.1 0z" class="iconic-magic-wand-shaft iconic-magic-wand-shaft-tip iconic-property-fill" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-minor iconic-magic-wand-ray-7 iconic-property-stroke" fill="none" d="M101 43v10" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-major iconic-magic-wand-ray-6 iconic-property-stroke" fill="none" d="M113 39l14 14" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-minor iconic-magic-wand-ray-5 iconic-property-stroke" fill="none" d="M127 27h-10" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-major iconic-magic-wand-ray-4 iconic-property-stroke" fill="none" d="M127 1l-14 14" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-minor iconic-magic-wand-ray-3 iconic-property-stroke" fill="none" d="M101 1v10" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-major iconic-magic-wand-ray-2 iconic-property-stroke" fill="none" d="M75 1l14 14" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-magic-wand-ray iconic-magic-wand-ray-minor iconic-magic-wand-ray-1 iconic-property-stroke" fill="none" d="M85 27h-10" />
+    <circle cx="83" cy="19" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="75" cy="9" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="79" cy="23" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="93" cy="9" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="93" cy="9" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="97" cy="11" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="89" cy="3" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="109" cy="9" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="105" cy="3" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="117" cy="3" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="119" cy="19" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="119" cy="19" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="125" cy="11" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="123" cy="23" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="117" cy="35" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="123" cy="31" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="125" cy="39" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="109" cy="43" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="107" cy="49" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+    <circle cx="115" cy="53" r="1" class="iconic-magic-wand-spark iconic-property-fill" />
+  </g>
+</svg>

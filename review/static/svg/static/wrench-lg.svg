@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="wrench" class="iconic iconic-wrench iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Wrench</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path d="M127.6 20.4l-9.6 9.6h-20v-20l9.6-9.6c-1.5-.3-3-.4-4.6-.4-13.5 0-24.5 10.6-25 24 0 8.8-3.6 16.8-9.4 22.6l-66 66c-3.5 3.5-3.5 9.2 0 12.7 1.8 1.8 4.1 2.6 6.4 2.6s4.6-.9 6.4-2.6l66-66c5.8-5.7 13.8-9.3 22.6-9.3 13.4-.5 24-11.5 24-25 0-1.6-.2-3.1-.4-4.6zm-118.6 103.6c-2.8 0-5-2.2-5-5s2.2-5 5-5 5 2.2 5 5-2.2 5-5 5z"
+    class="iconic-property-fill" />
+  </g>
+</svg>

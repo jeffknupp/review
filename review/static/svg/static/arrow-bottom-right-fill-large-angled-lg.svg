@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-bottom-right-fill-large-angled" width="128" height="128" class="iconic iconic-arrow iconic-size-lg iconic-arrow-bottom-right-fill-large-angled" viewBox="0 0 128 128">
+  <g>
+    <title>Arrow Bottom Right Fill Large Angled</title>
+  </g>
+  <g data-width="128" data-height="128" data-default-max-height="64" class="iconic-container" transform="translate(0 ) scale(1 1 ) ">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-arrow-stem iconic-property-stroke" d="M0 32h118" fill="none" transform="rotate(45 64 64 ) translate(0 32 ) "></path>
+    <path d="M126.6 31.4l-47.2-18.8c-.8-.3-1 0-.6.7l10.5 17.4c.4.7.4 1.9 0 2.6l-10.5 17.4c-.4.7-.1 1 .6.7l47.2-18.9c.8-.3.8-.7 0-1.1z" class="iconic-arrow-head iconic-arrow-head-fill-large-angled iconic-property-fill" display="inline" transform="rotate(45 64 64 ) translate(0 32 ) "></path>
+  </g>
+</svg>

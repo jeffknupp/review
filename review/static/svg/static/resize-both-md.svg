@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="resize-both" width="32" height="32" class="iconic iconic-resize iconic-size-md iconic-resize-both" viewBox="0 0 32 32">
+  <g>
+    <title>Resize Both</title>
+  </g>
+  <g data-width="32" data-height="32" class="iconic-container iconic-resize-both" transform="scale(1 1 ) translate(0 ) ">
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-resize-both-line iconic-property-stroke" d="M28 4l-24 24" fill="none"></path>
+    <path d="M31.9.5l-.9 6c0 .3-.2.3-.4.1l-5.3-5.3c-.2-.2-.1-.4.1-.4l6-.9c.4 0 .6.2.5.5z" class="iconic-resize-both-arrowhead iconic-resize-both-arrowhead-top-right iconic-property-fill"></path>
+    <path d="M.1 31.5l.9-6c0-.3.2-.3.4-.1l5.3 5.3c.2.2.1.4-.1.4l-6 .9c-.4 0-.6-.2-.5-.5z" class="iconic-resize-both-arrowhead iconic-resize-both-arrowhead-bottom-left iconic-property-fill"></path>
+  </g>
+</svg>

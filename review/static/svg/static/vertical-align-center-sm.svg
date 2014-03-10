@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="vertical-align-center" width="16" height="16" class="iconic iconic-vertical-align iconic-size-sm iconic-vertical-align-center" viewBox="0 0 16 16">
+  <g>
+    <title>Vertical Align Center</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-vertical-align-center-clip-0">
+      <path d="M1 4v-4h14v4h-14zm0 3v4h14v-4h-14z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="16" data-height="13" class="iconic-container iconic-vertical-align-center" transform="scale(1 1 ) translate(0 1 ) ">
+    <path clip-path="url(#iconic-size-sm-vertical-align-center-clip-0)" class="iconic-vertical-align-center-element iconic-vertical-align-center-element-3 iconic-property-fill" d="M11 1h4v9h-4z"></path>
+    <path clip-path="url(#iconic-size-sm-vertical-align-center-clip-0)" class="iconic-vertical-align-center-element iconic-vertical-align-center-element-2 iconic-property-fill" d="M6 2h4v7h-4z"></path>
+    <path clip-path="url(#iconic-size-sm-vertical-align-center-clip-0)" class="iconic-vertical-align-center-element iconic-vertical-align-center-element-1 iconic-property-fill" d="M1 0h4v11h-4z"></path>
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-vertical-align-center-alignment-line iconic-property-stroke" d="M0 5.5h16" fill="none"></path>
+  </g>
+</svg>

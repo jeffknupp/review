@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="rss-alt" class="iconic iconic-rss-alt iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Rss Alt</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path d="M0 12c2.2 0 4 1.8 4 4h-4v-4z" class="iconic-rss-alt-center iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M0 7.5c4.7 0 8.5 3.8 8.5 8.5" class="iconic-rss-alt-wave iconic-rss-alt-wave-inner iconic-property-stroke" fill="none" />
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" d="M0 1.5c8 0 14.5 6.5 14.5 14.5" class="iconic-rss-alt-wave iconic-rss-alt-wave-outer iconic-property-stroke" fill="none" />
+  </g>
+</svg>

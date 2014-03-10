@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="dashboard" class="iconic iconic-dashboard iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Dashboard</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-dashboard-clip-0">
+      <path d="M0 0v15h16v-15h-16zm9.3 9.3c-.4.5-1 .7-1.6.7s-1.7-1-1.7-1l-2-1s-1-4.4-.7-4.7c.2-.2.4-.3.7-.3.2 0 4 1 4 1l1 2s1.2 2.4.3 3.3z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="16" data-height="15">
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" d="M4.5 14c-2.1-1.2-3.5-3.4-3.5-6 0-3.9 3.1-7 7-7s7 3.1 7 7c0 2.6-1.4 4.8-3.5 6h-7z" class="iconic-dashboard-body iconic-property-stroke" fill="none" />
+    <path d="M6.7 8.6c.5.5 1.4.5 1.9 0s.5-1.4 0-1.9-4.6-2.7-4.6-2.7 2.2 4.1 2.7 4.6z" class="iconic-dashboard-needle iconic-property-fill" />
+    <path clip-path="url(#iconic-size-sm-dashboard-clip-0)" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" d="M5.5 10.5c-.6-.7-1-1.5-1-2.5s.4-1.8 1-2.5 1.5-1 2.5-1 1.8.4 2.5 1 1 1.5 1 2.5-.4 1.8-1 2.5" class="iconic-dashboard-values iconic-property-accent iconic-property-stroke"
+    fill="none" />
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="project" class="iconic iconic-project iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Project</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="17" transform="translate(0 7)">
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-project-edge iconic-project-edge-start iconic-property-stroke" fill="none" d="M.5.5v16" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-project-edge iconic-project-edge-end iconic-property-stroke" fill="none" d="M31.5.5v16" />
+    <path class="iconic-project-task iconic-project-task-1 iconic-property-fill" d="M3 2h9v3h-9z" />
+    <path class="iconic-project-task iconic-project-task-2 iconic-property-accent iconic-property-fill" d="M8 7h14v3h-14z" />
+    <path class="iconic-project-task iconic-project-task-3 iconic-property-fill" d="M18 12h11v3h-11z" />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="circle-check" class="iconic iconic-circle-check iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Circle Check</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-circle-check-clip-0">
+      <path d="M0 0v128h128v-128h-128zm54.2 92.2l-23.9-23.9 5.7-5.7 17.9 17.9 39.8-44.2 5.9 5.4-45.4 50.5z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <circle cx="64" cy="64" r="64" clip-path="url(#iconic-size-lg-circle-check-clip-0)" class="iconic-circle-check-body iconic-property-fill" />
+  </g>
+</svg>

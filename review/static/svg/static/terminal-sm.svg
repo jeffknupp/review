@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="terminal" class="iconic iconic-terminal iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Terminal</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-terminal-clip-0">
+      <path d="M0 0v14h16v-14h-16zm6 5l-4 2v-1l3-1.5-3-1.5v-1l4 2v1zm7 2h-5v-1h5v1z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="16" data-height="14" transform="translate(0 1)">
+    <path clip-path="url(#iconic-size-sm-terminal-clip-0)" d="M15.8 14h-15.5c-.2 0-.3-.1-.3-.2v-13.6c0-.1.1-.2.3-.2h15.5c.1 0 .2.1.2.2v13.5c0 .2-.1.3-.2.3z" class="iconic-terminal-screen iconic-property-fill" />
+  </g>
+</svg>

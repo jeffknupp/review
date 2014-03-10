@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="cart" class="iconic iconic-cart iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Cart</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="14" transform="translate(0 1)">
+    <circle cx="3.5" cy="12.5" r="1.5" class="iconic-cart-wheel iconic-cart-wheel-back iconic-property-fill" />
+    <circle cx="13.5" cy="12.5" r="1.5" class="iconic-cart-wheel iconic-cart-wheel-front iconic-property-fill" />
+    <path d="M3.9 8.5l-.9-6c0-.3.2-.5.5-.5h12c.3 0 .5.2.4.5l-.9 6c0 .3-.2.5-.5.5h-10c-.3 0-.5-.2-.6-.5z" class="iconic-cart-basket iconic-property-fill" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" d="M.5.5h2.2c.1 0 .3.1.3.2l1.4 6.5c0 .1 0 .4 0 .5l-.9 4.5c0 .1.1.2.2.2h9.8" class="iconic-cart-body iconic-property-stroke" fill="none" />
+  </g>
+</svg>

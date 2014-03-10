@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="volume-medium" width="16" height="16" class="iconic iconic-volume iconic-size-sm iconic-volume-medium" viewBox="0 0 16 16">
+  <g>
+    <title>Volume Medium</title>
+  </g>
+  <g data-width="13" data-height="12" class="iconic-container iconic-volume-medium" transform="scale(1 1 ) translate(1 2 ) ">
+    <path class="iconic-volume-medium-speaker iconic-property-fill" d="M6 0l-3 3h-3v6h3l3 3h1v-12z"></path>
+    <path stroke="#000" d="M8.8 4.2c.4.5.7 1.1.7 1.8s-.3 1.3-.7 1.8" class="iconic-volume-medium-wave iconic-volume-medium-wave-inner iconic-property-accent iconic-property-stroke" fill="none"></path>
+    <path stroke="#000" d="M10.9 2.1c1 1 1.6 2.4 1.6 3.9s-.6 2.9-1.6 3.9" class="iconic-volume-medium-wave iconic-volume-medium-wave-middle iconic-property-accent iconic-property-stroke" fill="none"></path>
+  </g>
+</svg>

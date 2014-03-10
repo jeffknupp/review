@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="128" height="128" data-icon="lightning-bolt" data-container-transform="translate(6)" viewBox="0 0 128 128">
+  <g transform="translate(6)">
+    <path d="M73.5 0c-.8 0-1.906.487-2.406 1.188l-44.188 61.625c-.5.7-.206 1.188.594 1.188h17c.8 0 1.094.487.594 1.188l-44.188 61.625c-.5.7-.419.781.281.281l97.719-82.094c.6-.5.494-1-.406-1h-23c-.8 0-1-.494-.5-1.094l40-41.813c.6-.6.4-1.094-.5-1.094h-41z"
+    />
+  </g>
+</svg>

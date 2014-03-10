@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="zoom-in" width="128" height="128" class="iconic iconic-zoom iconic-size-lg iconic-zoom-in" viewBox="0 0 128 128">
+  <g>
+    <title>Zoom In</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-zoom-in-clip-0">
+      <path d="M95.7 83.7l-6.7 6.7-1.4-1.4 6.7-6.7-4.3-4.3-12 12 38 38 12-12z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="128" data-height="128" class="iconic-container iconic-zoom-in" transform="translate(0 ) scale(1 1 ) ">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-zoom-in-handle iconic-zoom-in-handle-connector iconic-property-stroke" d="M85 85l-7.9-7.9" fill="none"></path>
+    <path d="M126.9 117.1l-9.9 9.9c-.6.6-1.5.6-2.1 0l-35.8-35.9c-.6-.6-.6-1.5 0-2.1l9.9-9.9c.6-.6 1.5-.6 2.1 0l35.9 35.9c.5.5.5 1.5-.1 2.1z" clip-path="url(#iconic-size-lg-zoom-in-clip-0)" class="iconic-zoom-in-handle iconic-property-fill"></path>
+    <circle stroke="#000" stroke-width="8" stroke-miterlimit="10" cx="46" cy="46" r="42" class="iconic-zoom-in-rim iconic-property-stroke" fill="none"></circle>
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-zoom-in-plus iconic-property-accent iconic-property-stroke" d="M46 34v24m12-12h-24" fill="none"></path>
+  </g>
+</svg>

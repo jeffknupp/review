@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="battery" class="iconic iconic-battery iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Battery</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-battery-clip-0">
+      <path d="M0 0v16h29v-16h-29zm27 14h-25v-12h25v12z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="32" data-height="16" transform="translate(0 8)">
+    <path d="M25.5 4h6c.3 0 .5.2.5.5v7c0 .3-.2.5-.5.5h-6c-.3 0-.5-.2-.5-.5v-7c0-.3.2-.5.5-.5z" class="iconic-battery-terminal iconic-property-fill" />
+    <path clip-path="url(#iconic-size-md-battery-clip-0)" d="M28 16h-27c-.6 0-1-.4-1-1v-14c0-.6.4-1 1-1h27c.6 0 1 .4 1 1v14c0 .6-.4 1-1 1z" class="iconic-battery-casing iconic-property-fill" />
+    <path class="iconic-battery-charge-amount iconic-property-fill" d="M2 2h25v12h-25z" />
+    <path display="none" fill="#fff" class="iconic-battery-charge-indicator iconic-property-fill" d="M7 4l-3 5h2v3l3-5h-2z" />
+  </g>
+</svg>

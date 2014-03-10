@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="grid-three-up" width="128" height="128" class="iconic iconic-grid iconic-orientation-square iconic-size-lg iconic-grid-three-up" viewBox="0 0 128 128">
+  <g>
+    <title>Grid Three Up</title>
+  </g>
+  <g data-width="128" data-height="128" class="iconic-container iconic-grid-three-up" transform="translate(0 ) scale(1 1 ) ">
+    <path d="M126.5 128h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-9 iconic-grid-three-up-row-3 iconic-grid-three-up-column-3 iconic-property-fill"></path>
+    <path d="M80.5 128h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-8 iconic-grid-three-up-row-3 iconic-grid-three-up-column-2 iconic-property-fill"></path>
+    <path d="M34.5 128h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-7 iconic-grid-three-up-row-3 iconic-grid-three-up-column-1 iconic-property-fill"></path>
+    <path d="M126.5 82h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-6 iconic-grid-three-up-row-2 iconic-grid-three-up-column-3 iconic-property-fill"></path>
+    <path d="M80.5 82h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-5 iconic-grid-three-up-row-2 iconic-grid-three-up-column-2 iconic-property-fill"></path>
+    <path d="M34.5 82h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-4 iconic-grid-three-up-row-2 iconic-grid-three-up-column-1 iconic-property-fill"></path>
+    <path d="M80.5 36h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-2 iconic-grid-three-up-row-1 iconic-grid-three-up-column-2 iconic-property-fill"></path>
+    <path d="M126.5 36h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-3 iconic-grid-three-up-row-1 iconic-grid-three-up-column-3 iconic-property-fill"></path>
+    <path d="M34.5 36h-33c-.8 0-1.5-.7-1.5-1.5v-33c0-.8.7-1.5 1.5-1.5h33c.8 0 1.5.7 1.5 1.5v33c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-three-up-item iconic-grid-three-up-item-1 iconic-grid-three-up-row-1 iconic-grid-three-up-column-1 iconic-property-fill"></path>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="tiara" class="iconic iconic-tiara iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Tiara</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="48" transform="translate(0 40)">
+    <path d="M120 46c-15.8 0-24-26-24-26s-7.7 15-14.4 5.6c-4.5-6.2-17.6-25.6-17.6-25.6s-13.2 19.1-17.6 25.6c-6.4 9.4-14.4-5.6-14.4-5.6s-8 26-24 26h-8v2h128v-2h-8zm-65-9l-3-5 3-5 3 5-3 5zm3-13l6-10 6 10-6 10-6-10zm15 13l-3-5 3-5 3 5-3 5z" class="iconic-property-fill"
+    />
+  </g>
+</svg>

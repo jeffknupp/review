@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="128" height="128" data-icon="fire" data-container-transform="translate(14)" viewBox="0 0 128 128">
+  <g transform="translate(14)">
+    <path d="M32 0c16 32-32 48-32 80s32 48 32 48c-15.8-31.8 32-48 32-80s-32-48-32-48zm36 38c16 32-32 48-32 80 0 1.4-.013 2.7.188 4 .4 3.5 1.813 6 1.813 6h34c3.8 0 6.713-2.7 7.813-4 9.6-11.3 20.188-22.9 20.188-38 0-32-32-48-32-48z" />
+  </g>
+</svg>

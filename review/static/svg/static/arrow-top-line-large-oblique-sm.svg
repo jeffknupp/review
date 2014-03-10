@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-top-line-large-oblique" width="16" height="16" class="iconic iconic-arrow iconic-size-sm iconic-arrow-top-line-large-oblique" viewBox="0 0 16 16">
+  <g>
+    <title>Arrow Top Line Large Oblique</title>
+  </g>
+  <g data-width="10" data-height="16" data-default-max-height="10" class="iconic-container" transform=" translate(3 0)">
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-arrow-stem iconic-property-stroke" d="M14 5h-14" fill="none" transform=" rotate(270 8 8 ) translate(0 0)"></path>
+    <path class="iconic-arrow-head iconic-arrow-head-line-large-oblique iconic-property-fill" d="M16 5l-4-5h-2l4 5-4 5h2z" display="inline" transform=" rotate(270 8 8 ) translate(0 0)"></path>
+  </g>
+</svg>

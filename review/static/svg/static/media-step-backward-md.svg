@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="media-step-backward" width="32" height="32" class="iconic iconic-media-step iconic-size-md iconic-media-step-backward" viewBox="0 0 32 32">
+  <g>
+    <title>Media Step Backward</title>
+  </g>
+  <g data-width="19" data-height="16" class="iconic-container iconic-media-step-backward" transform="scale(1 1 ) translate(6 8 ) ">
+    <path d="M3.4 7.8l15.1-7.6c.2-.1.4 0 .4.3v15c0 .3-.2.4-.4.3l-15.1-7.6c-.2-.1-.2-.3 0-.4z" class="iconic-step-backward-arrowhead iconic-property-fill"></path>
+    <path class="iconic-step-backward-line iconic-property-fill" d="M0 0h3v16h-3z"></path>
+  </g>
+</svg>

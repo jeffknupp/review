@@ -1,0 +1,20 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="image-landscape" width="128" height="128" class="iconic iconic-image iconic-orientation-square iconic-size-lg iconic-image-landscape" viewBox="0 0 128 128">
+  <title>Image Landscape</title>
+  <defs>
+    <clipPath id="iconic-size-lg-image-landscape-clip-0">
+      <path d="M64 34l48 60h6v-60z"></path>
+    </clipPath>
+    <clipPath id="iconic-size-lg-image-landscape-clip-1">
+      <path d="M110 90v-56h-80l44.8 56z"></path>
+    </clipPath>
+    <clipPath id="iconic-size-lg-image-landscape-clip-2">
+      <path d="M6 34h68v56h-68z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="128" data-height="96" class="iconic-container iconic-image-landscape" transform="translate(0 16 ) scale(1 1 ) ">
+    <circle clip-path="url(#iconic-size-lg-image-landscape-clip-0)" cx="92" cy="60" r="16" class="iconic-image-landscape-sun iconic-property-fill"></circle>
+    <path clip-path="url(#iconic-size-lg-image-landscape-clip-1)" d="M113.1 100.8l-46.2-57.6c-.5-.6-1.4-.6-1.9 0l-46.1 57.7c-.5.6-.3 1.2.6 1.2h93c.8-.1 1.1-.6.6-1.3z" class="iconic-image-landscape-mountain iconic-image-landscape-mountain-back iconic-property-accent iconic-property-fill"></path>
+    <path clip-path="url(#iconic-size-lg-image-landscape-clip-2)" d="M73.1 92.8l-46.2-57.6c-.5-.6-1.4-.6-1.9 0l-46.1 57.7c-.5.6-.3 1.2.6 1.2h93c.8-.1 1.1-.6.6-1.3z" class="iconic-image-landscape-mountain iconic-image-landscape-mountain-front iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="4" stroke-miterlimit="10" class="iconic-image-landscape-frame iconic-property-stroke" d="M2 2h124v92h-124z" fill="none"></path>
+  </g>
+</svg>

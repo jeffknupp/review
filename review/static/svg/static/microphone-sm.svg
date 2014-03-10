@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="microphone" class="iconic iconic-microphone iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Microphone</title>
+  </g>
+  <g class="iconic-container" data-width="9" data-height="16" transform="translate(3)">
+    <path d="M4 11.5v3.5h-2c-.6 0-1 .4-1 1h7c0-.6-.4-1-1-1h-2v-3.5h-1z" class="iconic-microphone-base iconic-property-fill" />
+    <path stroke="#000" stroke-linecap="round" stroke-miterlimit="10" d="M.5 6.7v.8c0 2.2 1.8 4 4 4s4-1.8 4-4v-.8" class="iconic-microphone-hinge iconic-property-stroke" fill="none" />
+    <path d="M4.5 10c-1.4 0-2.5-1.1-2.5-2.5v-5c0-1.4 1.1-2.5 2.5-2.5s2.5 1.1 2.5 2.5v5c0 1.4-1.1 2.5-2.5 2.5z" class="iconic-microphone-head iconic-property-fill" />
+  </g>
+</svg>

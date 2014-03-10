@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="dollar" class="iconic iconic-dollar iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Dollar</title>
+  </g>
+  <g class="iconic-container" data-width="82" data-height="128" transform="translate(23)">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-dollar-vertical-line iconic-property-stroke" fill="none" d="M42 128v-128" />
+    <path stroke="#000" stroke-width="12" stroke-miterlimit="10" d="M72 40c0-16-8-26-31-26-31 0-31 20.3-31 25 0 35 66 15 66 50 0 9-2 25-35 25-25 0-35-12-35-28" class="iconic-dollar-s-curve iconic-property-stroke" fill="none" />
+  </g>
+</svg>

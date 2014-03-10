@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="browser" class="iconic iconic-browser iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Browser</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-sm-browser-clip-0">
+      <path d="M0 2.5v11.5h16v-11.5h-16zm15 10.5h-14v-10h14v10z" />
+    </clipPath>
+    <clipPath id="iconic-size-sm-browser-clip-1">
+      <path d="M0 0v3h16v-3h-16zm1.5 2c-.3 0-.5-.2-.5-.5s.2-.5.5-.5.5.2.5.5-.2.5-.5.5zm2 0c-.3 0-.5-.2-.5-.5s.2-.5.5-.5.5.2.5.5-.2.5-.5.5zm10 0h-8c-.3 0-.5-.2-.5-.5s.2-.5.5-.5h8c.3 0 .5.2.5.5s-.2.5-.5.5z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="16" data-height="14" transform="translate(0 1)">
+    <path clip-path="url(#iconic-size-sm-browser-clip-0)" class="iconic-browser-border iconic-property-fill" d="M0 2.5h16v11.5h-16z" />
+    <path clip-path="url(#iconic-size-sm-browser-clip-1)" class="iconic-browser-top iconic-property-fill" d="M0 0h16v3h-16z" />
+  </g>
+</svg>

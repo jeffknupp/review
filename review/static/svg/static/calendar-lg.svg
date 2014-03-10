@@ -1,0 +1,18 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="calendar" class="iconic iconic-calendar iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Calendar</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-calendar-clip-0">
+      <path d="M0 26v94h126v-94h-126zm22 86h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm16 48h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm16 48h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm16 64h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm16 48h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm16 48h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm16 48h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14zm0-16h-14v-14h14v14z"
+      />
+    </clipPath>
+    <clipPath id="iconic-size-lg-calendar-clip-1">
+      <path d="M0 0h126v24h-126z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="126" data-height="120" transform="translate(1 4)">
+    <path d="M0 117v-114c0-1.7 1.3-3 3-3h120c1.7 0 3 1.3 3 3v114c0 1.7-1.3 3-3 3h-120c-1.7 0-3-1.3-3-3z" clip-path="url(#iconic-size-lg-calendar-clip-0)" class="iconic-calendar-body iconic-property-fill" />
+    <path d="M0 118.5v-117c0-.8.7-1.5 1.5-1.5h123c.8 0 1.5.7 1.5 1.5v117c0 .8-.7 1.5-1.5 1.5h-123c-.8 0-1.5-.7-1.5-1.5z" clip-path="url(#iconic-size-lg-calendar-clip-1)" class="iconic-calendar-top iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

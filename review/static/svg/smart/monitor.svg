@@ -1,0 +1,38 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="monitor" width="128" height="128" class="iconic iconic-monitor" viewBox="0 0 128 128">
+  <g><title>Monitor</title></g>
+  <g data-width="128" data-height="110" class="iconic-lg iconic-container" display="inline" transform="translate(0 7)">
+    <path d="M75.5 102l-1.5-16h-4c0 3.3-2.7 6-6 6s-6-2.7-6-6h-4l-1.5 16c-.3 2.2-2.3 4-4.5 4v2h32.1v-2c-2.2 0-4.3-1.8-4.6-4z" class="iconic-monitor-base iconic-monitor-base-neck iconic-property-fill"/>
+    <path d="M88 106h-48c-2.2 0-4 1.8-4 4h56c0-2.2-1.8-4-4-4z" class="iconic-monitor-base iconic-monitor-base-foot iconic-property-fill"/>
+    <path stroke="#000" stroke-width="4" stroke-linejoin="round" stroke-miterlimit="10" class="iconic-monitor-screen iconic-monitor-screen-border iconic-property-stroke" d="M2 2h124v80h-124z" fill="none"/>
+    <foreignObject class="iconic-monitor-screenshot-container" x="4" y="4" width="120" height="76">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:120px; height:76px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-monitor-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+  <g data-width="32" data-height="29" class="iconic-md iconic-container" display="none" transform="scale(4) translate(0 1)">
+    <path stroke="#000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" class="iconic-monitor-screen iconic-monitor-screen-border iconic-property-stroke" d="M1 1h30v20h-30z" fill="none"/>
+    <path d="M20 28.5v-.5c-.6 0-1-.4-1-1v-4h-6v4c0 .6-.4 1-1 1v.5h8z" class="iconic-monitor-base iconic-monitor-base-neck iconic-property-fill"/>
+    <path d="M22 28h-12c-.6 0-1 .4-1 1h14c0-.6-.4-1-1-1z" class="iconic-monitor-base iconic-monitor-base-foot iconic-property-fill"/>
+    <foreignObject class="iconic-monitor-screenshot-container" x="2" y="2" width="28" height="18">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:28px; height:18px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-monitor-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+  <g data-width="16" data-height="15" class="iconic-sm iconic-container" display="none" transform="scale(8) translate(0)">
+    <path class="iconic-monitor-base iconic-monitor-base-neck iconic-property-fill" d="M6 12h4v2.3h-4z"/>
+    <path d="M12 14h-8c-.6 0-1 .4-1 1h10c0-.6-.4-1-1-1z" class="iconic-monitor-base iconic-monitor-base-foot iconic-property-fill"/>
+    <path stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" class="iconic-monitor-screen iconic-monitor-screen-border iconic-property-stroke" d="M.5.5h15v10h-15z" fill="none"/>
+     <foreignObject class="iconic-monitor-screenshot-container" x="1" y="1" width="14" height="9">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:14px; height:9px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-monitor-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+<script class="iconic-api" type="application/ecmascript">
+//<![CDATA[
+var iconicApis=window._Iconic?window._Iconic.smartIconApis:{};iconicApis["monitor"]=iconicApis["monitor"]||function(t){var e=function(e){t.setAttribute("data-screenshot",e);for(var i=t.querySelectorAll(".iconic-monitor-screenshot-container"),r=0;r<i.length;r++)i[r]&&i[r].style&&(i[r].style.display="none"),i[r]&&i[r].style&&(i[r].style.display="block");for(var n=t.querySelectorAll(".iconic-monitor-screenshot"),r=0;r<n.length;r++)e&&""!==e?n[r].setAttribute("src",e):n[r].removeAttribute("src")},i=function(){var i=t.getAttribute("data-screenshot")||"";e(i)};return{update:i,setScreenshot:e}};
+//]]>
+</script>
+</svg>

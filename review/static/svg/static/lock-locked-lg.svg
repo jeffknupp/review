@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="lock-locked" width="128" height="128" class="iconic iconic-lock iconic-size-lg iconic-lock-locked" viewBox="0 0 128 128">
+  <g>
+    <title>Lock Locked</title>
+  </g>
+  <g data-width="94" data-height="114" class="iconic-container iconic-lock-locked" transform="translate(17 7 ) scale(1 1 ) ">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" d="M72 51v-22c0-13.8-11.2-25-25-25s-25 11.2-25 25v22" class="iconic-lock-locked-loop iconic-property-accent iconic-property-stroke" fill="none"></path>
+    <path class="iconic-lock-locked-body iconic-lock-locked-body-main iconic-property-fill" d="M2 56h90v40h-90z"></path>
+    <path class="iconic-lock-locked-body iconic-lock-locked-body-bottom iconic-property-fill" d="M0 98v16h94v-16h-56z"></path>
+    <path class="iconic-lock-locked-body iconic-lock-locked-body-top iconic-property-fill" d="M0 48h94v6h-94z"></path>
+  </g>
+</svg>

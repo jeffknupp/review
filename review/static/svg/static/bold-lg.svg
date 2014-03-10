@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="bold" class="iconic iconic-bold iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Bold</title>
+  </g>
+  <g class="iconic-container" data-width="108" data-height="128" transform="translate(10)">
+    <path d="M85.7 58.7c8.6-5.7 14.3-15.6 14.3-26.7 0-17.7-14.3-32-32-32h-68v6h12c3.3 0 6 2.7 6 6v104c0 3.3-2.7 6-6 6h-10v6h70c19.9 0 36-16.1 36-36 0-15-9.2-27.9-22.3-33.3zm-34.7-52.7c13.8 0 25 11.2 25 25s-11.2 25-25 25h-11v-50h11zm5 116h-16v-60h16c16.6 0 30 13.4 30 30s-13.4 30-30 30z"
+    class="iconic-property-fill" />
+  </g>
+</svg>

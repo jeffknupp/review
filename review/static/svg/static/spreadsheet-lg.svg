@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="spreadsheet" class="iconic iconic-spreadsheet iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Spreadsheet</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="104" transform="translate(0 12)">
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-spreadsheet-column iconic-spreadsheet-column-2 iconic-property-accent iconic-property-stroke" fill="none" d="M73 4v96.6" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-spreadsheet-column iconic-spreadsheet-column-1 iconic-property-accent iconic-property-stroke" fill="none" d="M25 4v96.6" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-spreadsheet-row iconic-spreadsheet-row-4 iconic-property-accent iconic-property-stroke" fill="none" d="M4 79h120" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-spreadsheet-row iconic-spreadsheet-row-3 iconic-property-accent iconic-property-stroke" fill="none" d="M4 61h120" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-spreadsheet-row iconic-spreadsheet-row-2 iconic-property-accent iconic-property-stroke" fill="none" d="M4 43h120" />
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-spreadsheet-row iconic-spreadsheet-row-1 iconic-property-accent iconic-property-stroke" fill="none" d="M4 25h120" />
+    <path d="M120 8v88h-112v-88h112m5-8h-122c-1.7 0-3 1.3-3 3v98c0 1.7 1.3 3 3 3h122c1.7 0 3-1.3 3-3v-98c0-1.7-1.3-3-3-3z" class="iconic-spreadsheet-frame iconic-property-fill" />
+  </g>
+</svg>

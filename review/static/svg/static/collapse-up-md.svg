@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="collapse-up" width="32" height="32" class="iconic iconic-collapse iconic-size-md iconic-collapse-up" viewBox="0 0 32 32">
+  <g>
+    <title>Collapse Up</title>
+  </g>
+  <g data-width="32" data-height="32" class="iconic-container" transform="scale(1 1 ) rotate(90 16 16 ) translate(0 ) ">
+    <path class="iconic-collapse-line iconic-collapse-line-right iconic-property-fill" d="M26 0h6v32h-6z"></path>
+    <path class="iconic-collapse-line iconic-collapse-line-left iconic-property-fill" d="M0 0h2v32h-2z"></path>
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-collapse-arrow iconic-collapse-arrow-line iconic-property-accent iconic-property-stroke" d="M21.5 15.5h-11.5" fill="none"></path>
+    <path class="iconic-collapse-arrow iconic-collapse-arrow-head iconic-property-accent iconic-property-fill" d="M5 15.5l6-4.5v9z"></path>
+  </g>
+</svg>

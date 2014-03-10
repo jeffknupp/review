@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="fullscreen-enter" width="128" height="128" class="iconic iconic-fullscreen iconic-orientation-square iconic-size-lg iconic-fullscreen-enter" viewBox="0 0 128 128">
+  <g>
+    <title>Fullscreen Enter</title>
+  </g>
+  <g data-width="128" data-height="127" class="iconic-container iconic-fullscreen-enter" transform="translate(0 ) scale(1 1 ) ">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-fullscreen-enter-line iconic-fullscreen-enter-line-bottom iconic-property-stroke" d="M119 119l-45-45" fill="none"></path>
+    <path d="M127.7 125.5l-5.3-24.1c-.2-.8-.8-1-1.4-.4l-19.9 19.9c-.6.6-.4 1.2.4 1.3l25 4.5c.8.2 1.4-.4 1.2-1.2z" class="iconic-fullscreen-enter-arrowhead iconic-fullscreen-enter-arrowhead-bottom iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-fullscreen-enter-line iconic-fullscreen-enter-line-top iconic-property-stroke" d="M11 11l43 43" fill="none"></path>
+    <path d="M.3 1.5l5.4 25.1c.2.8.8 1 1.4.4l19.8-19.9c.6-.6.4-1.2-.4-1.4l-25-5.4c-.8-.2-1.4.4-1.2 1.2z" class="iconic-fullscreen-enter-arrowhead iconic-fullscreen-enter-arrowhead-top iconic-property-fill"></path>
+  </g>
+</svg>

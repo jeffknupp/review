@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="zoom-in" width="32" height="32" class="iconic iconic-zoom iconic-size-md iconic-zoom-in" viewBox="0 0 32 32">
+  <g>
+    <title>Zoom In</title>
+  </g>
+  <g data-width="32" data-height="32" class="iconic-container iconic-zoom-in" transform="scale(1 1 ) translate(0 ) ">
+    <path fill="none" stroke="#000" stroke-width="3" stroke-miterlimit="10" class="iconic-zoom-in-handle iconic-zoom-in-handle-connector iconic-property-stroke" d="M19.5 19.6l9.4 9.4"></path>
+    <circle stroke="#000" stroke-width="3" stroke-miterlimit="10" cx="12" cy="12" r="10.5" class="iconic-zoom-in-rim iconic-property-stroke" fill="none"></circle>
+    <path d="M23.6 20.4l-3.3 3.3c-.2.2-.2.5 0 .7l7.3 7.3c.2.2.5.2.7 0l3.3-3.3c.2-.2.2-.5 0-.7l-7.3-7.3c-.1-.2-.5-.2-.7 0z" class="iconic-zoom-in-handle iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-zoom-in-plus iconic-property-accent iconic-property-stroke" d="M12 8v8m4-4h-8" fill="none"></path>
+  </g>
+</svg>

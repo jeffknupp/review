@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="medal" class="iconic iconic-medal iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Medal</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path d="M14 0l2 2-5 8.4c-.6-.7-1.5-1.2-2.4-1.3l5.4-9.1zm-2.8 3l1.8-3h-10l1.8 3h6.4zm-3.8 6.1l-5.4-9.1-2 2 5 8.4c.6-.7 1.5-1.2 2.4-1.3z" class="iconic-medal-band iconic-property-fill" />
+    <circle cx="8" cy="13" r="3" class="iconic-medal-medal iconic-property-fill" />
+  </g>
+</svg>

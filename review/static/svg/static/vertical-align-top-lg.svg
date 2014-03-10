@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="vertical-align-top" width="128" height="128" class="iconic iconic-vertical-align iconic-size-lg iconic-vertical-align-top" viewBox="0 0 128 128">
+  <g>
+    <title>Vertical Align Top</title>
+  </g>
+  <g data-width="128" data-height="90" class="iconic-container iconic-vertical-align-top" transform="translate(0 19 ) scale(1 1 ) ">
+    <path d="M98.5 74h-17c-.8 0-1.5-.7-1.5-1.5v-67c0-.8.7-1.5 1.5-1.5h17c.8 0 1.5.7 1.5 1.5v67c0 .8-.7 1.5-1.5 1.5z" class="iconic-vertical-align-top-element iconic-vertical-align-top-element-3 iconic-property-fill"></path>
+    <path d="M72.5 54h-17c-.8 0-1.5-.7-1.5-1.5v-47c0-.8.7-1.5 1.5-1.5h17c.8 0 1.5.7 1.5 1.5v47c0 .8-.7 1.5-1.5 1.5z" class="iconic-vertical-align-top-element iconic-vertical-align-top-element-2 iconic-property-fill"></path>
+    <path d="M46.5 90h-17c-.8 0-1.5-.7-1.5-1.5v-83c0-.8.7-1.5 1.5-1.5h17c.8 0 1.5.7 1.5 1.5v83c0 .8-.7 1.5-1.5 1.5z" class="iconic-vertical-align-top-element iconic-vertical-align-top-element-1 iconic-property-fill"></path>
+    <path stroke="#000" stroke-width="2" stroke-miterlimit="10" class="iconic-vertical-align-top-alignment-line iconic-property-accent iconic-property-stroke" d="M0 1h128" fill="none"></path>
+  </g>
+</svg>

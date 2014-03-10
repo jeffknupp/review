@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="bitcoin-transaction" class="iconic iconic-bitcoin-transaction iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Bitcoin Transaction</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-transaction-strike iconic-bitcoin-transaction-strike-top iconic-bitcoin-transaction-strike-left iconic-property-accent iconic-property-stroke" fill="none" d="M3.5 0v3.5" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-transaction-strike iconic-bitcoin-transaction-strike-top iconic-bitcoin-transaction-strike-right iconic-property-accent iconic-property-stroke" fill="none" d="M5.5 0v3.5" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-transaction-strike iconic-bitcoin-transaction-strike-bottom iconic-bitcoin-transaction-strike-left iconic-property-accent iconic-property-stroke" fill="none" d="M3.5 12.5v3.5" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-transaction-strike iconic-bitcoin-transaction-strike-bottom iconic-bitcoin-transaction-strike-right iconic-property-accent iconic-property-stroke" fill="none" d="M5.5 12.5v3.5" />
+    <path d="M7.3 7.3c.4-.5.7-1.1.7-1.8 0-1.4-1.1-2.5-2.5-2.5h-5.5v1c.6 0 1 .4 1 1v6c0 .6-.4 1-1 1v1h6c1.7 0 3-1.3 3-3 0-1.2-.7-2.2-1.7-2.7zm-4.3-3.3h1.5c.8 0 1.5.7 1.5 1.5s-.7 1.5-1.5 1.5h-1.5v-3zm2 8h-2v-4h2c1.1 0 2 .9 2 2s-.9 2-2 2z" class="iconic-bitcoin-transaction-b iconic-property-fill"
+    />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-transaction-arrow iconic-bitcoin-transaction-arrow-bottom iconic-bitcoin-transaction-arrow-bottom-stem iconic-property-stroke" fill="none" d="M14 10.5h-3" />
+    <path class="iconic-bitcoin-transaction-arrow iconic-bitcoin-transaction-arrow-bottom iconic-bitcoin-transaction-arrow-bottom-head iconic-property-fill" d="M16 10.5l-3-2.5v5z" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-transaction-arrow iconic-bitcoin-transaction-arrow-top iconic-bitcoin-transaction-arrow-top-stem iconic-property-stroke" fill="none" d="M14 6.5h-3" />
+    <path class="iconic-bitcoin-transaction-arrow iconic-bitcoin-transaction-arrow-top iconic-bitcoin-transaction-arrow-top-head iconic-property-fill" d="M9 6.5l3 2.5v-5z" />
+  </g>
+</svg>

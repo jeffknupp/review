@@ -8,6 +8,33 @@
                 <h5>Link to source: <a href="{{ review.project.source }}"> {{ review.project.source }}</a></h5>
                 <h5>Link to documentation: <a href="{{ review.project.documentation }}"> {{ review.project.documentation }}</a></h5>
                 <hr/>
+                <table class="table">
+                    <thead>
+                        <th>Metric</th><th>Score</th><th>Rationale</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Documentation</td><td>{{ review.documentation_review.stars|show_stars|safe }}</td><td>{{ review.documentation_review.content|safe }}</td>
+                        </tr>
+                        <tr>
+                            <td>Code Quality</td><td>{{ review.code_quality_review.stars|show_stars|safe }}</td><td>{{ review.code_quality_review.content|safe }}</td>
+                        </tr>
+                        <tr>
+                            <td>Ease of Use</td><td>{{ review.ease_of_use_review.stars|show_stars|safe }}</td><td>{{ review.ease_of_use_review.content|safe }}</td>
+                        </tr>
+                        <tr>
+                            <td>Ease of Contribution</td><td>{{ review.ease_of_contribution_review.stars|show_stars|safe }}</td><td>{{ review.ease_of_contribution_review.content|safe }}</td>
+                        </tr>
+                        <tr>
+                            <td>Project Infrastructure</td><td>{{ review.project_infrastructure_review.stars|show_stars|safe }}</td><td>{{ review.project_infrastructure_review.content|safe }}</td>
+                        </tr>
+                        <tr>
+                            <td>Overall (not an average)</td><td>{{ review.overall_review.stars|show_stars|safe }}</td><td>{{ review.overall_review.content|safe }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <hr/>
+                <h3>Review</h3>
                 <p>{{ review.content|safe}}</p>
             </li>
     </ul>

@@ -4,12 +4,17 @@
     <ul class="list-unstyled">
         {% for review in reviews %}
             <li>
-                <h2 class="text-center">{{ review.project.name }}</h2>
+                <a href="/reviews/{{ review.project.slug }}/{{ review.project.id }}/"><h2 class="text-center">{{ review.project.name }}</h2></a>
                 <p>An open source project by <strong>{{ review.project.author }}</strong>.</p>
-                <h5>Link to source: <a href="{{ review.project.source }}"> {{ review.project.source }}</a></h5>
-                <h5>Link to documentation: <a href="{{ review.project.documentation }}"> {{ review.project.documentation }}</a></h5>
+                <p class="pull-right">{{ review.project.description }}</p>
+                <h5 class="clearfix">Description:</h5>
+                <p class="pull-right"><a href="{{ review.project.source }}"> {{ review.project.source }}</a></p>
+                <h5 class="clearfix">Link to source:</h5> 
+                <p class="pull-right"><a href="{{ review.project.documentation }}"> {{ review.project.documentation }}</a></p>
+                <h5 class="clearfix">Link to documentation:</h5>
+                <p class="pull-right">{{ review.overall_review.stars|show_stars|safe }}</p>
+                <p class="clearfix"><strong>Overall score:</strong></p> 
                 <hr/>
-                <p>{{ review.content|safe }}</p>
             </li>
         {% endfor %}
     </ul>

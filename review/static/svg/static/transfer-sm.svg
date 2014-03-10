@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="transfer" class="iconic iconic-transfer iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Transfer</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="12" transform="translate(0 2)">
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-transfer-line iconic-transfer-line-bottom iconic-property-accent iconic-property-stroke" fill="none" d="M15 9h-12" />
+    <path class="iconic-transfer-arrowhead iconic-transfer-arrowhead-bottom iconic-property-accent iconic-property-fill" d="M3 12v-6l-3 3z" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" class="iconic-transfer-line iconic-transfer-line-top iconic-property-stroke" fill="none" d="M1 3h12" />
+    <path class="iconic-transfer-arrowhead iconic-transfer-arrowhead-top iconic-property-fill" d="M13 0v6l3-3z" />
+  </g>
+</svg>

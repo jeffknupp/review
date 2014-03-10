@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="expand-right" width="16" height="16" class="iconic iconic-expand iconic-size-sm iconic-expand-right" viewBox="0 0 16 16">
+  <g>
+    <title>Expand Right</title>
+  </g>
+  <g data-width="16" data-height="16" class="iconic-container" transform="scale(1 1 ) rotate(180 8 8 ) translate(0 ) ">
+    <path class="iconic-expand-line iconic-expand-line-right iconic-property-fill" d="M12 0h4v16h-4z"></path>
+    <path class="iconic-expand-line iconic-expand-line-left iconic-property-fill" d="M0 0h1v16h-1z"></path>
+    <path class="iconic-expand-arrow iconic-expand-arrow-line iconic-property-accent iconic-property-fill" d="M3 7h5v2h-5z"></path>
+    <path class="iconic-expand-arrow iconic-expand-arrow-head iconic-property-accent iconic-property-fill" d="M7 11v-6l3 3z"></path>
+  </g>
+</svg>

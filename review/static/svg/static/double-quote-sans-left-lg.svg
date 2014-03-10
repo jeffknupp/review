@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="double-quote-sans-left" width="128" height="128" class="iconic iconic-double-quote-sans iconic-size-lg iconic-double-quote-sans-left" viewBox="0 0 128 128">
+  <g>
+    <title>Double Quote Sans Left</title>
+  </g>
+  <g data-width="108" data-height="80" class="iconic-container iconic-double-quote-sans-left" transform="translate(10 24 ) scale(1 1 ) ">
+    <path d="M108 78.5v-77c0-.8-.5-1-1.1-.5l-41.8 38c-.6.6-1.1 1.7-1.1 2.5v37c0 .8.7 1.5 1.5 1.5h41c.8 0 1.5-.7 1.5-1.5z" class="iconic-double-quote-sans-left-second iconic-property-fill"></path>
+    <path d="M44 78.5v-77c0-.8-.5-1-1.1-.5l-41.8 38c-.6.5-1.1 1.7-1.1 2.5v37c0 .8.7 1.5 1.5 1.5h41c.8 0 1.5-.7 1.5-1.5z" class="iconic-double-quote-sans-left-first iconic-property-fill"></path>
+  </g>
+</svg>

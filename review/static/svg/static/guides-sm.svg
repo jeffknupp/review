@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="guides" class="iconic iconic-guides iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Guides</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M15.5.5v1" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-x iconic-property-accent iconic-property-stroke" fill="none" d="M12.5.5v2" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M9.5.5v1" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-x iconic-property-accent iconic-property-stroke" fill="none" d="M6.5.5v2" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-x iconic-property-stroke" fill="none" d="M3.5.5v1" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-y iconic-property-accent iconic-property-stroke" fill="none" d="M.5 12.5h2" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-y iconic-property-stroke" fill="none" d="M.5 9.5h1" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-major iconic-guides-tick-y iconic-property-accent iconic-property-stroke" fill="none" d="M.5 6.5h2" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-tick iconic-guides-tick-minor iconic-guides-tick-y iconic-property-stroke" fill="none" d="M.5 3.5h1M.5 15.5h1" />
+    <path stroke="#000" stroke-linecap="square" stroke-miterlimit="10" class="iconic-guides-axes iconic-property-stroke" fill="none" d="M15.5.5h-15v15" />
+  </g>
+</svg>

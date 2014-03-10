@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="image-portrait" width="16" height="16" class="iconic iconic-image iconic-orientation-square iconic-size-sm iconic-image-portrait" viewBox="0 0 16 16">
+  <title>Image Portrait</title>
+  <defs>
+    <clipPath id="iconic-size-sm-image-portrait-clip-0">
+      <path d="M5.2 4l6.3 7.9v-7.9z"></path>
+    </clipPath>
+    <clipPath id="iconic-size-sm-image-portrait-clip-1">
+      <path d="M.5 4h11v11.5h-11z"></path>
+    </clipPath>
+  </defs>
+  <g data-width="12" data-height="16" class="iconic-container iconic-image-portrait" transform="scale(1 1 ) translate(2 ) ">
+    <path clip-path="url(#iconic-size-sm-image-portrait-clip-0)" class="iconic-image-portrait-mountain iconic-image-portrait-mountain-back iconic-property-accent iconic-property-fill" d="M17 16l-8-10-8 10z"></path>
+    <path clip-path="url(#iconic-size-sm-image-portrait-clip-1)" class="iconic-image-portrait-mountain iconic-image-portrait-mountain-front iconic-property-fill" d="M11.8 15l-8.8-11-8.8 11z"></path>
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-image-portrait-frame iconic-property-stroke" d="M.5.5h11v15h-11z" fill="none"></path>
+  </g>
+</svg>

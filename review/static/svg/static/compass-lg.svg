@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="compass" class="iconic iconic-compass iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Compass</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <circle stroke="#000" stroke-width="8" stroke-miterlimit="10" cx="64" cy="64" r="60" class="iconic-compass-body iconic-property-stroke" fill="none" />
+    <path d="M54 54l-20 40 40-20 20-40-40 20zm10 18c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z" class="iconic-compass-needle iconic-property-accent iconic-property-fill" />
+    <circle cx="64" cy="64" r="4" class="iconic-compass-needle-axis iconic-property-accent iconic-property-fill" />
+    <circle cx="64" cy="14" r="2" class="iconic-compass-direction iconic-compass-direction-north iconic-property-fill" />
+    <circle cx="14" cy="64" r="2" class="iconic-compass-direction iconic-compass-direction-west iconic-property-fill" />
+    <circle cx="114" cy="64" r="2" class="iconic-compass-direction iconic-compass-direction-east iconic-property-fill" />
+    <circle cx="64" cy="114" r="2" class="iconic-compass-direction iconic-compass-direction-south iconic-property-fill" />
+  </g>
+</svg>

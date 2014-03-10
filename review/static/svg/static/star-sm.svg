@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="star" class="iconic iconic-star iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Star</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path class="iconic-property-fill" d="M11 10l5-4h-6l-2-6-2 6h-6l5 4-2 6 5-4 5 4z" />
+  </g>
+</svg>

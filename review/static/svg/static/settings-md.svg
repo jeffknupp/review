@@ -1,0 +1,22 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="settings" class="iconic iconic-settings iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Settings</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-settings-clip-0">
+      <path d="M23.5 14c-2.5 0-4.5-2-4.5-4.5s2-4.5 4.5-4.5c1.4 0 2.7.7 3.5 1.7v-6.7h-27v6.7c.8-1 2.1-1.7 3.5-1.7 2.5 0 4.5 2 4.5 4.5s-2 4.5-4.5 4.5c-1.4 0-2.7-.7-3.5-1.7v19.7h27v-19.7c-.8 1-2.1 1.7-3.5 1.7zm-10 14c-2.5 0-4.5-2-4.5-4.5s2-4.5 4.5-4.5 4.5 2 4.5 4.5-2 4.5-4.5 4.5z"
+      />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="27" data-height="32" transform="translate(2)">
+    <path clip-path="url(#iconic-size-md-settings-clip-0)" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" class="iconic-settings-line iconic-settings-line-1 iconic-property-accent iconic-property-stroke" fill="none" d="M3.5 1.5v29"
+    />
+    <path clip-path="url(#iconic-size-md-settings-clip-0)" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" class="iconic-settings-line iconic-settings-line-2 iconic-property-accent iconic-property-stroke" fill="none" d="M13.5 1.5v29"
+    />
+    <path clip-path="url(#iconic-size-md-settings-clip-0)" stroke="#000" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" class="iconic-settings-line iconic-settings-line-3 iconic-property-accent iconic-property-stroke" fill="none" d="M23.5 1.5v29"
+    />
+    <path d="M23.5 6c-1.9 0-3.5 1.6-3.5 3.5s1.6 3.5 3.5 3.5 3.5-1.6 3.5-3.5-1.6-3.5-3.5-3.5z" class="iconic-settings-knob iconic-settings-knob-3 iconic-property-fill" />
+    <path d="M13.5 20c-1.9 0-3.5 1.6-3.5 3.5s1.6 3.5 3.5 3.5 3.5-1.6 3.5-3.5-1.6-3.5-3.5-3.5z" class="iconic-settings-knob iconic-settings-knob-2 iconic-property-fill" />
+    <path d="M3.5 6c-1.9 0-3.5 1.6-3.5 3.5s1.6 3.5 3.5 3.5 3.5-1.6 3.5-3.5-1.6-3.5-3.5-3.5z" class="iconic-settings-knob iconic-settings-knob-1 iconic-property-fill" />
+  </g>
+</svg>

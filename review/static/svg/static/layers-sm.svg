@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="layers" class="iconic iconic-layers iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Layers</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-layers-layer-back iconic-property-accent iconic-property-stroke" fill="none" d="M15.5 3v12.5h-12.5" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-layers-layer-middle iconic-property-accent iconic-property-stroke" fill="none" d="M13.5 1v12.5h-12.5" />
+    <path class="iconic-layers-layer-front iconic-property-fill" d="M0 0h12v12h-12z" />
+  </g>
+</svg>

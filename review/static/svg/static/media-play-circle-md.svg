@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="media-play-circle" class="iconic iconic-media-play-circle iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Media Play Circle</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="32">
+    <path d="M16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7.2-16-16-16zm-5 23v-14l14 7-14 7z" class="iconic-media-play-circle-body iconic-property-fill" />
+  </g>
+</svg>

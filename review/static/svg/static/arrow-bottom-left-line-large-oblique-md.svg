@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-bottom-left-line-large-oblique" width="32" height="32" class="iconic iconic-arrow iconic-size-md iconic-arrow-bottom-left-line-large-oblique" viewBox="0 0 32 32">
+  <g>
+    <title>Arrow Bottom Left Line Large Oblique</title>
+  </g>
+  <g data-width="32" data-height="32" data-default-max-height="19" class="iconic-container" transform="scale(1 1 ) translate(0 ) ">
+    <path stroke="#000" stroke-width="3" stroke-miterlimit="10" class="iconic-arrow-stem iconic-property-stroke" d="M0 9.5h29" fill="none" transform="rotate(135 16 16 ) translate(0 8 ) "></path>
+    <path class="iconic-arrow-head iconic-arrow-head-line-large-oblique iconic-property-fill" d="M32 9.5l-7-9.5h-3.5l7 9.5-7 9.5h3.5z" display="inline" transform="rotate(135 16 16 ) translate(0 8 ) "></path>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="nexus" width="128" height="128" class="iconic iconic-nexus" viewBox="0 0 128 128">
+  <g><title>Nexus</title></g>
+  <defs>
+    <clipPath id="iconic-size-lg-nexus-clip-0">
+      <path d="M0 0v128h64v-128h-64zm32 4c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm-20.9 2c.6 0 1 .4 1 1s-.4 1-1 1-1-.4-1-1 .4-1 1-1zm48.9 108h-56v-102h56v102z"/>
+    </clipPath>
+    <clipPath id="iconic-size-md-nexus-clip-0">
+      <path d="M0 0v32h16v-32h-16zm7.5 1h1c.3 0 .5.2.5.5s-.2.5-.5.5h-1c-.3 0-.5-.2-.5-.5s.2-.5.5-.5zm7.5 27h-14v-25h14v25z"/>
+    </clipPath>
+    <clipPath id="iconic-size-sm-nexus-clip-0">
+      <path d="M0 0v16h9v-16h-9zm8 14h-7v-12h7v12z"/>
+    </clipPath>
+  </defs>
+  <g data-width="64" data-height="128" class="iconic-lg iconic-container" display="inline" transform="translate(32)">
+    <path clip-path="url(#iconic-size-lg-nexus-clip-0)" d="M60.3 2.8c-.1 0-11.3-2.8-28.3-2.8s-28.2 2.8-28.3 2.8c-2.1.5-3.7 2.6-3.7 4.7v112.5c0 2.1 1.6 4.2 3.7 4.7.1 0 11.3 2.8 28.3 2.8s28.2-2.8 28.3-2.8c2.1-.5 3.7-2.6 3.7-4.7v-112.5c0-2.1-1.6-4.2-3.7-4.7z" class="iconic-nexus-body iconic-property-fill"/>
+    <path d="M46.5 107v1h-1.5v3h6v-1.5h1v-2.5h-5.5zm3.5 3h-4v-1h4v1z" class="iconic-nexus-button iconic-nexus-button-context iconic-property-fill"/>
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-nexus-button iconic-nexus-button-home iconic-property-stroke" d="M32 107.4l-2.5 1.1v2h5v-2z" fill="none"/>
+    <path fill="#0C0D07" d="M16.5 108h-2.8l.6-.6-.7-.7-1.9 1.9 1.9 1.9.7-.7-.6-.6h2.8c.3 0 .5.2.5.5s-.2.5-.5.5h-1.5v1h1.5c.8 0 1.5-.7 1.5-1.5s-.7-1.7-1.5-1.7z" class="iconic-nexus-button iconic-nexus-button-back iconic-property-fill"/>
+    <foreignObject class="iconic-nexus-screenshot-container" x="4" y="12" width="56" height="102">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:56px; height:102px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-nexus-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+  <g data-width="16" data-height="32" class="iconic-md iconic-container" display="none" transform="scale(4) translate(8)">
+    <path clip-path="url(#iconic-size-md-nexus-clip-0)" d="M15.4.8c-.1 0-3.2-.8-7.4-.8s-7.3.8-7.4.8c-.3.1-.6.4-.6.8v28.8c0 .4.3.7.6.8.2.1 3.2.8 7.4.8s7.2-.7 7.4-.8c.4-.1.6-.4.6-.8v-28.8c0-.4-.3-.7-.6-.8z" class="iconic-nexus-body iconic-property-fill"/>
+    <path class="iconic-nexus-button iconic-nexus-button-context iconic-property-fill" d="M11 26h2v1h-2z"/>
+    <path fill="#0C0D07" class="iconic-nexus-button iconic-nexus-button-back iconic-property-fill" d="M3 26.5l.5-.5h1.5v1h-1.5z"/>
+    <path class="iconic-nexus-button iconic-nexus-button-home iconic-property-fill" d="M8 26l-1 .5v.5h2v-.5z"/>
+    <foreignObject class="iconic-nexus-screenshot-container" x="1" y="3" width="14" height="25">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:14px; height:25px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-nexus-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+  <g data-width="9" data-height="16" class="iconic-sm iconic-container" display="none" transform="scale(8) translate(3)">
+    <path clip-path="url(#iconic-size-sm-nexus-clip-0)" d="M8.5.5c-.1 0-2-.5-4.1-.5-2.2 0-3.8.5-3.9.5-.3.1-.5.3-.5.6v13.7c0 .3.2.6.5.6.1 0 1.7.5 3.9.5s4-.5 4.1-.5c.3 0 .5-.2.5-.5v-13.8c0-.3-.2-.5-.5-.6z" class="iconic-nexus-body iconic-property-fill"/>
+    <path class="iconic-nexus-button iconic-nexus-button-context iconic-property-fill" d="M6 12h1v1h-1z"/>
+    <path fill="#0C0D07" class="iconic-nexus-button iconic-nexus-button-back iconic-property-fill" d="M2 12.5l.2-.5h.8v1h-.8z"/>
+    <path class="iconic-nexus-button iconic-nexus-button-home iconic-property-fill" d="M4.5 12l-.5.5v.5h1v-.5z"/>
+    <foreignObject class="iconic-nexus-screenshot-container" x="1" y="2" width="7" height="12">
+      <body xmlns="http://www.w3.org/1999/xhtml" style="position:inherit; width:7px; height:12px; margin:0px; padding:0px; background:none;">
+        <img class="iconic-nexus-screenshot" src="" style="display:block; max-width:100%; height:auto;"/>
+      </body>
+    </foreignObject>
+  </g>
+<script class="iconic-api" type="application/ecmascript">
+//<![CDATA[
+var iconicApis=window._Iconic?window._Iconic.smartIconApis:{};iconicApis["nexus"]=iconicApis["nexus"]||function(t){var e=function(e){t.setAttribute("data-screenshot",e);for(var i=t.querySelectorAll(".iconic-nexus-screenshot-container"),r=0;r<i.length;r++)i[r]&&i[r].style&&(i[r].style.display="none"),i[r]&&i[r].style&&(i[r].style.display="block");for(var n=t.querySelectorAll(".iconic-nexus-screenshot"),c=e?"none":"inline",a=t.querySelectorAll(".iconic-nexus-button"),r=0;r<a.length;r++)a[r].setAttribute("display",c);for(var r=0;r<n.length;r++)e&&""!==e?n[r].setAttribute("src",e):n[r].removeAttribute("src")},i=function(){var i=t.getAttribute("data-screenshot")||"";e(i)};return{update:i,setScreenshot:e}};
+//]]>
+</script>
+</svg>

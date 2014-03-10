@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="arrow-thick-left-line-large" width="32" height="32" class="iconic iconic-arrow-thick iconic-size-md iconic-arrow-thick-left-line-large" viewBox="0 0 32 32">
+  <g>
+    <title>Arrow Thick Left Line Large</title>
+  </g>
+  <g data-width="32" data-height="22" data-default-max-height="24" class="iconic-container" transform=" translate(0 5)">
+    <path stroke="#000" stroke-width="6" stroke-miterlimit="10" class="iconic-arrow-thick-stem iconic-property-stroke" d="M0 12h26" fill="none" transform=" rotate(180 16 16 ) translate(0 9)"></path>
+    <path class="iconic-arrow-thick-head iconic-arrow-thick-head-line-large iconic-property-fill" d="M32 12l-11-11h-8l11 11-11 11h8z" display="inline" transform=" rotate(180 16 16 ) translate(0 9)"></path>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="sun" class="iconic iconic-sun iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Sun</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path d="M64 30c-18.7 0-34 15.3-34 34s15.3 34 34 34 34-15.3 34-34-15.3-34-34-34z" class="iconic-property-fill" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-minor iconic-property-accent iconic-property-stroke" fill="none" d="M42.6 12.3l3.8 9.2" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-major iconic-property-accent iconic-property-stroke" fill="none" d="M34.3 34.3l-14.1-14.1" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-minor iconic-property-accent iconic-property-stroke" fill="none" d="M12.3 42.6l9.2 3.8" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-major iconic-property-accent iconic-property-stroke" fill="none" d="M22 64h-20" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-minor iconic-property-accent iconic-property-stroke" fill="none" d="M12.3 85.4l9.2-3.8" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-major iconic-property-accent iconic-property-stroke" fill="none" d="M34.3 93.7l-14.1 14.1" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-minor iconic-property-accent iconic-property-stroke" fill="none" d="M42.6 115.7l3.8-9.2" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-major iconic-property-accent iconic-property-stroke" fill="none" d="M64 106v20" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-minor iconic-property-accent iconic-property-stroke" fill="none" d="M85.4 115.7l-3.8-9.2" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-major iconic-property-accent iconic-property-stroke" fill="none" d="M107.8 107.8l-14.1-14.1" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-minor iconic-property-accent iconic-property-stroke" fill="none" d="M115.7 85.4l-9.2-3.8" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-major iconic-property-accent iconic-property-stroke" fill="none" d="M126 64h-20" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-minor iconic-property-accent iconic-property-stroke" fill="none" d="M115.7 42.6l-9.2 3.8" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-major iconic-property-accent iconic-property-stroke" fill="none" d="M107.8 20.2l-14.1 14.1" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-minor iconic-property-accent iconic-property-stroke" fill="none" d="M85.4 12.3l-3.8 9.2" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-sun-ray-major iconic-property-accent iconic-property-stroke" fill="none" d="M64 2v20" />
+  </g>
+</svg>

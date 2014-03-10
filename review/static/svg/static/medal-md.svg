@@ -1,0 +1,15 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="medal" class="iconic iconic-medal iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Medal</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-medal-clip-0">
+      <path d="M28 0l-6 10h-1l6-10h-22l6 10h-1l-6-10h-4v21h9.1c1.4-2.4 4-4 6.9-4s5.5 1.6 6.9 4h9.1v-21h-4z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="32" data-height="31">
+    <path d="M27.5 0h-23c-.3 0-.7.1-.9.3l-3.2 2.4c-.2.2-.3.5-.1.7l11.5 19.1c.1.2.4.3.7.1l3.2-2.4c.2-.2.3-.5.1-.7l-8.5-14.1c-.2-.2-.1-.4.2-.4h17c.3 0 .4.2.2.4l-8.5 14.1c-.1.2-.1.6.1.7l3.2 2.4c.2.2.5.1.7-.1l11.5-19.1c.1-.2.1-.6-.1-.7l-3.2-2.4c-.2-.2-.6-.3-.9-.3z"
+    clip-path="url(#iconic-size-md-medal-clip-0)" class="iconic-medal-band iconic-property-fill" />
+    <circle cx="16" cy="25" r="6" class="iconic-medal-medal iconic-property-fill" />
+  </g>
+</svg>

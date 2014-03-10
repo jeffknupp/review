@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="media-pause" width="16" height="16" class="iconic iconic-media iconic-size-sm iconic-media-pause" viewBox="0 0 16 16">
+  <g>
+    <title>Media Pause</title>
+  </g>
+  <g data-width="8" data-height="8" class="iconic-container iconic-media-pause" transform="scale(1 1 ) translate(4 4 ) ">
+    <path class="iconic-media-pause-line iconic-media-pause-line-left iconic-property-stroke" d="M1.5 0v8" stroke="#000" stroke-width="3" stroke-miterlimit="10" fill="none"></path>
+    <path class="iconic-media-pause-line iconic-media-pause-line-right iconic-property-stroke" d="M7.5 0v8" stroke="#000" stroke-width="3" stroke-miterlimit="10" fill="none"></path>
+  </g>
+</svg>

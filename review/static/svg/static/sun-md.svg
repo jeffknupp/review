@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="sun" class="iconic iconic-sun iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Sun</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="32">
+    <path d="M16 8c-4.4 0-8 3.6-8 8s3.6 8 8 8 8-3.6 8-8-3.6-8-8-8z" class="iconic-sun-center iconic-property-fill" />
+    <path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" class="iconic-sun-ray iconic-property-accent iconic-property-stroke" fill="none" d="M7.5 7.5l-2.1-2.1M4 16h-3M7.5 24.5l-2.1 2.1M16 28v3M26.6 26.6l-2.1-2.1M31 16h-3M26.6 5.4l-2.1 2.1M16 1v3"
+    />
+  </g>
+</svg>

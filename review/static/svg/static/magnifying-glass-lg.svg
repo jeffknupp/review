@@ -1,0 +1,17 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="magnifying-glass" class="iconic iconic-magnifying-glass iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Magnifying Glass</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-magnifying-glass-clip-0">
+      <path d="M95.7 83.7l-6.7 6.7-1.4-1.4 6.7-6.7-4.3-4.3-12 12 38 38 12-12z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="128">
+    <path stroke="#000" stroke-width="8" stroke-miterlimit="10" class="iconic-magnifying-glass-handle iconic-magnifying-glass-handle-connector iconic-property-stroke" fill="none" d="M85 85l-7.9-7.9" />
+    <path d="M126.9 117.1l-9.9 9.9c-.6.6-1.5.6-2.1 0l-35.8-35.9c-.6-.6-.6-1.5 0-2.1l9.9-9.9c.6-.6 1.5-.6 2.1 0l35.9 35.9c.5.5.5 1.5-.1 2.1z" clip-path="url(#iconic-size-lg-magnifying-glass-clip-0)" class="iconic-magnifying-glass-handle iconic-property-fill"
+    />
+    <circle stroke="#000" stroke-width="8" stroke-miterlimit="10" cx="46" cy="46" r="42" class="iconic-magnifying-glass-rim iconic-property-stroke" fill="none" />
+    <path fill="#fff" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M13 46c0-18.2 14.8-33 33-33" class="iconic-magnifying-glass-reflection iconic-property-accent iconic-property-stroke" />
+  </g>
+</svg>

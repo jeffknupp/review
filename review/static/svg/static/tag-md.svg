@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="tag" class="iconic iconic-tag iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Tag</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-md-tag-clip-0">
+      <path d="M12 0h-12v12l20 20 12-12-20-20zm-5.5 9c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5z" />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="32" data-height="32">
+    <path d="M11.5 0h-11c-.3 0-.5.2-.5.5v11c0 .3.2.7.4.9l19.3 19.3c.2.2.5.2.7 0l11.3-11.3c.2-.2.2-.5 0-.7l-19.3-19.3c-.2-.2-.6-.4-.9-.4z" clip-path="url(#iconic-size-md-tag-clip-0)" class="iconic-property-fill" />
+  </g>
+</svg>

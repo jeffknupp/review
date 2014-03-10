@@ -1,0 +1,27 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="camera-rangefinder" class="iconic iconic-camera-rangefinder iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Camera Rangefinder</title>
+  </g>
+  <defs>
+    <clipPath id="iconic-size-lg-camera-rangefinder-clip-0">
+      <path d="M0 78h128v2h-128v-2zm85.8-52c7.3 4.6 12.2 12.7 12.2 22 0 14.4-11.6 26-26 26-12.9 0-23.7-9.5-25.7-21.9-1.1 1.2-2.6 1.9-4.3 1.9-3.3 0-6-2.7-6-6s2.7-6 6-6c1.7 0 3.2.7 4.3 1.9 1.2-7.5 5.6-14 11.8-17.9h-58.1v50h128v-50h-42.2z" />
+    </clipPath>
+    <clipPath id="iconic-size-lg-camera-rangefinder-clip-1">
+      <path d="M48 2v4h-48v18h62c3.1-1.3 6.5-2 10-2s6.9.7 10 2h46v-22h-80zm-6 13.8c0 .1-.1.2-.2.2h-7.5c-.1 0-.2-.1-.2-.2v-3.5c0-.1.1-.2.2-.2h7.5c.1 0 .2.1.2.2v3.5zm48 2c0 .1-.1.2-.2.2h-13.6c-.1 0-.2-.1-.2-.2v-9.6c0-.1.1-.2.2-.2h13.5c.2 0 .3.1.3.2v9.6zm26 2c0 .1-.1.2-.2.2h-19.6c-.1 0-.2-.1-.2-.2v-13.6c0-.1.1-.2.2-.2h19.5c.1 0 .2.1.2.2v13.6z"
+      />
+    </clipPath>
+  </defs>
+  <g class="iconic-container" data-width="128" data-height="80" transform="translate(0 24)">
+    <path class="iconic-camera-rangefinder-controls iconic-camera-rangefinder-controls-shutter-release iconic-camera-rangefinder-controls-shutter-release-button iconic-property-fill" d="M18 0h8v4h-8z" />
+    <path class="iconic-camera-rangefinder-controls iconic-camera-rangefinder-controls-shutter-release iconic-camera-rangefinder-controls-shutter-release-base iconic-property-fill" d="M16 2h12v4h-12z" />
+    <path class="iconic-camera-rangefinder-controls iconic-camera-rangefinder-controls-shutter-speed-dial iconic-property-fill" d="M30 2h16v4h-16z" />
+    <path d="M38 48c0 2.2 1.8 4 4 4s4-1.8 4-4-1.8-4-4-4-4 1.8-4 4z" class="iconic-camera-rangefinder-controls iconic-camera-rangefinder-controls-lens-release iconic-property-fill" />
+    <path clip-path="url(#iconic-size-lg-camera-rangefinder-clip-0)" d="M125 80h-122c-1.7 0-3-1.3-3-3v-54c0-1.7 1.3-3 3-3h122c1.7 0 3 1.3 3 3v54c0 1.7-1.3 3-3 3z" class="iconic-camera-rangefinder-body iconic-camera-rangefinder-body-bottom iconic-property-fill"
+    />
+    <path clip-path="url(#iconic-size-lg-camera-rangefinder-clip-1)" d="M126.5 28h-125c-.8 0-1.5-.7-1.5-1.5v-19c0-.8.7-1.5 1.5-1.5h45c.8 0 1.5-.7 1.5-1.5v-1c0-.8.7-1.5 1.5-1.5h77c.8 0 1.5.7 1.5 1.5v23c0 .8-.7 1.5-1.5 1.5z" class="iconic-camera-rangefinder-body iconic-camera-rangefinder-body-top iconic-property-fill"
+    />
+    <path d="M72 24c-13.3 0-24 10.7-24 24s10.7 24 24 24 24-10.7 24-24-10.7-24-24-24zm0 46c-12.1 0-22-9.9-22-22s9.9-22 22-22 22 9.9 22 22-9.9 22-22 22z" class="iconic-camera-rangefinder-lens iconic-camera-rangefinder-lens-barrel iconic-property-fill" />
+    <path d="M72 28c-11 0-20 9-20 20s9 20 20 20 20-9 20-20-9-20-20-20zm0 4c-8.8 0-16 7.2-16 16 0 .6-.4 1-1 1s-1-.4-1-1c0-9.9 8.1-18 18-18 .6 0 1 .4 1 1s-.4 1-1 1z" class="iconic-camera-rangefinder-lens iconic-camera-rangefinder-lens-glass iconic-property-accent iconic-property-fill"
+    />
+  </g>
+</svg>

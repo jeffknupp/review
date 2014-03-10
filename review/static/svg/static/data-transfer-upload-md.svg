@@ -1,0 +1,9 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="data-transfer-upload" width="32" height="32" class="iconic iconic-data-transfer iconic-size-md iconic-data-transfer-upload" viewBox="0 0 32 32">
+  <g>
+    <title>Data Transfer Upload</title>
+  </g>
+  <g data-width="20" data-height="32" class="iconic-container iconic-upload" transform="scale(1 1 ) translate(6 ) ">
+    <path stroke="#000" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" class="iconic-upload-line iconic-property-accent iconic-property-stroke" d="M18.5 1.5h-17" fill="none"></path>
+    <path class="iconic-upload-arrow iconic-property-fill" d="M17 15l-7-9-7 9h4v17h6v-17z"></path>
+  </g>
+</svg>

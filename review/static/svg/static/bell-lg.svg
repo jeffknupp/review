@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="bell" class="iconic iconic-bell iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Bell</title>
+  </g>
+  <g class="iconic-container" data-width="112" data-height="128" transform="translate(8)">
+    <circle cx="56" cy="6" r="6" class="iconic-bell-crown iconic-property-fill" />
+    <path d="M100 82c-14.8-10.2-16-24.3-16-39.9v-4.1c0-15.5-12.5-28-28-28s-28 12.5-28 28v4.1c0 15.6-1.2 29.7-16 39.9-7.4 5.1-12 12.2-12 20v2h112v-2c0-7.8-4.6-14.9-12-20z" class="iconic-bell-body iconic-property-fill" />
+    <path d="M41.2 106c-.8 1.9-1.2 3.9-1.2 6 0 8.8 7.2 16 16 16s16-7.2 16-16c0-2.1-.4-4.1-1.2-6h-29.6z" class="iconic-bell-clapper iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

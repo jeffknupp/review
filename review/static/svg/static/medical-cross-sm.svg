@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="medical-cross" class="iconic iconic-medical-cross iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Medical Cross</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path class="iconic-property-fill" d="M16 5h-5v-5h-6v5h-5v6h5v5h6v-5h5z" />
+  </g>
+</svg>

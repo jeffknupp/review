@@ -1,0 +1,20 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="list-rich" class="iconic iconic-list-rich iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>List Rich</title>
+  </g>
+  <g class="iconic-container" data-width="120" data-height="128" transform="translate(4)">
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M56 102h62" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M56 112h46" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-line iconic-list-rich-line-3 iconic-property-stroke" fill="none" d="M56 122h56" />
+    <path d="M42.5 128h-41c-.8 0-1.5-.7-1.5-1.5v-29c0-.8.7-1.5 1.5-1.5h41c.8 0 1.5.7 1.5 1.5v29c0 .8-.7 1.5-1.5 1.5z" class="iconic-list-rich-list-group iconic-list-rich-list-group-3 iconic-list-rich-block iconic-property-accent iconic-property-fill"
+    />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M56 54h62" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M56 64h46" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-line iconic-list-rich-line-3 iconic-property-stroke" fill="none" d="M56 74h56" />
+    <path d="M42.5 80h-41c-.8 0-1.5-.7-1.5-1.5v-29c0-.8.7-1.5 1.5-1.5h41c.8 0 1.5.7 1.5 1.5v29c0 .8-.7 1.5-1.5 1.5z" class="iconic-list-rich-list-group iconic-list-rich-list-group-2 iconic-list-rich-block iconic-property-accent iconic-property-fill" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-line iconic-list-rich-line-3 iconic-property-stroke" fill="none" d="M56 26h56" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-line iconic-list-rich-line-2 iconic-property-stroke" fill="none" d="M56 16h46" />
+    <path stroke="#000" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-line iconic-list-rich-line-1 iconic-property-stroke" fill="none" d="M56 6h62" />
+    <path d="M42.5 32h-41c-.8 0-1.5-.7-1.5-1.5v-29c0-.8.7-1.5 1.5-1.5h41c.8 0 1.5.7 1.5 1.5v29c0 .8-.7 1.5-1.5 1.5z" class="iconic-list-rich-list-group iconic-list-rich-list-group-1 iconic-list-rich-block iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

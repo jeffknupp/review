@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="128" height="128" data-icon="pulse" class="iconic iconic-pulse iconic-size-lg" viewBox="0 0 128 128">
+  <g class="iconic-metadata">
+    <title>Pulse</title>
+  </g>
+  <g class="iconic-container" data-width="128" data-height="80" transform="translate(0 24)">
+    <path stroke="#000" stroke-width="8" stroke-linecap="square" stroke-miterlimit="10" class="iconic-property-stroke" fill="none" d="M124 52h-24l-10-18.5-18 36-22-58-24 58-8-17.5h-14" />
+  </g>
+</svg>

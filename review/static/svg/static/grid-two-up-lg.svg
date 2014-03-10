@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="grid-two-up" width="128" height="128" class="iconic iconic-grid iconic-orientation-square iconic-size-lg iconic-grid-two-up" viewBox="0 0 128 128">
+  <g>
+    <title>Grid Two Up</title>
+  </g>
+  <g data-width="128" data-height="128" class="iconic-container iconic-grid-two-up" transform="translate(0 ) scale(1 1 ) ">
+    <path d="M126.5 128h-55c-.8 0-1.5-.7-1.5-1.5v-55c0-.8.7-1.5 1.5-1.5h55c.8 0 1.5.7 1.5 1.5v55c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-two-up-item iconic-grid-two-up-item-4 iconic-grid-two-up-row-2 iconic-grid-two-up-column-2 iconic-property-fill"></path>
+    <path d="M56.5 128h-55c-.8 0-1.5-.7-1.5-1.5v-55c0-.8.7-1.5 1.5-1.5h55c.8 0 1.5.7 1.5 1.5v55c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-two-up-item iconic-grid-two-up-item-3 iconic-grid-two-up-row-2 iconic-grid-two-up-column-1 iconic-property-fill"></path>
+    <path d="M126.5 58h-55c-.8 0-1.5-.7-1.5-1.5v-55c0-.8.7-1.5 1.5-1.5h55c.8 0 1.5.7 1.5 1.5v55c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-two-up-item iconic-grid-two-up-item-2 iconic-grid-two-up-row-1 iconic-grid-two-up-column-2 iconic-property-fill"></path>
+    <path d="M56.5 58h-55c-.8 0-1.5-.7-1.5-1.5v-55c0-.8.7-1.5 1.5-1.5h55c.8 0 1.5.7 1.5 1.5v55c0 .8-.7 1.5-1.5 1.5z" class="iconic-grid-two-up-item iconic-grid-two-up-item-1 iconic-grid-two-up-row-1 iconic-grid-two-up-column-1 iconic-property-fill"></path>
+  </g>
+</svg>

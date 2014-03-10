@@ -1,0 +1,20 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" data-icon="bitcoin-address" class="iconic iconic-bitcoin-address iconic-size-sm" viewBox="0 0 16 16">
+  <g class="iconic-metadata">
+    <title>Bitcoin Address</title>
+  </g>
+  <g class="iconic-container" data-width="16" data-height="16">
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-address-square iconic-bitcoin-address-square-top-left iconic-bitcoin-address-square-top-left-outer iconic-property-stroke" fill="none" d="M.5.5h5v5h-5z" />
+    <path class="iconic-bitcoin-address-square iconic-bitcoin-address-square-top-left iconic-bitcoin-address-square-top-left-inner iconic-property-fill" d="M2 2h2v2h-2z" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-address-square iconic-bitcoin-address-square-top-right iconic-bitcoin-address-square-top-right-outer iconic-property-stroke" fill="none" d="M10.5.5h5v5h-5z" />
+    <path class="iconic-bitcoin-address-square iconic-bitcoin-address-square-top-right iconic-bitcoin-address-square-top-right-inner iconic-property-fill" d="M12 2h2v2h-2z" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-bitcoin-address-square iconic-bitcoin-address-square-bottom-left iconic-bitcoin-address-square-bottom-left-outer iconic-property-stroke" fill="none" d="M.5 10.5h5v5h-5z" />
+    <path class="iconic-bitcoin-address-square iconic-bitcoin-address-square-bottom-left iconic-bitcoin-address-square-bottom-left-inner iconic-property-fill" d="M2 12h2v2h-2z" />
+    <path d="M8 8v2h-1v-1h-3v-1h-1v-1h2v1h1v-1h1v1h1zm1-4v-2h-1v1h-1v2h1v-1h1zm-7 5h1v-1h-1v1zm-2 0h1v-1h1v-1h-2v2zm9 7v-1h-1v1h1zm0-16h-1v1h1v-1zm-2 1v1h1v-1h-1zm1 7h1v-3h-1v1h-1v1h1v1zm1 3v-1h-1v1h-1v4h1v-1h1v-1h-1v-1h2v-1h-1z" class="iconic-bitcoin-address-binary iconic-property-fill"
+    />
+    <path class="iconic-bitcoin-address-strike iconic-bitcoin-address-strike-bottom iconic-bitcoin-address-strike-left iconic-property-accent iconic-property-fill" d="M12 14h1v2h-1z" />
+    <path class="iconic-bitcoin-address-strike iconic-bitcoin-address-strike-bottom iconic-bitcoin-address-strike-right iconic-property-accent iconic-property-fill" d="M14 14h1v2h-1z" />
+    <path class="iconic-bitcoin-address-strike iconic-bitcoin-address-strike-top iconic-bitcoin-address-strike-left iconic-property-accent iconic-property-fill" d="M12 7h1v2h-1z" />
+    <path class="iconic-bitcoin-address-strike iconic-bitcoin-address-strike-top iconic-bitcoin-address-strike-right iconic-property-accent iconic-property-fill" d="M14 7h1v2h-1z" />
+    <path d="M16 14h-1v-2h1v2zm0-5h-1v2h1v-2zm-1 0v-1h-5v1h1v5h-1v1h5v-1h-3v-2h3v-1h-3v-2h3z" class="iconic-bitcoin-address-b iconic-property-accent iconic-property-fill" />
+  </g>
+</svg>

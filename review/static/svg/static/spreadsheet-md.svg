@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" data-icon="spreadsheet" class="iconic iconic-spreadsheet iconic-size-md" viewBox="0 0 32 32">
+  <g class="iconic-metadata">
+    <title>Spreadsheet</title>
+  </g>
+  <g class="iconic-container" data-width="32" data-height="30" transform="translate(0 1)">
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-spreadsheet-column iconic-spreadsheet-column-2 iconic-property-accent iconic-property-stroke" fill="none" d="M18.5 2v26" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-spreadsheet-column iconic-spreadsheet-column-1 iconic-property-accent iconic-property-stroke" fill="none" d="M7.5 1.5v27" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-spreadsheet-row iconic-spreadsheet-row-4 iconic-property-accent iconic-property-stroke" fill="none" d="M1.5 22.5h29" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-spreadsheet-row iconic-spreadsheet-row-3 iconic-property-accent iconic-property-stroke" fill="none" d="M1.5 17.5h29" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-spreadsheet-row iconic-spreadsheet-row-2 iconic-property-accent iconic-property-stroke" fill="none" d="M1.5 12.5h29" />
+    <path stroke="#000" stroke-miterlimit="10" class="iconic-spreadsheet-row iconic-spreadsheet-row-1 iconic-property-accent iconic-property-stroke" fill="none" d="M1.5 7.5h29" />
+    <path d="M29 3v24h-26v-24h26m2-3h-30c-.6 0-1 .4-1 1v28c0 .6.4 1 1 1h30c.6 0 1-.4 1-1v-28c0-.6-.4-1-1-1z" class="iconic-spreadsheet-frame iconic-property-fill" />
+  </g>
+</svg>
