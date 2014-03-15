@@ -5,7 +5,7 @@ from flask.ext.sqlalchemy import SQLAlchemy
 from flask.ext.login import login_required, login_user, logout_user, current_user
 from slugify import slugify
 
-from review.models import db, Review, Project, User
+from review.models import db, Review, ReviewMetric, Project, User
 from review.forms import LoginForm
 from review import app, bcrypt, login_manager
 
@@ -80,6 +80,8 @@ def upload_file():
         review = Review(
                 project=project,
                 author='Jeff Knupp',
+                overall_review=ReviewMetric(
+                    stars=request.form['project-rating']),
                 content=review_html)
         db.session.add(review)
         db.session.commit()
