@@ -35,6 +35,11 @@
                 </table>
                 <hr/>
                 <h3>Review</h3>
+                {% if review.review_date %}
+                <p>Review date: {{ review.review_date|naturaltime|safe}}</p>
+                {% else %}
+                <p>Review date: {{ review.review_date|safe}}</p>
+                {% endif %}
                 <p>{{ review.content|safe}}</p>
             </li>
     </ul>
