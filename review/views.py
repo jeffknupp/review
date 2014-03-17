@@ -6,7 +6,7 @@ from flask.ext.login import login_required, login_user, logout_user, current_use
 from slugify import slugify
 
 from review.models import db, Review, ReviewMetric, Project, User
-from review.forms import LoginForm
+from review.forms import LoginForm, SignupForm
 from review import app, bcrypt, login_manager
 
 @login_manager.user_loader
@@ -30,6 +30,22 @@ def login():
                     return redirect(request.args.get('next') or '/')
         flash('Invalid username or password')
     return render_template('login.html', form=form)
+
+@app.route("/signup", methods=["GET", "POST"])
+def signup():
+    """Signup a new user"""
+    form = SignupForm()
+    if request.method == 'POST':
+        if form.validate_on_submit():
+            email = form.email.data
+            password = form.password.data
+            user = User(email=email, password=bcrypt.generate_password_hash(password))
+            user.authenticated = True
+            db.session.add(user)
+            db.session.commit()
+            return redirect(request.args.get('next') or '/')
+        flash('Passwords do not match!')
+    return render_template('signup.html', form=form)
 
 @app.route('/')
 def review_list():

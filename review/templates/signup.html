@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form role="form" method="POST" action="/signup">
+    <div class="col-md-6 col-md-offset-3">
+        <div class="form-group">
+            {{ form.csrf_token }}
+            <label for="email">Email address</label>
+            <input class="form-control" name="email" id="email"></input>
+            <label for="password">Password</label>
+            <input type="password" class="form-control" name="password" id="passord"></input>
+            <label for="confirm_password">Confirm Password</label>
+            <input type="password" class="form-control" name="confirm_password" id="confirm_passord"></input>
+        </div>
+            <button type="submit" class="form-control">Sign Up</button>
+    </div>
+</form>
+{% endblock content %}
