@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32" data-icon="flag" data-container-transform="translate(2)" viewBox="0 0 32 32">
-  <g transform="translate(2)">
-    <path d="M1.5 0c-.8 0-1.5.4-1.5 1h3c0-.6-.7-1-1.5-1zm-1.5 2v30h3v-30h-3zm4 0v14h9v-11.687999999999999c0-.2.088-.4.188-.5l.625-.406c.1-.3.188-.394.188-.594 0-.2-.088-.4-.188-.5-.1-.1-.325-.313-.625-.313h-9.188zm10 3v14h13l-5-6.906 5-7.094h-13z" />
-  </g>
-</svg>

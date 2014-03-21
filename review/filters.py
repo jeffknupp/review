@@ -1,6 +1,6 @@
 import humanize
 def show_stars(score):
-    return ''.join(['<img data-src="/static/svg/smart/star.svg" class="iconic iconic-sm">' for _ in range(score)])
+    return ''.join(['<i class="fa fa-star"></i>' for _ in range(score)])
 
 def naturaltime(datetime):
     return humanize.naturaltime(datetime)

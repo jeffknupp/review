@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32" data-icon="eject" data-container-transform="translate(5 8)" viewBox="0 0 32 32">
-  <g transform="translate(5 8)">
-    <path d="M11 .25c-.15 0-.306.056-.406.156l-10.188 10.188c-.2.2-.206.406.094.406h21c.3 0 .294-.206.094-.406l-10.188-10.188c-.1-.1-.256-.156-.406-.156zm-11 12.75v3h22v-3h-22z" />
-  </g>
-</svg>

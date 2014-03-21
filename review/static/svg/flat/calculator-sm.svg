@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="16" height="16" data-icon="calculator" viewBox="0 0 16 16">
-  <g>
-    <path d="M.188 0c-.1 0-.188.087-.188.188v15.625c0 .1.087.188.188.188h14.625c.1 0 .188-.113.188-.313v-15.5c0-.1-.113-.188-.313-.188h-14.5zm1.813 2h11v3h-11v-3zm0 4h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm-9 3h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v5h-2v-5zm-9 3h2v2h-2v-2zm3 0h2v2h-2v-2zm3 0h2v2h-2v-2z"
-    />
-  </g>
-</svg>

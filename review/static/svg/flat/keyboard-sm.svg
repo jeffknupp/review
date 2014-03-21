@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="16" height="16" data-icon="keyboard" data-container-transform="translate(0 3)" viewBox="0 0 16 16">
-  <g transform="translate(0 3)">
-    <path d="M.313 0c-.2 0-.313.087-.313.188v8.625c0 .1.113.188.313.188h14.5c.1 0 .188-.113.188-.313v-8.5c0-.1-.088-.188-.188-.188h-14.5zm1.688 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-10 2h2v1h-2v-1zm3 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h2v1h-2v-1zm-9 2h1v1h-1v-1zm2 0h7v1h-7v-1zm8 0h1v1h-1v-1z"
-    />
-  </g>
-</svg>

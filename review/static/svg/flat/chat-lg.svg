@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="128" height="128" data-icon="chat" data-container-transform="translate(0 19)" viewBox="0 0 128 128">
-  <g transform="translate(0 19)">
-    <path d="M1.5 0c-.8 0-1.5.7-1.5 1.5v69c0 .8.4 1.006 1 .406l10-11.719c.5-.6 1.6-1.094 2.5-1.094h32.5v-42.094h34v-14.406c0-.9-.7-1.594-1.5-1.594h-77zm48 17.906c-.8.1-1.5.794-1.5 1.594v55c0 .8.7 1.5 1.5 1.5h65c.8 0 1.9.494 2.5 1.094l10 11.719c.5.6 1 .494 1-.406v-69c0-.8-.7-1.5-1.5-1.5h-77z"
-    />
-  </g>
-</svg>

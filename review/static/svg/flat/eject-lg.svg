@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="128" height="128" data-icon="eject" data-container-transform="translate(16 32)" viewBox="0 0 128 128">
-  <g transform="translate(16 32)">
-    <path d="M48 .656c-.375 0-.75.137-1 .438l-46 47.813c-.5.6-.3 1.094.5 1.094h93c.8 0 1-.494.5-1.094l-46-47.813c-.25-.3-.625-.438-1-.438zm-48 55.344v8h96v-8h-96z" />
-  </g>
-</svg>
