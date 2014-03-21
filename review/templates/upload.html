@@ -34,11 +34,19 @@ filename {
         <label for="project-source">Project Source</label>
         <input class="form-control" name="project-source" id="project-source"></input>
         <label for="project-documentation">Project Documentation</label>
-        <input class="form-control" name="project-documentation" id="project-documentation"></input>
+        <input class="form-control" name="project-documentation-link" id="project-documentation-link"></input>
         <label for="project-description">Project Description</label>
         <input class="form-control" name="project-description" id="project-description"></input>
-        <label for="project-rating">Project Rating</label>
-        <input class="form-control" name="project-rating" id="project-rating"></input>
+        {% for metric in ('documentation', 'project_infrastructure', 'ease_of_use', 'ease_of_contribution', 'code_quality', 'overall') %}
+        <label for="project-{{metric}}">{{metric|capitalize}}</label>
+        <select class="form-control" name="project-{{metric}}" id="project-{{metric}}">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+        {% endfor %}
         <label for="file">Upload review file</label>
         <p>
             <span class="btn btn-default btn-file">

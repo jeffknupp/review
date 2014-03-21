@@ -83,21 +83,31 @@ def upload_file():
     if request.method == 'POST':
         file_contents = request.files['file'].read()
         review_html = markdown.markdown(file_contents)
-        print request.form['project-name']
+        review_html = markdown.markdown(file_contents)
         project = Project(
                 name=request.form['project-name'],
                 author=request.form['project-author'],
                 description=request.form['project-description'],
                 source=request.form['project-source'],
                 slug=slugify(request.form['project-name']),
-                documentation=request.form['project-documentation'])
+                documentation=request.form['project-documentation-link'])
         db.session.add(project)
         db.session.commit()
         review = Review(
                 project=project,
                 author='Jeff Knupp',
                 overall_review=ReviewMetric(
-                    stars=request.form['project-rating']),
+                    stars=int(request.form['project-overall'])),
+                documentation_review=ReviewMetric(
+                    stars=int(request.form['project-documentation'])),
+                project_infrastructure_review=ReviewMetric(
+                    stars=int(request.form['project-project_infrastructure'])),
+                ease_of_use_review=ReviewMetric(
+                    stars=int(request.form['project-ease_of_use'])),
+                ease_of_contribution_review=ReviewMetric(
+                    stars=int(request.form['project-ease_of_contribution'])),
+                code_quality_review=ReviewMetric(
+                    stars=int(request.form['project-code_quality'])),
                 content=review_html)
         db.session.add(review)
         db.session.commit()
