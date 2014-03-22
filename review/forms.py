@@ -7,10 +7,9 @@ class LoginForm(Form):
     password = PasswordField('Password', validators=[DataRequired()])
 
 def passwords_match(form, field):
-		if form.password.data != field.data:
-			raise ValidationError("Passwords do not match")
+    if form.password.data != field.data:
+        raise ValidationError("Passwords do not match")
 
 class SignupForm(LoginForm):
-	confirm_password = PasswordField('Confirm Password', validators=[DataRequired(), passwords_match])
+    confirm_password = PasswordField('Confirm Password', validators=[DataRequired(), passwords_match])
 
-	
