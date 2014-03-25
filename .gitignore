@@ -1,3 +1,9 @@
 *.pyc
 .*sw[op]
 venv
+.idea/*
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
