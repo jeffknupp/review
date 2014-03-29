@@ -21,7 +21,6 @@ def login():
     if request.method == 'POST':
         if form.validate_on_submit():
             user = User.query.get(form.email.data)
-            print user
             if user and bcrypt.check_password_hash(user.password, form.password.data):
                 if login_user(user):
                     user.authenticated = True

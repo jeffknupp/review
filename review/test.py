@@ -1,17 +1,22 @@
 """Tests for review app."""
 
-from views import app
-from unittest2 import TestCase
+from .views import app
+import pytest
 
-class ReviewTest(TestCase):
-    
-    def setup(self):
-        self.app = app.test_client()
 
-    def test_simpe(self):
-        self.assertEquals(1 + 1, 2)
+def test_main_list():
+    """Can we successfully retrieve a list of reviews?"""
+    client = app.test_client()
+    response = client.get('/')
+    assert response.status_code == 200
+    assert 'Reviews' in response.data
 
-    def _test_main_list(self):
-        """Can we successfully retrieve a list of reviews?"""
-        response = self.app.get('/')
-        assert 'All Reviews' in response.data
+
+def test_simple():
+    assert 1 + 1 == 2
+
+
+if __name__ == '__main__':
+    pytest.main()
+
+
