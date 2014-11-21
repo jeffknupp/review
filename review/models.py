@@ -13,6 +13,7 @@ _REVIEW_METRICS = (
     'overall',
     )
 
+
 class Project(db.Model):
     __tablename__ = 'project'
     id = db.Column(db.Integer, primary_key=True)
@@ -23,12 +24,14 @@ class Project(db.Model):
     documentation = db.Column(db.String)
     slug = db.Column(db.String)
 
+
 class ReviewMetric(db.Model):
     __tablename__ = 'review_metric'
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String)
     stars = db.Column(db.Integer)
     content = db.Column(db.String)
+
 
 class Review(db.Model):
     __tablename__ = 'review'
@@ -38,11 +41,13 @@ class Review(db.Model):
     content = db.Column(db.String)
     project_id = db.Column(db.Integer, db.ForeignKey(Project.id))
     project = db.relationship('Project', backref=db.backref('review'))
-   
+
 for metric in _REVIEW_METRICS:
-    setattr(Review, metric + '_review_id', db.Column(db.Integer, db.ForeignKey(ReviewMetric.id)))
+    setattr(Review, metric + '_review_id',
+            db.Column(db.Integer, db.ForeignKey(ReviewMetric.id)))
     setattr(Review, metric + '_review', db.relationship('ReviewMetric',
-        foreign_keys=[getattr(Review, metric + '_review_id')]))
+            foreign_keys=[getattr(Review, metric + '_review_id')]))
+
 
 class User(db.Model):
     __tablename__ = 'user'
@@ -62,5 +67,5 @@ class User(db.Model):
 
     def get_id(self):
         return self.email
-    
+
 db.metadata.create_all(db.engine)

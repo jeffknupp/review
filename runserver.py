@@ -3,6 +3,7 @@ from flask import Flask
 
 from review import app
 
+
 def main():
     """Main entry point for script."""
     app.config['DEBUG'] = True

@@ -3,8 +3,9 @@
 from views import app
 from unittest2 import TestCase
 
+
 class ReviewTest(TestCase):
-    
+
     def setup(self):
         self.app = app.test_client()
 

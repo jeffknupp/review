@@ -1,5 +1,6 @@
 from review import app
 
+
 def get_app():
     """Return the application object."""
     return app
